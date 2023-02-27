@@ -1,0 +1,26 @@
+---
+title: Shoals Shark Biology and Conservation
+author: Julia Saltzman
+member: julia-saltzman
+tags:
+  - sharks and rays 
+  - shoals marine lab 
+  - teaching 
+  - graduate student life 
+---
+
+# Shark Biology and Conservation at Shoals Marine Lab 
+
+Last month, I was lucky enough to spend two weeks at [Shoals Marine Lab](https://www.shoalsmarinelaboratory.org/). Shoals is a research station which is centered around undergraduate education and is run collabratively by University of New Hampshire and Cornell University. I was the teaching assistant for their Shark Biology and Conservation course. This was awesome, because not only was I able to talk about my favorite thing (sharks) all day- but it also solidified that I do in fact love teaching. Throughout the two weeks, I spent time setting up labs, grading, assisting with project development, and talking with students about my scientific path! 
+<br>
+There were a lot of highlights over the course of the week- but I figured I would list my "top 10" experiences at Shoals. 
+1. Tagging and releasing two blue sharks! _My background is working with tropical shark species in Miami and the Bahamas, so working with blues was a first for me!_
+2. Learning how to use a rod and reel along side my students. _Surprisingly, I have never fished with a rod and reel! However, we had amazing success with "sabikis" fishing for Mackeral!_
+3. Working with skates for the first time! _Skates are a close cousin of sharks! We were working specifically with the little skate (Leucoraja erinacea)_
+4. Helping students develop their own independent research questions! _We had captive sharks and skates for our students to study a range of things from habitat preference to capture stress!_
+5. Leading disscussions about readings outside while watching the beautiful Appledore Island sunset. 
+6. Seeing all of our skate embryos hatch into adorable hatchlings! 
+7. Teaching students to take muscle biopsies from sharks and teleosts! _I was even able to take some samples for Stable Isotope Analysis!_
+8. Meeting the other awesome Shoals faculty and staff. 
+9. Working along side Maggie Winchester and Dr. Heather Marshall, two amazing women in shark science! 
+10. Showing my students how Shark Science is not all glam! I had the task of making "chum buckets" to help attract sharks during our fishing efforts. 

@@ -1,0 +1,27 @@
+---
+---
+
+@import "palettes";
+@import "theme";
+@import "mixins";
+
+.figure {
+  @include flex-center;
+  flex-direction: column;
+  @include big-margins;
+  @include trim-v-margins;
+
+ .figure_image {
+    img[data-default="true"] {
+      max-width: 40px;
+      max-height: 30px;
+    }
+  }
+
+  .figure_caption {
+    margin-top: 10px;
+    margin-bottom: 0;
+    font-style: italic;
+    text-align: center;
+  }
+}

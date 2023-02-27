@@ -1,0 +1,37 @@
+{%- if include.style == "small" -%}
+  {%- assign width = 100 -%}
+{%- else -%}
+  {%- assign width = 150 -%}
+{%- endif -%}
+
+{::nomarkdown}
+<a {% if include.link %}href="{{ include.link | relative_url }}"{% endif %} class="portrait" style="--width: {{ width }}px">
+
+  {%- assign placeholder = "images/placeholder.svg" | relative_url -%}
+
+  {%- if include.role -%}
+    {%- include role.html type=include.role -%}
+  {%- endif -%}
+
+  <span class="portrait_image">
+    <img
+      src="{{ include.image | relative_url }}"
+      onerror="this.src = '{{ placeholder }}'; this.onerror = null;"
+      loading="lazy"
+    >
+  </span>
+
+  {%- if include.name -%}
+    <span class="portrait_name">
+      {{ include.name }}
+    </span>
+  {%- endif -%}
+
+  {%- if include.description -%}
+    <span class="portrait_description">
+      {{ include.description }}
+    </span>
+  {%- endif -%}
+
+</a>
+{:/}

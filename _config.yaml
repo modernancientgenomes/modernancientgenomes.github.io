@@ -1,0 +1,88 @@
+# site properties and page defaults
+title: Quantitative Marine Ecology Lab
+description: quantitative ecology, fisheries, seafood, socio-ecological systems, science education
+header: images/background.png
+footer: images/background.png
+
+# site nav bar
+nav:
+  - link: publications
+    tooltip: Published works
+  - research:
+    tooltip: Research interests
+  - teaching:
+    tooltip: Teaching
+  - link: team
+    tooltip: About our team
+  - link: news
+    tooltip: News and commentary
+  - link: join
+    tooltip: Join the lab
+  - link: contact
+    tooltip: Email, address, and location
+
+
+# base directory where site is hosted
+logo: 
+header: images/background.png
+footer: images/background.png
+baseurl: /
+
+# site social media and other links
+links:
+  email: Easton.White@unh.edu 
+  google-scholar: A_g_ydoAAAAJ&hl
+  github: quantmarineecolab
+  twitter: eastonrwhite
+  instagram: quantmarineecolab
+
+### advanced settings
+
+# default front matter parameters for markdown files
+defaults:
+  # all markdown files
+  - scope:
+      path: ""
+    values:
+      layout: default
+  # markdown files in /_members
+  - scope:
+      type: "members"
+    values:
+      layout: member
+  # markdown files in /_posts
+  - scope:
+      type: "posts"
+    values:
+      layout: post
+
+# collections
+collections:
+  members:
+    output: true
+
+# sass settings
+sass:
+  sass_dir: css
+
+# syntax highlighting
+highlighter: rouge
+
+# plugins
+plugins:
+  - jekyll-redirect-from
+  - jekyll-feed
+  - jekyll-sitemap
+  # - jekyll-github-metadata
+  # - jekyll-avatar
+  # - jekyll-gist
+  # - jekyll-mentions
+  # - jekyll-relative-links
+  # - jemoji
+
+# jekyll theme
+theme: null
+
+
+# Google Analytics
+google_analytics: G-QF28DYFVNL

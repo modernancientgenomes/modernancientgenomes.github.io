@@ -1,0 +1,13 @@
+---
+---
+
+@import "palettes";
+@import "theme";
+@import "mixins";
+
+hr {
+  @include big-margins;
+  background: $gray-300;
+  border: none;
+  height: 1px;
+}
