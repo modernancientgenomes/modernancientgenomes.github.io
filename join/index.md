@@ -1,71 +1,76 @@
 ---
-title: Join
-nav:
-  order: 6
-  tooltip: Join the team
+title: Join the Team
 ---
 
-# <i class="fas join"></i>Join the Lab
+# <i class="fas fa-hands-helping"></i>Join the Team
 
+<!--
 
-All lab members must:
-- Be decent human beings (we don’t work with jerks) 
-- Have an interest in ecological systems **and** using quantitative tools (e.g., mathematical models, statistics, R)
-- Want to change the world
+### Programmers
 
-Members of the lab are strongly committed to anti-racist practices, real diversity and inclusion efforts, and moving science beyond the ivory tower.
+Our programmers contribute most of the code that goes into our production-ready servers, apps, and analytical pipelines.
+They are expected to maintain high standards of documentation, clarity, efficiency, and maintainability in their own code, and also help the other members of the lab achieve the same in their code.
 
-Our [lab handbook](https://github.com/QuantMarineEcoLab/lab-onboarding/blob/main/qmel-onboarding.md) is a living document and lays out expectations of lab members. 
+For the machine learning aspects of our work, we currently use a technology stack consisting of Python, numpy/scipy/scikit-learn/theano, and R with assorted packages.
+For web development, we currently use a technology stack consisting of Postgres, Python, Django, JavaScript, and React.
+Our data processing framework and webservers run on cloud instances, so experience with optimizing workloads for this type of environment is a plus.
 
-## Commitment to diversity, inclusion, and equity
+[Contact Casey]({{ site.baseurl }}/contact) to be notified when job postings are available.
 
-One of my main commitments as a faculty member is promoting and supporting diversity, equity, and inclusion in STEM. Please consider applying for a position in my lab if you are a first-generation college student, a student from a low-income background, a member of a racial or ethnic minority group, if you identify as a woman or as LGBTQ+, and/or if you have a disability.
+### Postdoctoral Researchers
 
+The Greene Lab welcomes applications for computational postdoctoral positions at the University of Pennsylvania Perelman School of Medicine.
+The overarching theme of our work is to transform how we understand complex biological systems by integrating big data from diverse sources and developing computational methods that effectively model real-world processes.
+We then put these methods into the hands of every biologist, through the development of usable open source tools, and the dissemination of successful applications.
 
+#### Objectives
 
-## Undergraduate students
+Postdocs in our lab contribute to the development of new analytical methods and/or the application of these methods to new datasets.
+Postdocs will have the opportunity to work with large collections of genomic data, both publicly available and from collaborative projects, and to extract testable biological hypotheses from these large collections.
+Research projects center around new computational methods to integrate genomic data as well as to incorporate additional environmental and phenotypic information with these genomic data.
+Postdocs are expected to contribute to the lab's culture of open scientific discovery and to share methodological advances and biological discoveries at both national and international venues.
 
-The lab often has openings for undergraduate students to contribute to projects or design a project for an undergraduate thesis/research experience. All students are paid or receive course credits. These projects are typically co-designed by the student, QMEL graduate students, and Professor Easton White. The undergraduate researcher role in the lab is more detailed in the [lab handbook](https://github.com/QuantMarineEcoLab/lab-onboarding/blob/main/qmel-onboarding.md#being-a-successful-undergraduate-researcher).
+#### Qualifications
 
-We take applications at any time, but interns typically start in January, June, or August. There are UNH student specific opportunities, but we also have openings for non-UNH students and recent graduates.
+1. Candidates are expected to have an MD, PhD, or equivalent, with a strong background in computer science, machine learning, statistics, genetics, bioinformatics, or closely related field and programming experience with attributable contributions to source code.
 
-The students most likely to be accepted for a position are those with a keen interest in developing quantitative skills in the context of marine systems.
+2. The ideal candidate will have a track record of scientific productivity and leadership, and will strive for robust and reproducible analytical workflows.
 
-After completing this [form](https://forms.gle/16fogrHEX7duePXw5), please send <Easton.White@unh.edu> a CV and brief introduction, including details of your prior research experience, as well as your research interests and goals and how you think these align with my research program.
+3. The ideal candidate will have experience handling large datasets in a UNIX/LINUX environment, experience with high performance cluster or cloud computing, and a knowledge of existing software packages used for machine learning.
 
+#### Pay and Benefits
 
-## Graduate students
+Postdoc positions in our lab start at a non-negotiable starting salary, which is currently $70,000 per year.
+These positions are considered [Postdoctoral Trainee Appointments at Penn](https://www.med.upenn.edu/postdoc/bpp-policies-table-of-contents-section-3.html), which makes the postdoc eligible for [an insurance plan](https://clients.garnett-powers.com/pd/upenn/) and other benefits, including the [New Child Leave Policy](https://www.med.upenn.edu/postdoc/bpp-policies-table-of-contents-section-3.html).
+Additional information about Biomedical Postdoc Positions at Penn is available on [the program website](https://www.med.upenn.edu/postdoc/).
 
-I am currently reviewing applications for Fall 2023. I will likely accept 1-2 additional graduate students to start in 2024. Applicants that will be the most competitive for a position will have experience (and willingness to learn more) with R, quantitative skills (e.g., mathematical modeling, statistics), and field work. A basic understanding of Spanish is a plus for some of the lab's projects. If you are interested, please send <Easton.White@unh.edu> a CV and brief introduction, including details of your prior research experience, as well as your research interests and graduate school goals and how you think these align with my research program. I am also open to chatting about potential projects related to other areas of my research program. 
+#### Applying
 
-I can accept students through [UNH's Biological Sciences MS and PhD programs.](https://colsa.unh.edu/biological-sciences) There are specific programs in Integrative Biology (IB) and Marine Biology (MB). The priority deadline for Fall admission is January 15th each year. Although less common, I can also accept student through the [Oceanography](https://ceps.unh.edu/earth-sciences/academics) and [Integrated Applied Mathematics](https://ceps.unh.edu/integrated-applied-mathematics/academics) programs at UNH. If you are interested in working with me, I strongly recommended that you reach out to me before applying for graduate study. Graduate work is typically funded through a combination of fellowships, research positions, and teaching assistantships. Currently, the minimum yearly salary for a graduate student in QMEL is $29,518 per year (including summer). The salary is increases each year and is higher if you already have a MS degree. Health insurance and tuition are also covered by the lab/university. When we make an offer to a graduate student, there funding, and funding source, is described in detail in an offer letter. 
+To apply, provide a CV, a one to two page statement of research interests, and the names and contact information for three references through [our application portal](https://greene-lab.breezy.hr/p/bf7972c74ec4).
 
-Depending on your specific interests, I might not be the best advisor for you at UNH. You may also want to reach out to [Dr. Melissa Aikens (plants, biology education)](https://colsa.unh.edu/person/melissa-aikens), [Dr. Elizabeth Fairchild (fish, fisheries)](https://colsa.unh.edu/person/elizabeth-fairchild), [Dr. Nathan Furey (fishes, sharks, animal movement)](https://colsa.unh.edu/person/nathan-furey), [Dr. Elizabeth Harvey (phytoplankton, harmful algal blooms)](https://colsa.unh.edu/person/elizabeth-harvey), [Dr. Brittany Jellison (marine invertebrates, intertidal systems, climate change)](https://colsa.unh.edu/person/brittany-jellison), [Dr. Gregg Moore (marine plants, restoration)](https://colsa.unh.edu/person/gregg-moore), and others in the [Biology Department](https://colsa.unh.edu/biological-sciences/people) or within the [College of Life Science And Agriculture](https://colsa.unh.edu/). 
+-->
 
+### Graduate Students
 
-## Postdoctoral fellows
+The University of Colorado has both an umbrella program and discipline-specific ones.
+The umbrella program is the [Biomedical Sciences Program](https://www.cuanschutz.edu/graduate-programs/biomedical-sciences-program/home).
+Our primary program affiliation is the University of Colorado's [Computational Biosciences Program](https://www.cuanschutz.edu/graduate-programs/computational-bioscience/home).
+We are also excited to welcome students who want to pursue computational research from [other graduate programs](https://www.cuanschutz.edu/graduate-programs) on a case-by-case basis.
 
-Conditional on funding, I will likely soon be looking for postdoctoral fellows to work on questions related to fisheries and disturbances, mathematical modeling of disturbances and socio-environmental systems, improving population monitoring and data collection, sustainable seafood, or synthesizing across socio-environmental fisheries. My background is in quantitative ecology with an emphasis on marine systems. However, my interests are broad and I am happy to discuss other project ideas further. I am also open to collaboratively working on proposals to help fund independent postdoctoral fellow positions through several different programs.
+Our goal is to help our students to develop both a deep familiarity with the computational methods required for data-intensive science and a strong understanding of one or more biological application areas.
+We provide training in all aspects through group meetings, individual meetings, and a supportive lab environment.
 
-- [Shoals Marine Lab Scientist-in-Residence Fellowship](https://www.shoalsmarinelaboratory.org/sirf) - due Apr 22nd
-- [Gund postdoctoral fellow program (based at the University of Vermont)](http://go.uvm.edu/nia9k) - due Nov 11th
-- [NSF Ocean Sciences postdoctoral fellow program (based anywhere)](https://beta.nsf.gov/funding/opportunities/ocean-sciences-postdoctoral-research-fellowships-oce-prf-0) - Due Nov 11th each year
-- [Fulbright Program](https://us.fulbrightonline.org/) - this is for non-US residents to study and work in the US - due in October each year
-- [Human Frontier Science Program postdoctoral fellowship](https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships) - intended for interdisciplinary scholars working in the life sciences - due August of each year
-- [Schmidt Science Fellows postdoctoral program](https://schmidtsciencefellows.org/selection/)
-- [Smith Fellowship program](https://conbio.org/mini-sites/smith-fellows) - Conservation-focused award due in October each year
-- [JSMF's Understanding Dynamic and Multi-scale Systems program](https://www.jsmf.org/apply/fellowship/) - Postdoc fellowship due in June each year
-- [JHU Early career researcher funding database](https://research.jhu.edu/rdt/funding-opportunities/early-career/) 
-- [Life Sciences Research Foundation](https://lsrf.org/apply/) - opens in August each year
-- [L'Oréal USA For Women in Science fellowship](https://www.loreal.com/en/usa/pages/group/fwis/) - Applications open in Fall each year
+If you have not yet joined one of the PhD programs above, the first step to joining our group is to apply and be admitted to one of these programs.
+If you are already a PhD student in one of the above programs and are interested in rotating in our lab, please [contact Casey]({{ site.baseurl }}/contact) to set up a time to discuss your interest.
 
-If you are interested, please send an email and CV to Easton White (<Easton.White@unh.edu>). 
+<!--
+### Undergraduate Students
 
+We welcome undergraduate students into our lab.
+Undergraduate researchers have become first authors on papers submitted on research that they performed as part of our group.
+We are happy to train undergraduates in many aspects of data-intensive biology, and we have high expectations for their level of commitment to research.
 
+If you are an undergraduate interested in discussing research opportunities please [contact Casey]({{ site.baseurl }}/contact).
+-->
 
-
-
-# Other positions at UNH
-
-Additional staff and faculty positions at UNH are posted to an [online job platform.](https://jobs.usnh.edu/) 
-
+{% include figure.html image="images/team/group-photo-3.jpg" width="100%" %}

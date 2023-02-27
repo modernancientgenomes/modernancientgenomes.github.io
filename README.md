@@ -1,20 +1,14 @@
-<h1 align="center">Quantitative Marine Ecology Lab</h1>
+### ⚠️ IMPORTANT 
 
-Our lab website draws heavily on the template created by the [Green Lab](https://github.com/greenelab/lab-website-template). The text is mostly written in markdown.
+If you are looking to make your own lab website, **do not use this repo as the template**, use the [Lab Website Template repo](https://github.com/greenelab/lab-website-template).
 
-## Documentation
+Furthermore, if you are trying to learn how to use the Lab Website Template, **do not use this repo as a standard reference**, use the [Lab Website Template's dedicated documentation](https://github.com/greenelab/lab-website-template/wiki) and [make an issue or discussion](https://github.com/greenelab/lab-website-template/wiki/Support) if you need more help.
 
-[🏠 Wiki Home](https://github.com/QuantMarineEcoLab/quantmarineecolab.github.io/wiki/)
+# Greene Lab Website
 
-[▶️ Get Started](https://github.com/QuantMarineEcoLab/quantmarineecolab.github.io/wiki/Getting-started)
+<img height="200" src="https://raw.githubusercontent.com/greenelab/brand/master/text/for-light-bg.png?raw=true" alt="Lab Website Template">
 
-[🗚 Basic Formatting](https://github.com/QuantMarineEcoLab/quantmarineecolab.github.io/wiki/Basic-formatting)
+This website was generated from the Greene Lab's own [Lab Website Template](https://github.com/greenelab/lab-website-template).
+See its [documentation](https://github.com/greenelab/lab-website-template/wiki) on how to work with this site.
 
-[📝 Building a profile page](https://github.com/QuantMarineEcoLab/quantmarineecolab.github.io/wiki/Building-a-profile-page)
-
-[🧱 Adding a blog or news post](https://github.com/QuantMarineEcoLab/quantmarineecolab.github.io/wiki/Adding-a-blog-or-news-post)
-
-[🤖 Adding a publication](https://github.com/QuantMarineEcoLab/quantmarineecolab.github.io/wiki/Adding-a-publication)
-
-[❓ Suggesting other edits](https://github.com/QuantMarineEcoLab/quantmarineecolab.github.io/wiki/Suggesting-edits-for-other-parts-of-the-website)
-
+[⭐ GreeneLab.com ⭐](https://greenelab.com/)

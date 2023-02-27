@@ -54,9 +54,7 @@ google-scholar:
   icon: fab fa-google
   text: Google Scholar
   tooltip: Google Scholar
-  link: https://scholar.google.com/citations?user=$LINK
-
-
+  link: https://scholar.google.com/citations?hl=en&user=$LINK
 
 github:
   icon: fab fa-github
@@ -95,19 +93,6 @@ linkedin:
   link: https://www.linkedin.com/in/$LINK
 
 # publications
-
-pdf:
-  icon: far fa-newspaper
-  text: pdf
-  tooltip: pdf
-  link: $LINK
-
-blog:
-  icon: fas fa-blog
-  text: blog
-  tooltip: blog
-  link: $LINK
-
 
 journal:
   icon: far fa-newspaper

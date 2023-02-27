@@ -1,31 +1,39 @@
 ---
 title: Contact
 nav:
-  order: 7
+  order: 5
   tooltip: Email, address, and location
+background: images/backgrounds/anschutz.jpg
 ---
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Biological Sciences](https://colsa.unh.edu/biological-sciences), at the [University of New Hampshire](https://www.unh.edu/). We are also affiliated with the [School of Marine Science and Ocean Engineering](https://marine.unh.edu/).
-We are located on the basement floor of Spaulding Hall.
+Our lab is part of the [University of Colorado School of Medicine](https://medschool.cuanschutz.edu/)'s [Department of Biochemistry and Molecular Genetics](https://medschool.cuanschutz.edu/biochemistry) and Center for Health AI.
+We are a geographically distributed team that is headquartered on the 6th Floor of the [Anschutz Health Sciences Building](https://www.ucdenver.edu/about/departments/FacilitiesManagement/FacilitiesProjects/ActiveProjects/Pages/AnschutzHealthSciencesBldg.aspx).
+
+{%
+  include figure.html
+  image="images/contact/health-ai-logo.png"
+  link="https://medschool.cuanschutz.edu/"
+  width="400px"
+%}
 
 {%
   include link.html
   type="email"
   icon=""
-  text="Easton.White@unh.edu"
+  text=site.links.email
   tooltip=""
-  link="Easton.White@unh.edu"
+  link=site.links.email
   style="button"
 %}
 {%
   include link.html
   type="phone"
   icon=""
-  text="(603) 862-4400"
+  text="(215) 573-2991"
   tooltip=""
-  link="+1-603-862-4400"
+  link="+1-215-573-2991"
   style="button"
 %}
 {%
@@ -34,24 +42,16 @@ We are located on the basement floor of Spaulding Hall.
   icon=""
   text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/Spaulding+Life+Sciences+Center/@43.1352016,-70.9367136,17z/data=!3m1!4b1!4m5!3m4!1s0x89e293bc50e412b9:0x187c7c86bbc71bd1!8m2!3d43.1352016!4d-70.9345249"
+  link="https://www.google.com/maps/place/Anschutz+Health+Sciences+Building/@39.7454721,-104.8418929,15z/data=!4m2!3m1!1s0x0:0x85f675e778fce18c?sa=X&ved=2ahUKEwjd_MfInpL6AhWEhIkEHd6WDIcQ_BJ6BAhkEAU"
   style="button"
 %}
 {:.center}
 
-
-
-### <i class="fas fa-mail-bulk"></i>Mailing Address
-
-Department of Biological Sciences  
-University of New Hampshire  
-Spaulding Hall  
-38 Academic Way  
-Durham, NH 03824  
-{:.center}
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slaH45F37-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-Lab logos and were designed by [Julia Saltzman](https://quantmarineecolab.github.io/members/julia-saltzman.html).
+{%
+  include gallery.html
+  image1="images/contact/AHSB.jpg"
+  image2="images/contact/cu-aerial.jpg"
+  image3="images/contact/cu-photo.jpg"
+  style="square"
+%}
 

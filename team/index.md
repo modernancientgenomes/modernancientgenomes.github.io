@@ -1,56 +1,34 @@
 ---
 title: Team
 nav:
-  order: 4
+  order: 3
   tooltip: About our team
+redirect_from:
+  - /lab-members
+  - /alums
+  - /mascots
+  - /staff
+  - /trainees
 ---
 
 # <i class="fas fa-users"></i>Team
 
-Our lab is made up of a collaborative and diverse team of scientists. We value and actively work to create a lab, university, and community that is more diverse, inclusive, and equitable.
+Our lab is made up of a highly engaged and collaborative team of researchers.
+We recognize that diverse teams do better research.
+We foster an environment where team members are treated equally, and where we respect and admire our differences.
+The team includes postdocs, students at all levels, staff, and our lab mascots.
 
+{% include list.html data="members" component="portrait" filters="role: pi, group: " %}
+{% include list.html data="members" component="portrait" filters="role: postdoc, group: " %}
+{% include list.html data="members" component="portrait" filters="role: phd, group: " %}
+{% include list.html data="members" component="portrait" filters="role: undergrad, group: " %}
+{% include list.html data="members" component="portrait" filters="role: programmer, group: " %}
+{% include list.html data="members" component="portrait" filters="role: mascot, group: " %}
 
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: pi, group: current"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: postdoc, group: current"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: grad, group: current"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: researcher, group: current"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: undergrad, group: current"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: mascot, group: current"
-%}
-{:.center}
+{% include section.html dark=true %}
 
-{% include section.html %}
-
-There are often openings for graduate students and postdoctoral fellows within the Quantitative Marine Ecology Lab. Please see the link below for more information. 
+We work with a wide range of outstanding groups from around the world, and we're always on the lookout for new and unique perspectives.
+We want to push the frontier of data science and train the next generation of data scientists.
 
 {%
   include link.html
@@ -61,56 +39,22 @@ There are often openings for graduate students and postdoctoral fellows within t
 %}
 {:.center}
 
-![First team photo](/images/blog_post_images/2021_retreat1.jpg "2021 team photo")
-
 {% include section.html %}
 
+## Alumni
 
+Gone but never forgotten.
+These are past lab members who have moved on to the [Childhood Cancer Data Lab](https://www.alexslemonade.org/data-lab), other school programs, new jobs, or elsewhere.
+They have all made lasting contributions to science and to our hearts. ❤️
 
-# Alumni
-
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: pi, group: alumni"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: postdoc, group: alumni"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: grad, group: alumni"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: researcher, group: alumni"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: undergrad, group: alumni"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: mascot, group: alumni"
-%}
-{:.center}
-
-
+{% include list.html data="members" component="portrait" filters="role: pi, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: postdoc, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: phd, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: undergrad, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: programmer, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: mascot, group: alum" style="small" %}
 
 {% include section.html %}
-
 
 ## Funding
 
@@ -119,38 +63,49 @@ Our work is made possible by funding from several organizations.
 
 {%
   include gallery.html
-  style="square"
 
-  image1="images/NSF_Logo.png"
-  link1="https://www.nsf.gov/"
-  tooltip1="National Science Foundation"
+  image1="images/team/gordon-and-betty-moore-foundation.png"
+  link1="https://www.moore.org/"
+  tooltip1="Gordon and Betty Moore Foundation"
 
-  image2="images/Gund_logo.png"
-  link2="https://www.uvm.edu/gund"
-  tooltip2="Gund Institute"
+  image2="images/team/national-cancer-institute.png"
+  link2="https://www.cancer.gov/"
+  tooltip2="National Cancer Institute"
 
-  image3="images/fulbright-logo.png"
-  link3="https://cies.org/"
-  tooltip3="Fulbright Program"
+  image3="images/team/alex's-lemonade-stand-foundation-for-childhood-cancer.png"
+  link3="https://www.alexslemonade.org/"
+  tooltip3="Alex's Lemonade Stand Foundation for Childhood Cancer"
 
-  image4="images/cdf_logo.png"
-  link4="https://darwinfoundation.org/en//"
-  tooltip4="Charles Darwin Foundation"
-  
-  image5="images/unh_logo.png"
-  link5="https://www.unh.edu/"
-  tooltip5="University of New Hampshire"
-  
-    image6="images/nhsg-logo-blue.png"
-  link6="https://seagrant.unh.edu/"
-  tooltip6="New Hampshire Sea Grant"
-  
-    image7="images/prep_horiz.png"
-  link7="https://prepestuaries.org/who-we-are/about-prep/"
-  tooltip7="Piscataqua Region Estuaries Partnership"
-  
-    image8="images/nhaes_logo.png"
-  link8="https://colsa.unh.edu/new-hampshire-agricultural-experiment-station"
-  tooltip8="New Hampshire Agricultural Experiment Station"
+  image4="images/team/chan-zuckerberg-initiative.png"
+  link4="https://chanzuckerberg.com/"
+  tooltip4="Chan Zuckerberg Initiative"
 
+  image5="images/team/cystic-fibrosis-foundation.png"
+  link5="https://www.cff.org/"
+  tooltip5="Cystic Fibrosis Foundation"
+
+  image6="images/team/alfred-p-sloan-foundation.png"
+  link6="https://sloan.org/"
+  tooltip6="Alfred P. Sloan Foundation"
+
+  image7="images/team/national-human-genome-research-institute.png"
+  link7="https://www.genome.gov/"
+  tooltip7="National Human Genome Research Institute"
+
+  image8="images/team/national-heart-lung-and-blood-institute.png"
+  link8="https://www.nhlbi.nih.gov/"
+  tooltip8="National Heart, Lung, and Blood Institute"
+
+  image9="images/team/national-institute-of-neurological-disorders-and-stroke.png"
+  link9="https://www.ninds.nih.gov/"
+  tooltip9="National Institute of Neurological Disorders and Stroke"
+%}
+
+{% include section.html %}
+
+{%
+  include figure.html
+  image="images/team/group-photo-2.jpg"
+  description="The Greene Lab in their natural Philadelphia habitat"
+  width="100%"
 %}

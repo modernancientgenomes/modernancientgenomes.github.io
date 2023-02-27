@@ -6,17 +6,17 @@ postdoc:
   icon: fas fa-glasses
   text: Postdoctoral Researcher
 
-grad:
+phd:
   icon: fas fa-graduation-cap
-  text: Grad Student
+  text: PhD Student
 
 undergrad:
   icon: fas fa-user-graduate
   text: Undergraduate Student
 
-researcher:
-  icon: fas fa-vial
-  text: Researcher
+programmer:
+  icon: fas fa-code
+  text: Programmer
 
 mascot:
   icon: fas fa-dog

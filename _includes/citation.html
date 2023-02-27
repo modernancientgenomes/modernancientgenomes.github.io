@@ -1,27 +1,19 @@
-<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
 {%- assign emptyarray = "" | split: "," -%}
-{%- assign id = include.id | default: "" -%}
-{%- assign citations = site.data.citations | default: emptyarray -%} 
+{%- assign output = site.auto-cite.output | default: "citations" | split: "/" | last | split: "." | pop | join: "" -%}
+{%- assign citations = site.data[output] | default: emptyarray -%} 
 
 {%- assign citation = nil -%}
 {%- for c in citations -%}
-  {%- if c.id == id -%}
+  {%- if c.id == include.lookup or c.title contains include.lookup -%}
     {%- assign citation = c -%}
+    {%- break -%}
   {%- endif -%}
 {%- endfor -%}
 
-{%- assign link = citation.link | default: "" -%}
-{%- assign image = citation.image | default: "" -%}
-{%- assign title = citation.title | default: "" -%}
-{%- assign authors = citation.authors | default: emptyarray -%}
-{%- assign publisher = citation.publisher | default: "" -%}
-{%- assign date = citation.date | default: "1900-01-01" -%}
-{%- assign tags = citation.tags | default: emptyarray -%}
-{%- assign repo = citation.repo | default: "" -%}
-{%- assign extra-links = citation.extra-links | default: emptyarray -%}
+{%- if citation -%}
+{%- else -%}
+  {%- assign citation = include -%}
+{%- endif -%}
 
 {%- assign rich = false -%}
 {%- if include.style == "rich" -%}
@@ -31,6 +23,9 @@
 {%- assign placeholder = "images/placeholder.svg" | relative_url -%}
 
 <div class="citation" data-style="{{ include.style }}">
+  {%- assign id = citation.id | default: "" -%}
+  {%- assign link = citation.link | default: "" -%}
+  {%- assign image = citation.image | default: "" -%}
   {%- if rich -%}
     <div class="citation_image">
       <a href="{{ link }}">
@@ -39,27 +34,40 @@
           onerror="this.src = '{{ placeholder }}'; this.onerror = null;"
           data-tooltip="{{ id }}"
           loading="lazy"
+          alt="Citation thumbnail"
         >
       </a>
     </div>
   {%- endif -%}
 
   <div class="citation_text">
+    {%- assign title = citation.title | default: "" -%}
     <div class="citation_title">
       <a href="{{ link }}">
         {{ title }}
       </a>
     </div>
+
+    {%- assign authors = citation.authors | default: emptyarray -%}
     <div
-      class="citation_authors {% if rich %}truncate{% endif %}"
-      {% if rich %}tabindex="0"{% endif %}
+      class="citation_authors truncate"
+      tabindex="0"
     >
       {{ authors | join: ", " }}
     </div>
+
+    {%- assign publisher = citation.publisher | default: "[no publisher info]" -%}
+    {%- assign date = citation.date | default: "[no date info]" -%}
     <div class="citation_details">
       {{ publisher }}&nbsp; · &nbsp;{{ date | date: "%d %b %Y" }}
     </div>
+
     {%- if rich -%}
+
+      {%- assign tags = citation.tags | default: emptyarray -%}
+      {%- assign repo = citation.repo | default: "" -%}
+      {%- assign extra-links = citation.extra-links | default: emptyarray -%}
+
       {%- include tags.html tags=tags repo=repo -%}
       <div class="citation_links">
         {%- for extra in extra-links -%}
@@ -70,16 +78,6 @@
           {%- include link.html type=type icon=icon text=text link=link -%}
         {%- endfor -%}
       </div>
-    {%- endif -%}  
+    {%- endif -%}
+  </div>
 </div>
-
-<div data-badge-popover="left" data-badge-type="medium-donut" data-doi="{{ id }}" data-hide-no-mentions="true" class="altmetric-embed"></div>
-
-
-<div class="__dimensions_badge_embed__" data-doi="{{ id }}"></div>
-
-</div>
-
-
-
-

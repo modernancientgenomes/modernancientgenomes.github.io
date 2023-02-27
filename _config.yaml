@@ -1,42 +1,34 @@
+### basic settings
+
 # site properties and page defaults
-title: Quantitative Marine Ecology Lab
-description: quantitative ecology, fisheries, seafood, socio-ecological systems, science education
-header: images/background.png
-footer: images/background.png
-
-# site nav bar
-nav:
-  - link: publications
-    tooltip: Published works
-  - research:
-    tooltip: Research interests
-  - teaching:
-    tooltip: Teaching
-  - link: team
-    tooltip: About our team
-  - link: news
-    tooltip: News and commentary
-  - link: join
-    tooltip: Join the lab
-  - link: contact
-    tooltip: Email, address, and location
-
-
-# base directory where site is hosted
-logo: 
-header: images/background.png
-footer: images/background.png
-baseurl: /
+title: The Greene Lab
+description: Where data and biology meet
+logo: images/logo.svg
+logo-text: false
+header: images/backgrounds/laptop-paper.jpg
+footer: images/backgrounds/laptop-paper.jpg
+baseurl: ""
 
 # site social media and other links
 links:
-  email: Easton.White@unh.edu 
-  google-scholar: A_g_ydoAAAAJ&hl
-  github: quantmarineecolab
-  twitter: eastonrwhite
-  instagram: quantmarineecolab
+  email: casey@greenelab.com
+  google-scholar: ETJoidYAAAAJ
+  github: greenelab
+  twitter: GreeneScientist
+  instagram: greenelab
 
 ### advanced settings
+
+# automatic citations
+auto-cite:
+  plugins:
+    - name: sources
+      input:
+        - ../_data/sources.yaml
+    - name: orcid
+      input:
+        - ../_data/orcid.yaml
+  output: ../_data/citations.yaml
 
 # default front matter parameters for markdown files
 defaults:
@@ -82,7 +74,3 @@ plugins:
 
 # jekyll theme
 theme: null
-
-
-# Google Analytics
-google_analytics: G-QF28DYFVNL
