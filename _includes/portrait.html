@@ -5,7 +5,6 @@
 {%- endif -%}
 
 {%- assign emptyarray = "" | split: "," -%}
-
 {%- assign id = include.slug | default: include.id | default: "" -%}
 {%- assign members = site.members | default: emptyarray -%} 
 

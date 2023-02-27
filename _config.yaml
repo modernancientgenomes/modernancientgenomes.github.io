@@ -1,21 +1,21 @@
 ### basic settings
 
 # site properties and page defaults
-title: The Greene Lab
-description: Where data and biology meet
-logo: images/logo.svg
-logo-text: false
-header: images/backgrounds/laptop-paper.jpg
-footer: images/backgrounds/laptop-paper.jpg
-baseurl: ""
+title: MMB-BioIT
+description: Website of the Medical Microbiology Bioinformatics group (MMB-BioIT) of the UMCU.
+logo: images/animated_logo_white.svg
+header: images/head_banner.jpg
+footer: images/head_banner.jpg
+baseurl: 
+
 
 # site social media and other links
 links:
-  email: casey@greenelab.com
-  google-scholar: ETJoidYAAAAJ
-  github: greenelab
-  twitter: GreeneScientist
-  instagram: greenelab
+  email: mmb-bioit@umcutrecht.nl
+  google-scholar: xh5gN60AAAAJ
+  github: mmb-umcu
+  gitlab: mmb-umcu
+  twitter: mmbbioit
 
 ### advanced settings
 
@@ -25,9 +25,6 @@ auto-cite:
     - name: sources
       input:
         - ../_data/sources.yaml
-    - name: orcid
-      input:
-        - ../_data/orcid.yaml
   output: ../_data/citations.yaml
 
 # default front matter parameters for markdown files
@@ -67,7 +64,7 @@ plugins:
   - jekyll-sitemap
   # - jekyll-github-metadata
   # - jekyll-avatar
-  # - jekyll-gist
+  - jekyll-gist
   # - jekyll-mentions
   # - jekyll-relative-links
   # - jemoji

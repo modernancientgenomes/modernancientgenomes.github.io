@@ -13,20 +13,14 @@
 
 
 <header {% if background %}class="background"{% endif %} {% if background %}style="--background: url('{{ background | relative_url }}')"{% endif %} data-dark="{{ dark }}">
-  {% include fullscreen.html %}
   <a
     href="{{ '/' | relative_url }}"
     class="logo_row"
     data-tooltip="Home"
   >
-    <object data="{{ site.logo | relative_url }}" class="logo" alt="Logo image"></object>
+    <img src="{{ site.logo | relative_url }}" class="logo" alt="Logo image" />
     {% if site.logo-text != false %}
-      <span class="logo_text">
-        <span class="logo_title">{{ site.title }}</span>
-        {% if site.subtitle %}
-          <span class="logo_subtitle">{{ site.subtitle }}</span>
-        {% endif %}
-      </span>
+      <span class="logo_text">{{ site.title }}</span>
     {% endif %}
   </a>
   <nav class="nav_row">

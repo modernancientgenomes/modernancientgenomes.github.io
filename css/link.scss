@@ -15,34 +15,32 @@ a:hover {
 }
 
 .link {
-  display: inline-flex;
-  justify-content: center;
-  align-items: center;
-  gap: 10px;
+  @include inline-flex-center;
   max-width: 100%;
   margin: 5px;
   padding: 5px;
-  font-size: 0.9rem;
+  font-size: 1rem;
   text-decoration: none;
-  vertical-align: middle;
+  vertical-align: bottom;
   transition: background $fast, color $fast, opacity $fast;
-
+  
   span {
     text-align: center;
     font-family: $sans;
     font-weight: $medium;
-    line-height: 1;
   }
 
-  &[data-flip="true"] {
-    flex-direction: row-reverse;
+  &[data-icon][data-text] {
+    & > *:first-child {
+      margin-right: 0.75em;
+    }
   }
 
   &[data-style="button"] {
     max-width: calc(100% - 10px - 10px);
     min-height: 40px;
     margin: 10px;
-    padding: 5px 10px;
+    padding: 7.5px 15px;
     border-radius: 5px;
     background: $accent;
     color: $white;

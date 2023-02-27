@@ -3,37 +3,28 @@ title: Contact
 nav:
   order: 5
   tooltip: Email, address, and location
-background: images/backgrounds/anschutz.jpg
 ---
 
 # <i class="fas fa-envelope"></i>Contact
-
-Our lab is part of the [University of Colorado School of Medicine](https://medschool.cuanschutz.edu/)'s [Department of Biochemistry and Molecular Genetics](https://medschool.cuanschutz.edu/biochemistry) and Center for Health AI.
-We are a geographically distributed team that is headquartered on the 6th Floor of the [Anschutz Health Sciences Building](https://www.ucdenver.edu/about/departments/FacilitiesManagement/FacilitiesProjects/ActiveProjects/Pages/AnschutzHealthSciencesBldg.aspx).
-
-{%
-  include figure.html
-  image="images/contact/health-ai-logo.png"
-  link="https://medschool.cuanschutz.edu/"
-  width="400px"
-%}
+Our lab is part of the group of [Prof. Rob Willems](https://www.umcutrecht.nl/en/Research/Researchers/Willems-Rob-RJL) of the [Department of Medical Microbiology](https://www.umcutrecht.nl/nl/over-ons-medische-microbiologie?lang=en), at the Division Laboratories, Pharmacy and Biomedical Genetics, [University Medical Center Utrecht](https://www.umcutrecht.nl/en).
+  
 
 {%
   include link.html
   type="email"
   icon=""
-  text=site.links.email
+  text=""
   tooltip=""
-  link=site.links.email
+  link="a.c.schurch@umcutrecht.nl"
   style="button"
 %}
 {%
   include link.html
   type="phone"
   icon=""
-  text="(215) 573-2991"
+  text=""
   tooltip=""
-  link="+1-215-573-2991"
+  link="+31887551318"
   style="button"
 %}
 {%
@@ -42,16 +33,39 @@ We are a geographically distributed team that is headquartered on the 6th Floor 
   icon=""
   text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/Anschutz+Health+Sciences+Building/@39.7454721,-104.8418929,15z/data=!4m2!3m1!1s0x0:0x85f675e778fce18c?sa=X&ved=2ahUKEwjd_MfInpL6AhWEhIkEHd6WDIcQ_BJ6BAhkEAU"
+  link="https://goo.gl/maps/NKyMyckT54guBjvz6"
   style="button"
 %}
 {:.center}
 
-{%
-  include gallery.html
-  image1="images/contact/AHSB.jpg"
-  image2="images/contact/cu-aerial.jpg"
-  image3="images/contact/cu-photo.jpg"
-  style="square"
-%}
+{% include section.html %}
 
+### <i class="fas fa-mail-bulk"></i>Mailing Address
+
+Heidelberglaan 100
+{:.center}
+
+3584 CX Utrecht
+{:.center}
+
+Internal mail no. G04.614
+{:.center}
+
+The Netherlands
+{:.center}
+
+{% capture col1 %}
+{%
+  include figure.html
+  image="images/robin-ooode-XusR7PXCV0o-unsplash.jpg"
+  caption="Utrecht by Robin Oode on Unsplash"
+%}
+{% endcapture %}
+{% capture col2 %}
+{%
+  include figure.html
+  image="images/bodi-raw-izMtCpq_RyI-unsplash.jpg"
+  caption="Utrecht by Bodi.raw on Unsplash"
+%}
+{% endcapture %}
+{% include two-col.html col1=col1 col2=col2 %}

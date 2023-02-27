@@ -1,14 +1,57 @@
-### ⚠️ IMPORTANT 
+<h1 align="center">Lab Website Template</h1>
+<p align="center">
+<img height="200" src="https://raw.githubusercontent.com/greenelab/lab-website-template/main/favicons/share-thumbnail.jpg?raw=true" alt="Lab Website Template">
+</p>
+An easy-to-use, flexible website template for labs, including automatic citations, GitHub tag imports, pre-built components, and more.
+Spend less time reinventing the wheel and more time running your lab.
 
-If you are looking to make your own lab website, **do not use this repo as the template**, use the [Lab Website Template repo](https://github.com/greenelab/lab-website-template).
+#### 🔔 Still in pre-release/preview. We need testers! 🔔
 
-Furthermore, if you are trying to learn how to use the Lab Website Template, **do not use this repo as a standard reference**, use the [Lab Website Template's dedicated documentation](https://github.com/greenelab/lab-website-template/wiki) and [make an issue or discussion](https://github.com/greenelab/lab-website-template/wiki/Support) if you need more help.
+Please help us out!
+How easy is the template to use?
+How flexible is it?
+How's our documentation?
 
-# Greene Lab Website
+## Features
 
-<img height="200" src="https://raw.githubusercontent.com/greenelab/brand/master/text/for-light-bg.png?raw=true" alt="Lab Website Template">
+- **Automatically generated citations** (using [Manubot](https://manubot.org)) from **just an identifier** (DOI, PubMed ID, and many more)
+- Automatically pull in and display tags from GitHub repositories
+- Works and looks good on all major desktop and mobile browsers
+- A suite of pre-built components:
+  - formatted tables and code blocks
+  - social media links with icons
+  - figures with captions
+  - image galleries
+  - multi-size cards with image and text
+  - citations
+  - ...[and many more](https://github.com/greenelab/lab-website-template/wiki/Components)!
+- A **home page**, where you can highlight the most important things that make your lab special
+- A **research page**, with a sorted, searchable list of all your published works
+- A **tools page**, where you can show off your software, datasets, or other useful things
+- A **team** page, compiled automatically from individual members
+- Individual **team member pages** with bios, assignable roles, and social media links
+- A **blog page**, with a sorted, grouped, tagged list of all your posts
 
-This website was generated from the Greene Lab's own [Lab Website Template](https://github.com/greenelab/lab-website-template).
-See its [documentation](https://github.com/greenelab/lab-website-template/wiki) on how to work with this site.
+## Gallery
 
-[⭐ GreeneLab.com ⭐](https://greenelab.com/)
+[🖼️ See who else is using the template and what it can do!](https://github.com/greenelab/lab-website-template/wiki/Gallery)
+
+## Documentation
+
+[▶️ Get Started](https://github.com/greenelab/lab-website-template/wiki/Get-Started)
+
+[🗚 Basic Formatting](https://github.com/greenelab/lab-website-template/wiki/Basic-Formatting)
+
+[📝 Basic Editing](https://github.com/greenelab/lab-website-template/wiki/Basic-Editing)
+
+[🤖 Automatic Citations](https://github.com/greenelab/lab-website-template/wiki/Automatic-Citations)
+
+[⚙️ Advanced Editing](https://github.com/greenelab/lab-website-template/wiki/Advanced-Editing)
+
+[🧱 Components](https://github.com/greenelab/lab-website-template/wiki/Components)
+
+[🧠 Background Knowledge](https://github.com/greenelab/lab-website-template/wiki/Background-Knowledge)
+
+[💡 Tips](https://github.com/greenelab/lab-website-template/wiki/Tips)
+
+[❓ Support](https://github.com/greenelab/lab-website-template/wiki/Support)

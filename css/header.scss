@@ -10,7 +10,6 @@ header {
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
-  gap: 20px;
   padding: 30px;
   color: $white;
   background: $gray-800;
@@ -21,48 +20,29 @@ header {
   }
 
   .logo_row {
-    display: inline-flex;
-    justify-content: center;
-    align-items: center;
-    gap: 20px;
+    @include inline-flex-center;
 
     .logo {
       max-width: 100%;
-      height: 100px;
-      z-index: -1;
+      height: 50px;
     }
-    
+
     .logo_text {
-      display: flex;
-      justify-content: flex-start;
-      flex-direction: column;
-      gap: 5px;
-      line-height: $spacing - 0.3;
-
-      .logo_title {
-        font-size: 1.5rem;
-      }
-
-      .logo_subtitle {
-        font-size: 0.9rem;
-        font-style: italic;
-        color: $gray-500;
-      }
+      margin: 10px;
+      font-size: 1.5rem;
+      text-align: center;
     }
   }
 
   .nav_row {
-    display: inline-flex;
-    justify-content: center;
-    align-items: center;
-    gap: 15px;
+    @include inline-flex-center;
+    font-size: 1rem;
     font-weight: $regular;
     text-transform: uppercase;
     letter-spacing: 1px;
 
     .link {
-      margin: 0;
-      font-size: 1rem;
+      margin: 0 10px;
     }
 
     &:hover .link {
@@ -82,8 +62,12 @@ header {
   // screen width where nav bar wraps to under logo
   // adjust based on width of your lab name and nav bar
   @media (max-width: 1000px) {
-    flex-direction: column;
-    align-items: stretch;
+    align-content: center;
+
+    .logo_row,
+    .nav_row {
+      width: 100%;
+    }
   }
 
   // screen width where logo and nav bar go from horizontal to vertical
@@ -91,55 +75,16 @@ header {
   @media (max-width: 700px) {
     .logo_row {
       flex-direction: column;
-
-      .logo_text {
-        text-align: center;
-        align-items: center;
-      }
     }
 
     .nav_row {
       flex-direction: column;
       justify-content: center;
+      width: 100%;
 
       .link {
         width: 100%;
       }
     }
-  }
-
-  // home page fullscreen styles, special to greenelab.com
-  &[data-fullscreen] {
-    transition: min-height $slow;
-  }
-
-  &[data-fullscreen="true"] {
-    justify-content: center;
-    min-height: 100vh;
-
-    .logo {
-      height: 200px;
-      animation: logo_zoom 2s ease forwards;
-
-      @keyframes logo_zoom {
-        0% {
-          transform: scale(2) translateX(14.666%);
-        }
-        50% {
-          transform: scale(1) translateX(14.666%);
-        }
-        100% {
-          transform: scale(1) translateX(0);
-        }
-      }
-    }
-
-    .nav_row {
-      display: none;
-    }
-  }
-
-  &[data-fullscreen="false"] {
-    min-height: 0;
   }
 }

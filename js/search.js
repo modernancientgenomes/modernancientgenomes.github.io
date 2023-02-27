@@ -3,18 +3,29 @@
 // syntax: term1 term2 "full phrase 1" "full phrase 2" "tag: tag 1"
 
 // components to filter
-const componentSelector = ".card, .citation, .post_excerpt";
+const componentQuery = ".card, .citation, .post_excerpt";
 // search box element
-const boxSelector = ".search_box";
+const boxQuery = ".search_box";
 // results info element
-const infoSelector = ".search_info";
-// tags element
-const tagSelector = ".tag";
+const infoQuery = ".search_info";
+// show info only if some items filtered or tags searched
+const smartInfo = true;
+
+// normalize tag string to lower-case, single-space-separated, trimmed, etc
+const cleanTag = (tag) =>
+  tag
+    .toLowerCase()
+    .split(/\s|-|,|tag:/g)
+    .map((w) => w.trim())
+    .filter((w) => w)
+    .join(" ");
 
 // split search query into terms, phrases, and tags
 const splitQuery = (query) => {
   // split into parts by spaces but preserve quoted sub-strings
-  const parts = query.match(/(".*?"|[^"\s]+)(?=\s*|\s*$)/g) || [];
+  const parts = (query.match(/(".*?"|[^"\s]+)(?=\s*|\s*$)/g) || [])
+    .map((string) => string.trim().toLowerCase())
+    .filter((string) => string);
 
   // bins
   const terms = [];
@@ -24,11 +35,11 @@ const splitQuery = (query) => {
   // put parts into bins
   for (let part of parts) {
     if (part.includes('"')) {
-      part = normalizeString(part);
-      if (part.indexOf("tag:") === 0) tags.push(part.replace(/tag:\s*/, ""));
+      part = part.split('"').join("");
+      if (part.indexOf("tag:") === 0) tags.push(cleanTag(part));
       else phrases.push(part);
     } else {
-      terms.push(normalizeString(part));
+      terms.push(part);
     }
   }
 
@@ -42,10 +53,10 @@ const componentMatches = (component, { terms, phrases, tags }) => {
 
   // check if text content exists in component
   const hasText = (string) =>
-    normalizeString(component.innerText).includes(string);
+    component.innerText.toLowerCase().includes(string);
   // check if text matches a tag in component
   const hasTag = (string) =>
-    componentTags.some((tag) => normalizeString(tag.innerText) === string);
+    componentTags.some((tag) => cleanTag(tag.innerText) === string);
 
   // show component if it has:
   // all terms AND at least one phrase AND at least one tag
@@ -58,12 +69,12 @@ const componentMatches = (component, { terms, phrases, tags }) => {
 
 // loop through components, hide/show based on query, and return results info
 const filterComponents = (parts) => {
-  let components = document.querySelectorAll(componentSelector);
+  let components = document.querySelectorAll(componentQuery);
 
   // results info
   let x = 0;
   let n = components.length;
-  let tags = parts.tags;
+  let t = parts.tags;
 
   // filter components
   for (const component of components) {
@@ -76,7 +87,7 @@ const filterComponents = (parts) => {
     }
   }
 
-  return [x, n, tags];
+  return [x, n, t];
 };
 
 // reset highlights
@@ -105,8 +116,8 @@ const highlightTerms = (component, { terms, phrases }) => {
 };
 
 // update search box
-const updateBox = (query = "") => {
-  const boxes = document.querySelectorAll(boxSelector);
+const updateBox = (query) => {
+  const boxes = document.querySelectorAll(boxQuery);
   for (const box of boxes) {
     const input = box.querySelector("input");
     const button = box.querySelector("button");
@@ -118,73 +129,61 @@ const updateBox = (query = "") => {
 };
 
 // update search results info
-const updateInfo = (query, x, n) => {
+const updateInfo = (x, n, t) => {
   // hide all info boxes
-  trueHide(infoSelector);
+  window.trueHide(infoQuery);
 
-  // hide info if nothing searched
-  if (!query.trim()) return;
+  // smart hide/show info
+  if (smartInfo && !(x < n || t.length)) return;
 
   // show
-  trueShow(infoSelector);
+  window.trueShow(infoQuery);
 
   // info template
   let info = "";
-  info += `Showing ${x.toLocaleString()} of ${n.toLocaleString()} results<br>`;
-  info += "<a href='./'>Clear search</a>";
+  info += `Showing ${x.toLocaleString()} of ${n.toLocaleString()}<br>`;
+  if (t.length) {
+    const s = t.length > 1 ? "s" : "";
+    t = t.map((tag) => `"${tag}"`).join(", ");
+    info += `With tag${s} ${t}`;
+  }
 
   // set info HTML string
-  document
-    .querySelectorAll(infoSelector)
-    .forEach((el) => (el.innerHTML = info));
+  document.querySelectorAll(infoQuery).forEach((el) => (el.innerHTML = info));
 };
 
-// update tag active color
-const updateTags = (query) => {
-  const { tags } = splitQuery(query);
-  document
-    .querySelectorAll(tagSelector)
-    .forEach(
-      (tag) =>
-        (tag.dataset.active = tags.includes(normalizeString(tag.innerText)))
-    );
+// util func to debounce search
+const debounce = (func, delay) => (...args) => {
+  window.clearTimeout(window.searchTimer);
+  window.searchTimer = window.setTimeout(() => func(...args), delay);
 };
 
 // search and filter components
-const searchComponents = (query = "") => {
+const searchComponents = debounce((query) => {
   resetHighlights();
   const parts = splitQuery(query);
-  const [x, n] = filterComponents(parts);
+  const [x, n, t] = filterComponents(parts);
   updateBox(query);
-  updateInfo(query, x, n);
-  updateTags(query);
-};
-
-// update url from search
-const updateUrl = (query = "") => {
-  const { origin, pathname } = window.location;
-  const url = origin + pathname + (query ? "?search=" + query : "");
-  window.history.replaceState(null, null, url);
-};
+  updateInfo(x, n, t);
+}, 200);
 
 // search based on url param
-const searchFromUrl = () => {
+const urlSearch = () => {
   const query = new URLSearchParams(window.location.search).get("search") || "";
-  searchComponents(query);
+  searchComponents(query.trim());
 };
 
 // when user types into search box
 const onSearchInput = (target) => {
-  debounce(() => searchComponents(target.value), 200, "searchDebounce");
-  debounce(() => updateUrl(target.value), 500, "urlDebounce");
+  searchComponents(target.value);
 };
 
 // when user clears search box with button
 const onSearchClear = () => {
-  debounce(searchComponents, 100, "searchDebounce");
-  debounce(updateUrl, 100, "urlDebounce");
+  searchComponents("");
 };
 
 // start script and add triggers
-window.addEventListener("load", searchFromUrl);
-window.addEventListener("tagsfetched", searchFromUrl);
+window.addEventListener("load", urlSearch);
+window.addEventListener("load", () => updateBox(""));
+window.addEventListener("tagsfetched", urlSearch);

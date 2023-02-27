@@ -3,40 +3,35 @@ title: Tools
 nav:
   order: 2
   tooltip: Software, datasets, and more
-redirect_from:
-  - /webservers
-  - /software
-  - /apps
 ---
 
-# <i class="fas fa-tools"></i>Tools
+# <i class="fas fa-tools"></i>Tools & Education
 
-All of our software, tools, datasets, etc. are 100% open-source, and free for anyone around the world to use and modify.
-We strive to make resources that are high quality in every aspect:
-cleanly written, robustly constructed and tested, well-documented, easy-to-use, accessible, customizable, and as effective as possible in real-world use.
+Hello fellow scientist! Welcome to our ‘Tools and Education’ section!
+
+In MMBioIT we actively develop tools for bacterial genomics, focusing on providing software that is easy to install and use. We strongly believe in transparent and collaborative science, and therefore all our tools are completely open-source. We encourage you to try our tools and, if you dare, suggest improvements for them.
+
+Are you a wet-labber? Are you interested in learning bioinformatics? Then you should check our Education section! You will find free courses to improve your bioinformatics skills.
+
 
 {% include search-info.html %}
 
 {% include section.html %}
 
-## Featured
+# Tools
 
-{% include list.html data="tools" component="card" filters="group: featured" %}
+## Whole Genome Sequencing
 
-{% include section.html %}
-
-## More
-
-{% include list.html data="tools" component="card" filters="group: more" style="small" %}
+{% include list.html component="card" data="tools" filters="group: wgs" %}
 
 {% include section.html %}
 
-## Affiliated Organizations
+## Metagenomics
 
-{% include list.html data="tools" component="card" filters="group: other" style="small" %}
+{% include list.html component="card" data="tools" filters="group: metagenomics" %}
 
 {% include section.html %}
 
-## Legacy
+# Educational resources
 
-{% include list.html data="tools" component="card" filters="group: legacy" style="small" %}
+{% include list.html component="card" data="tools" filters="group: education" %}
