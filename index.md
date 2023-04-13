@@ -2,9 +2,9 @@
 title: Home
 ---
 
-# MMB-BioIT
+# Modern and ancient Genomes
 
-The Medical Microbiology bioinformatics (MMB-BioIT) team from the University Medical Center Utrecht (UMCU) consists of researchers with different scientifical backgrounds. Our efforts are dedicated to develop and use bioinformatic tools that facilitate data analysis on large amounts of DNA sequences, including whole genome sequences (WGS), taxonomic profiling using 16S rRNA gene sequencing and metagenomic sequencing.
+The Modern and Ancient Genomes group is found at the Technical University of Denmark on the outskirts of Copenhagen. We are broadly interested in methods applied to next-generation sequencing data, genotyping, allele frequencies and resolved haplotypes from either modern and ancient genomes as we as sedimentary DNA. 
 
 
 {% include section.html full=true %}
