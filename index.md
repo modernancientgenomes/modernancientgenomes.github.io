@@ -43,9 +43,23 @@ Ancient DNA (aDNA) is degraded DNA extracted from fossils, museum samples etc. a
   text=text
 %}
 
+Ancient DNA (aDNA) is degraded DNA extracted from fossils, museum samples etc. aDNA offers an amazing opportunity to study ancient species but is plagued by fragmentation, short fragment length, chemical damage and contamination. Our group develops novel computational methods to deal with such idiosyncrasies.  
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/ancientDNA.png"
+  link="research"
+  headline="Microbiome analysis"
+  text=text
+%}
+
 {% capture text %}
 
-Allele frequencies
+Our group develops computational methods to analyze, store and use ancient allele frequencies. By studying genetic diversity in ancient populations, we can gain insights into the history and evolution of various species including humans. Our methods utilize advanced algorithms and statistical models to analyze large-scale datasets from modern and ancient sources.
+
+
 {:.center}
 {% endcapture %}
 
