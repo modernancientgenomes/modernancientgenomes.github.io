@@ -97,7 +97,7 @@ Our team consists of a diverse group of passionate scientists who possess unique
 
 {%
   include feature.html
-  image="images/earthDNA.jpg"
+  image="images/earthDNA.png"
   link="team"
   headline="Our Team"
   text=text
