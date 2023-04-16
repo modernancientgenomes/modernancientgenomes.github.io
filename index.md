@@ -66,7 +66,7 @@ Our group develops computational methods to analyze, store and use ancient allel
 
 {%
   include feature.html
-  image="images/brownian_motion_plot.png"
+  image="images/random_walks.png"
   link="research"
   headline="Allele frequencies"
   text=text
