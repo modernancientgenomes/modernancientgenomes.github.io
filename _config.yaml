@@ -1,8 +1,8 @@
 ### basic settings
 
 # site properties and page defaults
-title: MMB-BioIT
-description: Website of the Medical Microbiology Bioinformatics group (MMB-BioIT) of the UMCU.
+title: Modern and Ancient Genomes Group
+description: Website of the Modern and Ancient Genomes Group at DTU.
 logo: images/animated_logo_white.svg
 header: images/head_banner.jpg
 footer: images/head_banner.jpg
@@ -11,11 +11,11 @@ baseurl:
 
 # site social media and other links
 links:
-  email: mmb-bioit@umcutrecht.nl
-  google-scholar: xh5gN60AAAAJ
-  github: mmb-umcu
-  gitlab: mmb-umcu
-  twitter: mmbbioit
+  email: gabriel.reno@gmail.com
+  google-scholar: SyGfGqkAAAA
+  github: grenaud
+  gitlab: grenaud
+  twitter: gabrielylr
 
 ### advanced settings
 
