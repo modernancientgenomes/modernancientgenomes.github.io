@@ -157,7 +157,6 @@ references:
   - Helene Wilhelmson
   - Magdalena Buś
   - Peter Barros Damgaard
-    dropping-particle: de
   - Rui Martiniano
   - Gabriel Renaud
   - Claude Bhérer
@@ -242,10 +241,8 @@ references:
   - Lasse Vinner
   - Simon Rasmussen
   - Ashot Margaryan
-  - Peter Barros Damgaard
-    dropping-particle: de
-  - Constanza Fuente
-    dropping-particle: de la
+  - Peter de Barros Damgaard
+  - Constanza de la Fuente
   - Gabriel Renaud
   - literal: others
   issued:
@@ -782,8 +779,7 @@ references:
   - Anja Heinze
   - Gabriel Renaud
   - Peter H Sudmant
-  - Cesare Filippo
-    dropping-particle: de
+  - Cesare de Filippo
   - literal: others
   issued:
   - year: 2014
@@ -909,8 +905,7 @@ references:
   - Caroline Barbieri
   - Fabio Passetti
   - Maria S Pombo-de-Oliveira
-  - Brazilian Collaborative Study Group Infant Acute Leukemia
-    dropping-particle: of
+  - Brazilian Collaborative Study Group of Infant Acute Leukemia
   issued:
   - year: 2011
   title: Challenges in the use of NG2 antigen as a marker to predict MLL rearrangements
