@@ -1,23 +1,16 @@
 ---
+references:
 - id: vogel2023euka
   type: article-journal
-  author:
-  - family: Vogel
-    given: Nicola Alexandra
-  - family: Rubin
-    given: Joshua Daniel
-  - family: Swartz
-    given: Mikkel
-  - family: Vlieghe
-    given: Juliette
-  - family: Sackett
-    given: Peter Wad
-  - family: Pedersen
-    given: Anders Gorm
-  - family: Pedersen
-    given: Mikkel Winther
-  - family: Renaud
-    given: Gabriel
+  authors:
+  - Nicola Alexandra Vogel
+  - Joshua Daniel Rubin
+  - Mikkel Swartz
+  - Juliette Vlieghe
+  - Peter Wad Sackett
+  - Anders Gorm Pedersen
+  - Mikkel Winther Pedersen
+  - Gabriel Renaud
   issued:
   - year: 2023
   title: '<span class="nocase">euka: Robust detection of eukaryotic taxa from modern
@@ -28,17 +21,12 @@
 
 - id: thuesen2022benchmarking
   type: article-journal
-  author:
-  - family: Thuesen
-    given: Nikolas Hallberg
-  - family: Klausen
-    given: Michael Schantz
-  - family: Gopalakrishnan
-    given: Shyam
-  - family: Trolle
-    given: Thomas
-  - family: Renaud
-    given: Gabriel
+  authors:
+  - Nikolas Hallberg Thuesen
+  - Michael Schantz Klausen
+  - Shyam Gopalakrishnan
+  - Thomas Trolle
+  - Gabriel Renaud
   issued:
   - year: 2022
   title: <span class="nocase">Benchmarking freely available HLA typing algorithms
@@ -50,17 +38,12 @@
 
 - id: rubin2022haplocart
   type: article-journal
-  author:
-  - family: Rubin
-    given: Joshua D.
-  - family: Vogel
-    given: Nicola A.
-  - family: Gopalakrishnan
-    given: Shyam
-  - family: Sackett
-    given: Peter W.
-  - family: Renaud
-    given: Gabriel
+  authors:
+  - Joshua D. Rubin
+  - Nicola A. Vogel
+  - Shyam Gopalakrishnan
+  - Peter W. Sackett
+  - Gabriel Renaud
   issued:
   - year: 2022
   title: '<span class="nocase">HaploCart: Human mtDNA Haplogroup Classification Using
@@ -70,27 +53,17 @@
 
 - id: renaud2022unsupervised
   type: article-journal
-  author:
-  - family: Renaud
-    given: Gabriel
-  - family: Nørgaard
-    given: Maibritt
-  - family: Lindberg
-    given: Johan
-  - family: Grönberg
-    given: Henrik
-  - family: De Laere
-    given: Bram
-  - family: Jensen
-    given: Jørgen Bjerggaard
-  - family: Borre
-    given: Michael
-  - family: Andersen
-    given: Claus Lindbjerg
-  - family: Sørensen
-    given: Karina Dalsgaard
-  - family: Maretty
-    given: Lasse
+  authors:
+  - Gabriel Renaud
+  - Maibritt Nørgaard
+  - Johan Lindberg
+  - Henrik Grönberg
+  - Bram De Laere
+  - Jørgen Bjerggaard Jensen
+  - Michael Borre
+  - Claus Lindbjerg Andersen
+  - Karina Dalsgaard Sørensen
+  - Lasse Maretty
   - literal: others
   issued:
   - year: 2022
@@ -103,71 +76,39 @@
 
 - id: allentoft2022population
   type: article-journal
-  author:
-  - family: Allentoft
-    given: Morten E.
-  - family: Sikora
-    given: Martin
-  - family: Refoyo-Martı́nez
-    given: Alba
-  - family: Irving-Pease
-    given: Evan K.
-  - family: Fischer
-    given: Anders
-  - family: Barrie
-    given: William
-  - family: Ingason
-    given: Andrés
-  - family: Stenderup
-    given: Jesper
-  - family: Sjögren
-    given: Karl-Göran
-  - family: Pearson
-    given: Alice
-  - family: Mota
-    given: Barbara
-  - family: Paulsson
-    given: Bettina Schulz
-  - family: Halgren
-    given: Alma
-  - family: Macleod
-    given: Ruairidh
-  - family: Schjellerup Jørkov
-    given: Marie Louise
-  - family: Demeter
-    given: Fabrice
-  - family: Novosolov
-    given: Maria
-  - family: Sørensen
-    given: Lasse
-  - family: Nielsen
-    given: Poul-Otto
-  - family: Henriksen
-    given: Rasmus H.A.
-  - family: Vimala
-    given: Tharsika
-  - family: McColl
-    given: Hugh
-  - family: Margaryan
-    given: Ashot
-  - family: Ilardo
-    given: Melissa
-  - family: Vaughn
-    given: Andrew
-  - family: Mortensen
-    given: Morten Fischer
-  - family: Nielsen
-    given: Anne Birgitte
-  - family: Hede
-    given: Mikkel Ulfeldt
-  - family: Rasmussen
-    given: Peter
-  - family: Vinner
-    given: Lasse
-  - family: Renaud
-    given: Gabriel
-  - family: Stern
-    given: Aaron
+  authors:
+  - Morten E. Allentoft
+  - Martin Sikora
+  - Alba Refoyo-Martı́nez
+  - Evan K. Irving-Pease
+  - Anders Fischer
+  - William Barrie
+  - Andrés Ingason
+  - Jesper Stenderup
+  - Karl-Göran Sjögren
+  - Alice Pearson
+  - Barbara Mota
+  - Bettina Schulz Paulsson
+  - Alma Halgren
+  - Ruairidh Macleod
+  - Marie Louise Schjellerup Jørkov
+  - Fabrice Demeter
+  - Maria Novosolov
+  - Lasse Sørensen
+  - Poul-Otto Nielsen
+  - Rasmus H.A. Henriksen
+  - Tharsika Vimala
+  - Hugh McColl
+  - Ashot Margaryan
+  - Melissa Ilardo
+  - Andrew Vaughn
+  - Morten Fischer Mortensen
+  - Anne Birgitte Nielsen
+  - Mikkel Ulfeldt Hede
+  - Peter Rasmussen
+  - Lasse Vinner
+  - Gabriel Renaud
+  - Aaron Stern
   - literal: others
   issued:
   - year: 2022
@@ -177,35 +118,21 @@
 
 - id: hodgins2022ancient
   type: article-journal
-  author:
-  - family: Hodgins
-    given: Harold P
-  - family: Chen
-    given: Pengsheng
-  - family: Lobb
-    given: Briallen
-  - family: Tremblay
-    given: Benjamin JM
-  - family: Mansfield
-    given: Michael J
-  - family: Lee
-    given: Victoria CY
-  - family: Lee
-    given: Pyung-Gang
-  - family: Coffin
-    given: Jeffrey
-  - family: Wei
-    given: Xin
-  - family: Duggan
-    given: Ana T
-  - family: Dolphin
-    given: Alexis E
-  - family: Renaud
-    given: Gabriel
-  - family: Dong
-    given: Min
-  - family: C
-    given: Doxey Andrew
+  authors:
+  - Harold P Hodgins
+  - Pengsheng Chen
+  - Briallen Lobb
+  - Benjamin JM Tremblay
+  - Michael J Mansfield
+  - Victoria CY Lee
+  - Pyung-Gang Lee
+  - Jeffrey Coffin
+  - Xin Wei
+  - Ana T Duggan
+  - Alexis E Dolphin
+  - Gabriel Renaud
+  - Min Dong
+  - Doxey Andrew C
   issued:
   - year: 2022
   title: <span class="nocase">Ancient Clostridium DNA and variants of tetanus neurotoxins
@@ -215,44 +142,26 @@
 
 - id: margaryan2020population
   type: article-journal
-  author:
-  - family: Margaryan
-    given: Ashot
-  - family: Lawson
-    given: Daniel J
-  - family: Sikora
-    given: Martin
-  - family: Racimo
-    given: Fernando
-  - family: Rasmussen
-    given: Simon
-  - family: Moltke
-    given: Ida
-  - family: Cassidy
-    given: Lara M
-  - family: Jørsboe
-    given: Emil
-  - family: Ingason
-    given: Andrés
-  - family: Pedersen
-    given: Mikkel W
-  - family: Korneliussen
-    given: Thorfinn
-  - family: Wilhelmson
-    given: Helene
-  - family: Buś
-    given: Magdalena
-  - family: Barros Damgaard
-    given: Peter
+  authors:
+  - Ashot Margaryan
+  - Daniel J Lawson
+  - Martin Sikora
+  - Fernando Racimo
+  - Simon Rasmussen
+  - Ida Moltke
+  - Lara M Cassidy
+  - Emil Jørsboe
+  - Andrés Ingason
+  - Mikkel W Pedersen
+  - Thorfinn Korneliussen
+  - Helene Wilhelmson
+  - Magdalena Buś
+  - Peter Barros Damgaard
     dropping-particle: de
-  - family: Martiniano
-    given: Rui
-  - family: Renaud
-    given: Gabriel
-  - family: Bhérer
-    given: Claude
-  - family: Moreno-Mayar
-    given: J. Vı́ctor
+  - Rui Martiniano
+  - Gabriel Renaud
+  - Claude Bhérer
+  - J. Vı́ctor Moreno-Mayar
   - literal: others
   issued:
   - year: 2020
@@ -265,21 +174,14 @@
 
 - id: moreno2020likelihood
   type: article-journal
-  author:
-  - family: Moreno-Mayar
-    given: J Vı́ctor
-  - family: Korneliussen
-    given: Thorfinn Sand
-  - family: Dalal
-    given: Jyoti
-  - family: Renaud
-    given: Gabriel
-  - family: Albrechtsen
-    given: Anders
-  - family: Nielsen
-    given: Rasmus
-  - family: Malaspinas
-    given: Anna-Sapfo
+  authors:
+  - J Vı́ctor Moreno-Mayar
+  - Thorfinn Sand Korneliussen
+  - Jyoti Dalal
+  - Gabriel Renaud
+  - Anders Albrechtsen
+  - Rasmus Nielsen
+  - Anna-Sapfo Malaspinas
   issued:
   - year: 2020
   title: A likelihood method for estimating present-day human contamination in ancient
@@ -292,37 +194,22 @@
 
 - id: sandoval2019genetic
   type: article-journal
-  author:
-  - family: Sandoval-Velasco
-    given: Marcela
-  - family: Jagadeesan
-    given: Anuradha
-  - family: Ávila-Arcos
-    given: Marı́a C.
-  - family: Gopalakrishnan
-    given: Shyam
-  - family: Ramos-Madrigal
-    given: Jazmı́n
-  - family: Vı́ctor Moreno-Mayar
-    given: J.
-  - family: Renaud
-    given: Gabriel
-  - family: Cruz-Dávalos
-    given: Diana I.
-  - family: Johannesdóttir
-    given: Erna
-  - family: Watson
-    given: Judy
-  - family: Robson-Brown
-    given: Kate
-  - family: Pearson
-    given: Andrew
-  - family: Helgason
-    given: Agnar
-  - family: Gilbert
-    given: M. Thomas P.
-  - family: Schroeder
-    given: Hannes
+  authors:
+  - Marcela Sandoval-Velasco
+  - Anuradha Jagadeesan
+  - Marı́a C. Ávila-Arcos
+  - Shyam Gopalakrishnan
+  - Jazmı́n Ramos-Madrigal
+  - J. Vı́ctor Moreno-Mayar
+  - Gabriel Renaud
+  - Diana I. Cruz-Dávalos
+  - Erna Johannesdóttir
+  - Judy Watson
+  - Kate Robson-Brown
+  - Andrew Pearson
+  - Agnar Helgason
+  - M. Thomas P. Gilbert
+  - Hannes Schroeder
   issued:
   - year: 2019
   title: The genetic origins of Saint Helena’s liberated Africans
@@ -347,29 +234,19 @@
 
 - id: sikora2019population
   type: article-journal
-  author:
-  - family: Sikora
-    given: Martin
-  - family: Pitulko
-    given: Vladimir V
-  - family: Sousa
-    given: Vitor C
-  - family: Allentoft
-    given: Morten E
-  - family: Vinner
-    given: Lasse
-  - family: Rasmussen
-    given: Simon
-  - family: Margaryan
-    given: Ashot
-  - family: Barros Damgaard
-    given: Peter
+  authors:
+  - Martin Sikora
+  - Vladimir V Pitulko
+  - Vitor C Sousa
+  - Morten E Allentoft
+  - Lasse Vinner
+  - Simon Rasmussen
+  - Ashot Margaryan
+  - Peter Barros Damgaard
     dropping-particle: de
-  - family: Fuente
-    given: Constanza
+  - Constanza Fuente
     dropping-particle: de la
-  - family: Renaud
-    given: Gabriel
+  - Gabriel Renaud
   - literal: others
   issued:
   - year: 2019
@@ -382,13 +259,10 @@
 
 - id: mata2019repertoire
   type: article-journal
-  author:
-  - family: Mata
-    given: Xavier
-  - family: Renaud
-    given: Gabriel
-  - family: Mollereau
-    given: Catherine
+  authors:
+  - Xavier Mata
+  - Gabriel Renaud
+  - Catherine Mollereau
   issued:
   - year: 2019
   title: The repertoire of family A-peptide GPCRs in archaic hominins
@@ -399,17 +273,12 @@
 
 - id: renaud2019joint
   type: article-journal
-  author:
-  - family: Renaud
-    given: Gabriel
-  - family: Hanghøj
-    given: Kristian
-  - family: Korneliussen
-    given: Thorfinn Sand
-  - family: Willerslev
-    given: Eske
-  - family: Orlando
-    given: Ludovic
+  authors:
+  - Gabriel Renaud
+  - Kristian Hanghøj
+  - Thorfinn Sand Korneliussen
+  - Eske Willerslev
+  - Ludovic Orlando
   issued:
   - year: 2019
   title: Joint Estimates of Heterozygosity and Runs of Homozygosity for Modern and
@@ -420,15 +289,11 @@
 
 - id: hanghoj2019dammet
   type: article-journal
-  author:
-  - family: Hanghøj
-    given: Kristian
-  - family: Renaud
-    given: Gabriel
-  - family: Albrechtsen
-    given: Anders
-  - family: Orlando
-    given: Ludovic
+  authors:
+  - Kristian Hanghøj
+  - Gabriel Renaud
+  - Anders Albrechtsen
+  - Ludovic Orlando
   issued:
   - year: 2019
   title: 'DamMet: Ancient methylome mapping accounting for errors, true variants,
@@ -442,15 +307,11 @@
 
 - id: renaud2019authentication
   type: chapter
-  author:
-  - family: Renaud
-    given: Gabriel
-  - family: Schubert
-    given: Mikkel
-  - family: Sawyer
-    given: Susanna
-  - family: Orlando
-    given: Ludovic
+  authors:
+  - Gabriel Renaud
+  - Mikkel Schubert
+  - Susanna Sawyer
+  - Ludovic Orlando
   issued:
   - year: 2019
   title: Authentication and assessment of contamination in ancient DNA
@@ -460,27 +321,17 @@
 
 - id: damgaard2018137
   type: article-journal
-  author:
-  - family: Damgaard
-    given: Peter de Barros
-  - family: Marchi
-    given: Nina
-  - family: Rasmussen
-    given: Simon
-  - family: Peyrot
-    given: Michaël
-  - family: Renaud
-    given: Gabriel
-  - family: Korneliussen
-    given: Thorfinn
-  - family: Moreno-Mayar
-    given: José Victor
-  - family: Pedersen
-    given: Mikkel Winther
-  - family: Goldberg
-    given: Amy
-  - family: Usmanova
-    given: Emma
+  authors:
+  - Peter de Barros Damgaard
+  - Nina Marchi
+  - Simon Rasmussen
+  - Michaël Peyrot
+  - Gabriel Renaud
+  - Thorfinn Korneliussen
+  - José Victor Moreno-Mayar
+  - Mikkel Winther Pedersen
+  - Amy Goldberg
+  - Emma Usmanova
   - literal: others
   issued:
   - year: 2018
@@ -493,35 +344,21 @@
 
 - id: schroeder2018origins
   type: article-journal
-  author:
-  - family: Schroeder
-    given: Hannes
-  - family: Sikora
-    given: Martin
-  - family: Gopalakrishnan
-    given: Shyam
-  - family: Cassidy
-    given: Lara M
-  - family: Delser
-    given: Pierpaolo Maisano
-  - family: Velasco
-    given: Marcela Sandoval
-  - family: Schraiber
-    given: Joshua G
-  - family: Rasmussen
-    given: Simon
-  - family: Homburger
-    given: Julian R
-  - family: Ávila-Arcos
-    given: Marı́a C
-  - family: Allentoft
-    given: Morten E
-  - family: Moreno-Mayar
-    given: J Vı́ctor
-  - family: Renaud
-    given: Gabriel
-  - family: Gómez-Carballa
-    given: Alberto
+  authors:
+  - Hannes Schroeder
+  - Martin Sikora
+  - Shyam Gopalakrishnan
+  - Lara M Cassidy
+  - Pierpaolo Maisano Delser
+  - Marcela Sandoval Velasco
+  - Joshua G Schraiber
+  - Simon Rasmussen
+  - Julian R Homburger
+  - Marı́a C Ávila-Arcos
+  - Morten E Allentoft
+  - J Vı́ctor Moreno-Mayar
+  - Gabriel Renaud
+  - Alberto Gómez-Carballa
   - literal: others
   issued:
   - year: 2018
@@ -534,27 +371,17 @@
 
 - id: renaud2018improved
   type: article-journal
-  author:
-  - family: Renaud
-    given: Gabriel
-  - family: Petersen
-    given: Bent
-  - family: Seguin-Orlando
-    given: Andaine
-  - family: Bertelsen
-    given: Mads Frost
-  - family: Waller
-    given: Andrew
-  - family: Newton
-    given: Richard
-  - family: Paillot
-    given: Romain
-  - family: Bryant
-    given: Neil
-  - family: Vaudin
-    given: Mark
-  - family: Librado
-    given: Pablo
+  authors:
+  - Gabriel Renaud
+  - Bent Petersen
+  - Andaine Seguin-Orlando
+  - Mads Frost Bertelsen
+  - Andrew Waller
+  - Richard Newton
+  - Romain Paillot
+  - Neil Bryant
+  - Mark Vaudin
+  - Pablo Librado
   - literal: others
   issued:
   - year: 2018
@@ -567,9 +394,8 @@
 
 - id: renaud2017glactools
   type: article-journal
-  author:
-  - family: Renaud
-    given: Gabriel
+  authors:
+  - Gabriel Renaud
   issued:
   - year: 2017
   title: 'Glactools: A command-line toolset for the management of genotype likelihoods
@@ -582,27 +408,17 @@
 
 - id: duggan2017genetic
   type: article-journal
-  author:
-  - family: Duggan
-    given: Ana T
-  - family: Harris
-    given: Alison JT
-  - family: Marciniak
-    given: Stephanie
-  - family: Marshall
-    given: Ingeborg
-  - family: Kuch
-    given: Melanie
-  - family: Kitchen
-    given: Andrew
-  - family: Renaud
-    given: Gabriel
-  - family: Southon
-    given: John
-  - family: Fuller
-    given: Ben
-  - family: Young
-    given: Janet
+  authors:
+  - Ana T Duggan
+  - Alison JT Harris
+  - Stephanie Marciniak
+  - Ingeborg Marshall
+  - Melanie Kuch
+  - Andrew Kitchen
+  - Gabriel Renaud
+  - John Southon
+  - Ben Fuller
+  - Janet Young
   - literal: others
   issued:
   - year: 2017
@@ -613,33 +429,20 @@
 
 - id: sikora2017ancient
   type: article-journal
-  author:
-  - family: Sikora
-    given: Martin
-  - family: Seguin-Orlando
-    given: Andaine
-  - family: Sousa
-    given: Vitor C.
-  - family: Albrechtsen
-    given: Anders
-  - family: Korneliussen
-    given: Thorfinn
-  - family: Ko
-    given: Amy
-  - family: Rasmussen
-    given: Simon
-  - family: Dupanloup
-    given: Isabelle
-  - family: Nigst
-    given: Philip R
-  - family: Bosch
-    given: Marjolein D
-  - family: Renaud
-    given: Gabriel
-  - family: Allentoft
-    given: Morten E
-  - family: Margaryan
-    given: Ashot
+  authors:
+  - Martin Sikora
+  - Andaine Seguin-Orlando
+  - Vitor C. Sousa
+  - Anders Albrechtsen
+  - Thorfinn Korneliussen
+  - Amy Ko
+  - Simon Rasmussen
+  - Isabelle Dupanloup
+  - Philip R Nigst
+  - Marjolein D Bosch
+  - Gabriel Renaud
+  - Morten E Allentoft
+  - Ashot Margaryan
   - literal: others
   issued:
   - year: 2017
@@ -651,33 +454,20 @@
 
 - id: slon2017fourth
   type: article-journal
-  author:
-  - family: Slon
-    given: Viviane
-  - family: Viola
-    given: Bence
-  - family: Renaud
-    given: Gabriel
-  - family: Gansauge
-    given: Marie-Theres
-  - family: Benazzi
-    given: Stefano
-  - family: Sawyer
-    given: Susanna
-  - family: Hublin
-    given: Jean-Jacques
-  - family: Shunkov
-    given: Michail V.
-  - family: Derevianko
-    given: Anatoly P.
-  - family: Kelso
-    given: Janet
-  - family: Prüfer
-    given: Kay
-  - family: Meyer
-    given: Matthias
-  - family: Pääbo
-    given: Svante
+  authors:
+  - Viviane Slon
+  - Bence Viola
+  - Gabriel Renaud
+  - Marie-Theres Gansauge
+  - Stefano Benazzi
+  - Susanna Sawyer
+  - Jean-Jacques Hublin
+  - Michail V. Shunkov
+  - Anatoly P. Derevianko
+  - Janet Kelso
+  - Kay Prüfer
+  - Matthias Meyer
+  - Svante Pääbo
   issued:
   - year: 2017
   title: A fourth Denisovan individual
@@ -689,15 +479,11 @@
 
 - id: renaud2016gargammel
   type: article-journal
-  author:
-  - family: Renaud
-    given: Gabriel
-  - family: Hanghøj
-    given: Kristian
-  - family: Willerslev
-    given: Eske
-  - family: Orlando
-    given: Ludovic
+  authors:
+  - Gabriel Renaud
+  - Kristian Hanghøj
+  - Eske Willerslev
+  - Ludovic Orlando
   issued:
   - year: 2016
   title: 'Gargammel: A sequence simulator for ancient DNA'
@@ -710,43 +496,25 @@
 
 - id: mallick2016simons
   type: article-journal
-  author:
-  - family: Mallick
-    given: Swapan
-  - family: Li
-    given: Heng
-  - family: Lipson
-    given: Mark
-  - family: Mathieson
-    given: Iain
-  - family: Gymrek
-    given: Melissa
-  - family: Racimo
-    given: Fernando
-  - family: Zhao
-    given: Mengyao
-  - family: Chennagiri
-    given: Niru
-  - family: Nordenfelt
-    given: Susanne
-  - family: Tandon
-    given: Arti
-  - family: Skoglund
-    given: Pontus
-  - family: Lazaridis
-    given: Iosif
-  - family: Sankararaman
-    given: Sriram
-  - family: Fu
-    given: Qiaomei
-  - family: Rohland
-    given: Nadin
-  - family: Renaud
-    given: Gabriel
-  - family: Erlich
-    given: Yaniv
-  - family: Gallo
-    given: Carla
+  authors:
+  - Swapan Mallick
+  - Heng Li
+  - Mark Lipson
+  - Iain Mathieson
+  - Melissa Gymrek
+  - Fernando Racimo
+  - Mengyao Zhao
+  - Niru Chennagiri
+  - Susanne Nordenfelt
+  - Arti Tandon
+  - Pontus Skoglund
+  - Iosif Lazaridis
+  - Sriram Sankararaman
+  - Qiaomei Fu
+  - Nadin Rohland
+  - Gabriel Renaud
+  - Yaniv Erlich
+  - Carla Gallo
   - literal: others
   issued:
   - year: 2016
@@ -760,13 +528,10 @@
 
 - id: renaudracimo2016joint
   type: article-journal
-  author:
-  - family: Renaud\*
-    given: Gabriel
-  - family: Racimo\*
-    given: Fernando
-  - family: Slatkin
-    given: Montgomery
+  authors:
+  - Gabriel Renaud\*
+  - Fernando Racimo\*
+  - Montgomery Slatkin
   issued:
   - year: 2016
   title: Joint estimation of contamination, error and demography for nuclear DNA from
@@ -779,19 +544,13 @@
 
 - id: posth2016pleistocene
   type: article-journal
-  author:
-  - family: Posth
-    given: Cosimo
-  - family: Renaud
-    given: Gabriel
-  - family: Mittnik
-    given: Alissa
-  - family: Drucker
-    given: Dorothée G
-  - family: Rougier
-    given: Hélène
-  - family: Cupillard
-    given: Christophe
+  authors:
+  - Cosimo Posth
+  - Gabriel Renaud
+  - Alissa Mittnik
+  - Dorothée G Drucker
+  - Hélène Rougier
+  - Christophe Cupillard
   - literal: others
   issued:
   - year: 2016
@@ -805,15 +564,11 @@
 
 - id: renaud2015schmutzi
   type: article-journal
-  author:
-  - family: Renaud
-    given: Gabriel
-  - family: Slon
-    given: Viviane
-  - family: Duggan
-    given: Ana T.
-  - family: Kelso
-    given: Janet
+  authors:
+  - Gabriel Renaud
+  - Viviane Slon
+  - Ana T. Duggan
+  - Janet Kelso
   issued:
   - year: 2015
   title: '<span class="nocase">Schmutzi: estimation of contamination and endogenous
@@ -824,27 +579,17 @@
 
 - id: renaudsawyer2015nuclear
   type: article-journal
-  author:
-  - family: Renaud\*
-    given: Gabriel
-  - family: Sawyer\*
-    given: Susanna
-  - family: Viola
-    given: Bence
-  - family: Hublin
-    given: Jean-Jacques
-  - family: Theres-Gansauge
-    given: Marie
-  - family: Shunkovc
-    given: Michail
-  - family: Dereviankoc
-    given: Anatoly
-  - family: Pruefer
-    given: Kay
-  - family: Kelso
-    given: Janet
-  - family: Pääbo
-    given: Svante
+  authors:
+  - Gabriel Renaud\*
+  - Susanna Sawyer\*
+  - Bence Viola
+  - Jean-Jacques Hublin
+  - Marie Theres-Gansauge
+  - Michail Shunkovc
+  - Anatoly Dereviankoc
+  - Kay Pruefer
+  - Janet Kelso
+  - Svante Pääbo
   issued:
   - year: 2015
     month: 12
@@ -857,37 +602,22 @@
 
 - id: le2015kiwi
   type: article-journal
-  author:
-  - family: Le Duc
-    given: Diana
-  - family: Renaud
-    given: Gabriel
-  - family: Krishnan
-    given: Arunkumar
-  - family: Almén
-    given: Markus Sällman
-  - family: Huynen
-    given: Leon
-  - family: Prohaska
-    given: Sonja J.
-  - family: Ongyerth
-    given: Matthias
-  - family: Bitarello
-    given: Bárbara D.
-  - family: Schiöth
-    given: Helgi B.
-  - family: Hofreiter
-    given: Michael
-  - family: Stadler
-    given: Peter F.
-  - family: Prüfer
-    given: Kay
-  - family: Lambert
-    given: David
-  - family: Kelso
-    given: Janet
-  - family: Schöneberg
-    given: Torsten
+  authors:
+  - Diana Le Duc
+  - Gabriel Renaud
+  - Arunkumar Krishnan
+  - Markus Sällman Almén
+  - Leon Huynen
+  - Sonja J. Prohaska
+  - Matthias Ongyerth
+  - Bárbara D. Bitarello
+  - Helgi B. Schiöth
+  - Michael Hofreiter
+  - Peter F. Stadler
+  - Kay Prüfer
+  - David Lambert
+  - Janet Kelso
+  - Torsten Schöneberg
   issued:
   - year: 2015
   title: Kiwi genome provides insights into nocturnal adaptation
@@ -897,17 +627,12 @@
 
 - id: renaud2014deml
   type: article-journal
-  author:
-  - family: Renaud
-    given: Gabriel
-  - family: Stenzel
-    given: Udo
-  - family: Maricic
-    given: Tomislav
-  - family: Wiebe
-    given: Victor
-  - family: Kelso
-    given: Janet
+  authors:
+  - Gabriel Renaud
+  - Udo Stenzel
+  - Tomislav Maricic
+  - Victor Wiebe
+  - Janet Kelso
   issued:
   - year: 2015
     month: 3
@@ -920,17 +645,12 @@
 
 - id: renaud2014triefinder
   type: article-journal
-  author:
-  - family: Renaud\*
-    given: Gabriel
-  - family: LaFave\*
-    given: Matthew C
-  - family: Liang
-    given: Jin
-  - family: Wolfsberg
-    given: Tyra G
-  - family: Burgess
-    given: Shawn M
+  authors:
+  - Gabriel Renaud\*
+  - Matthew C LaFave\*
+  - Jin Liang
+  - Tyra G Wolfsberg
+  - Shawn M Burgess
   issued:
   - year: 2014
   title: 'TrieFinder: An efficient program for annotating Digital Gene Expression
@@ -944,13 +664,10 @@
 
 - id: renaud2014leehom
   type: article-journal
-  author:
-  - family: Renaud
-    given: Gabriel
-  - family: Stenzel
-    given: Udo
-  - family: Kelso
-    given: Janet
+  authors:
+  - Gabriel Renaud
+  - Udo Stenzel
+  - Janet Kelso
   issued:
   - year: 2014
     month: 10
@@ -963,27 +680,17 @@
 
 - id: lazaridis2014ancient
   type: article-journal
-  author:
-  - family: Lazaridis
-    given: Iosif
-  - family: Patterson
-    given: Nick
-  - family: Mittnik
-    given: Alissa
-  - family: Renaud
-    given: Gabriel
-  - family: Mallick
-    given: Swapan
-  - family: Kirsanow
-    given: Karola
-  - family: Sudmant
-    given: Peter H
-  - family: Schraiber
-    given: Joshua G
-  - family: Castellano
-    given: Sergi
-  - family: Lipson
-    given: Mark
+  authors:
+  - Iosif Lazaridis
+  - Nick Patterson
+  - Alissa Mittnik
+  - Gabriel Renaud
+  - Swapan Mallick
+  - Karola Kirsanow
+  - Peter H Sudmant
+  - Joshua G Schraiber
+  - Sergi Castellano
+  - Mark Lipson
   - literal: others
   issued:
   - year: 2014
@@ -998,23 +705,15 @@
 
 - id: lippold2014human
   type: article-journal
-  author:
-  - family: Lippold
-    given: Sebastian
-  - family: Xu
-    given: Hongyang
-  - family: Ko
-    given: Albert
-  - family: Li
-    given: Mingkun
-  - family: Renaud
-    given: Gabriel
-  - family: Butthof
-    given: Anne
-  - family: Schröder
-    given: Roland
-  - family: Stoneking
-    given: Mark
+  authors:
+  - Sebastian Lippold
+  - Hongyang Xu
+  - Albert Ko
+  - Mingkun Li
+  - Gabriel Renaud
+  - Anne Butthof
+  - Roland Schröder
+  - Mark Stoneking
   - literal: others
   issued:
   - year: 2014
@@ -1026,15 +725,11 @@
 
 - id: renaud2013freeibis
   type: article-journal
-  author:
-  - family: Renaud
-    given: Gabriel
-  - family: Kircher
-    given: Martin
-  - family: Stenzel
-    given: Udo
-  - family: Kelso
-    given: Janet
+  authors:
+  - Gabriel Renaud
+  - Martin Kircher
+  - Udo Stenzel
+  - Janet Kelso
   issued:
   - year: 2013
     month: 5
@@ -1047,41 +742,24 @@
 
 - id: castellano2014patterns
   type: article-journal
-  author:
-  - family: Castellano
-    given: Sergi
-  - family: Parra
-    given: Genı́s
-  - family: Sánchez-Quinto
-    given: Federico A
-  - family: Racimo
-    given: Fernando
-  - family: Kuhlwilm
-    given: Martin
-  - family: Kircher
-    given: Martin
-  - family: Sawyer
-    given: Susanna
-  - family: Fu
-    given: Qiaomei
-  - family: Heinze
-    given: Anja
-  - family: Nickel
-    given: Birgit
-  - family: Dabney
-    given: Jesse
-  - family: Siebauer
-    given: Michael
-  - family: White
-    given: Louise
-  - family: Burbano
-    given: Hernán A
-  - family: Renaud
-    given: Gabriel
-  - family: Stenzel
-    given: Udo
-  - family: Lalueza-Fox
-    given: Carles
+  authors:
+  - Sergi Castellano
+  - Genı́s Parra
+  - Federico A Sánchez-Quinto
+  - Fernando Racimo
+  - Martin Kuhlwilm
+  - Martin Kircher
+  - Susanna Sawyer
+  - Qiaomei Fu
+  - Anja Heinze
+  - Birgit Nickel
+  - Jesse Dabney
+  - Michael Siebauer
+  - Louise White
+  - Hernán A Burbano
+  - Gabriel Renaud
+  - Udo Stenzel
+  - Carles Lalueza-Fox
   - literal: others
   issued:
   - year: 2014
@@ -1094,27 +772,17 @@
 
 - id: prufer2014complete
   type: article-journal
-  author:
-  - family: Prüfer
-    given: Kay
-  - family: Racimo
-    given: Fernando
-  - family: Patterson
-    given: Nick
-  - family: Jay
-    given: Flora
-  - family: Sankararaman
-    given: Sriram
-  - family: Sawyer
-    given: Susanna
-  - family: Heinze
-    given: Anja
-  - family: Renaud
-    given: Gabriel
-  - family: Sudmant
-    given: Peter H
-  - family: Filippo
-    given: Cesare
+  authors:
+  - Kay Prüfer
+  - Fernando Racimo
+  - Nick Patterson
+  - Flora Jay
+  - Sriram Sankararaman
+  - Susanna Sawyer
+  - Anja Heinze
+  - Gabriel Renaud
+  - Peter H Sudmant
+  - Cesare Filippo
     dropping-particle: de
   - literal: others
   issued:
@@ -1128,41 +796,24 @@
 
 - id: bell2011predisposition
   type: article-journal
-  author:
-  - family: Bell
-    given: Daphne W
-  - family: Sikdar
-    given: Nilabja
-  - family: Lee
-    given: Kyoo-young
-  - family: Price
-    given: Jessica C
-  - family: Chatterjee
-    given: Raghunath
-  - family: Park
-    given: Hee-Dong
-  - family: Fox
-    given: Jennifer
-  - family: Ishiai
-    given: Masamichi
-  - family: Rudd
-    given: Meghan L
-  - family: Pollock
-    given: Lana M
-  - family: Fogoros
-    given: Sarah K
-  - family: Mohamed
-    given: Hassan
-  - family: Hanigan
-    given: Christin L
-  - family: Zhang
-    given: Suiyuan
-  - family: Cruz
-    given: Pedro
-  - family: Renaud
-    given: Gabriel
-  - family: Hansen
-    given: Nancy F
+  authors:
+  - Daphne W Bell
+  - Nilabja Sikdar
+  - Kyoo-young Lee
+  - Jessica C Price
+  - Raghunath Chatterjee
+  - Hee-Dong Park
+  - Jennifer Fox
+  - Masamichi Ishiai
+  - Meghan L Rudd
+  - Lana M Pollock
+  - Sarah K Fogoros
+  - Hassan Mohamed
+  - Christin L Hanigan
+  - Suiyuan Zhang
+  - Pedro Cruz
+  - Gabriel Renaud
+  - Nancy F Hansen
   - literal: others
   issued:
   - year: 2011
@@ -1176,13 +827,10 @@
 
 - id: liang2011sequencing
   type: article-journal
-  author:
-  - family: Liang
-    given: Jin
-  - family: Renaud
-    given: Gabriel
-  - family: Burgess
-    given: Shawn M
+  authors:
+  - Jin Liang
+  - Gabriel Renaud
+  - Shawn M Burgess
   issued:
   - year: 2011
   title: Sequencing-based expression profiling in Zebrafish
@@ -1193,19 +841,13 @@
 
 - id: liang2012stat3
   type: article-journal
-  author:
-  - family: Liang
-    given: Jin
-  - family: Wang
-    given: Dongmei
-  - family: Renaud
-    given: Gabriel
-  - family: Wolfsberg
-    given: Tyra G
-  - family: Wilson
-    given: Alexander F
-  - family: Burgess
-    given: Shawn M
+  authors:
+  - Jin Liang
+  - Dongmei Wang
+  - Gabriel Renaud
+  - Tyra G Wolfsberg
+  - Alexander F Wilson
+  - Shawn M Burgess
   issued:
   - year: 2012
     month: 8
@@ -1218,27 +860,17 @@
 
 - id: costa2012identification
   type: article-journal
-  author:
-  - family: Costa
-    given: Fabricio F
-  - family: Bischof
-    given: Jared M
-  - family: Vanin
-    given: Elio F
-  - family: Lulla
-    given: Rishi R
-  - family: Sredni
-    given: Simone T
-  - family: Rajaram
-    given: Veena
-  - family: Wang
-    given: Min
-  - family: Renaud
-    given: Gabriel
-  - family: Passetti
-    given: Fabio
-  - family: Tomita
-    given: Tadanori
+  authors:
+  - Fabricio F Costa
+  - Jared M Bischof
+  - Elio F Vanin
+  - Rishi R Lulla
+  - Simone T Sredni
+  - Veena Rajaram
+  - Min Wang
+  - Gabriel Renaud
+  - Fabio Passetti
+  - Tadanori Tomita
   - literal: others
   issued:
   - year: 2012
@@ -1252,19 +884,13 @@
 
 - id: tavares2012identical
   type: article-journal
-  author:
-  - family: Tavares
-    given: Raphael
-  - family: Renaud
-    given: Gabriel
-  - family: Oliveira
-    given: Paulo Sergio Lopes
-  - family: Ferreira
-    given: Carlos G
-  - family: Dias-Neto
-    given: Emmanuel
-  - family: Passetti
-    given: Fabio
+  authors:
+  - Raphael Tavares
+  - Gabriel Renaud
+  - Paulo Sergio Lopes Oliveira
+  - Carlos G Ferreira
+  - Emmanuel Dias-Neto
+  - Fabio Passetti
   issued:
   - year: 2012
   title: Identical sequence patterns in the ends of exons and introns of human protein-coding
@@ -1276,21 +902,14 @@
 
 - id: emerenciano2011challenges
   type: article-journal
-  author:
-  - family: Emerenciano
-    given: Mariana
-  - family: Renaud
-    given: Gabriel
-  - family: Sant’Ana
-    given: Mariana
-  - family: Barbieri
-    given: Caroline
-  - family: Passetti
-    given: Fabio
-  - family: Pombo-de-Oliveira
-    given: Maria S
-  - family: Infant Acute Leukemia
-    given: Brazilian Collaborative Study Group
+  authors:
+  - Mariana Emerenciano
+  - Gabriel Renaud
+  - Mariana Sant’Ana
+  - Caroline Barbieri
+  - Fabio Passetti
+  - Maria S Pombo-de-Oliveira
+  - Brazilian Collaborative Study Group Infant Acute Leukemia
     dropping-particle: of
   issued:
   - year: 2011
@@ -1304,17 +923,12 @@
 
 - id: renaud2011segtor
   type: article-journal
-  author:
-  - family: Renaud
-    given: Gabriel
-  - family: Neves
-    given: Pedro
-  - family: Folador
-    given: Edson Luiz
-  - family: Ferreira
-    given: Carlos Gil
-  - family: Passetti
-    given: Fabio
+  authors:
+  - Gabriel Renaud
+  - Pedro Neves
+  - Edson Luiz Folador
+  - Carlos Gil Ferreira
+  - Fabio Passetti
   issued:
   - year: 2011
   title: 'Segtor: Rapid annotation of genomic coordinates and single nucleotide variations
@@ -1328,21 +942,14 @@
 
 - id: toleno2009development
   type: article-journal
-  author:
-  - family: Toleno
-    given: Donna M
-  - family: Renaud
-    given: Gabriel
-  - family: Wolfsberg
-    given: Tyra G
-  - family: Islam
-    given: Munirul
-  - family: Wildman
-    given: Derek E
-  - family: Siegmund
-    given: Kimberly D
-  - family: Hacia
-    given: Joseph G
+  authors:
+  - Donna M Toleno
+  - Gabriel Renaud
+  - Tyra G Wolfsberg
+  - Munirul Islam
+  - Derek E Wildman
+  - Kimberly D Siegmund
+  - Joseph G Hacia
   issued:
   - year: 2009
   title: Development and evaluation of new mask protocols for gene expression profiling
@@ -1355,27 +962,17 @@
 
 - id: loftus2009gpnmb
   type: article-journal
-  author:
-  - family: Loftus
-    given: Stacie K
-  - family: Antonellis
-    given: Anthony
-  - family: Matera
-    given: Ivana
-  - family: Renaud
-    given: Gabriel
-  - family: Baxter
-    given: Laura L
-  - family: Reid
-    given: Duncan
-  - family: Wolfsberg
-    given: Tyra G
-  - family: Chen
-    given: Yidong
-  - family: Wang
-    given: ChenWei
-  - family: Prasad
-    given: Megana K
+  authors:
+  - Stacie K Loftus
+  - Anthony Antonellis
+  - Ivana Matera
+  - Gabriel Renaud
+  - Laura L Baxter
+  - Duncan Reid
+  - Tyra G Wolfsberg
+  - Yidong Chen
+  - ChenWei Wang
+  - Megana K Prasad
   - literal: others
   issued:
   - year: 2009
@@ -1388,25 +985,16 @@
 
 - id: scharschmidt2009matriptase
   type: article-journal
-  author:
-  - family: Scharschmidt
-    given: Tiffany C
-  - family: List
-    given: Karin
-  - family: Grice
-    given: Elizabeth A
-  - family: Szabo
-    given: Roman
-  - family: Renaud
-    given: Gabriel
-  - family: Lee
-    given: Chyi-Chia R
-  - family: Wolfsberg
-    given: Tyra G
-  - family: Bugge
-    given: Thomas H
-  - family: Segre
-    given: Julia A
+  authors:
+  - Tiffany C Scharschmidt
+  - Karin List
+  - Elizabeth A Grice
+  - Roman Szabo
+  - Gabriel Renaud
+  - Chyi-Chia R Lee
+  - Tyra G Wolfsberg
+  - Thomas H Bugge
+  - Julia A Segre
   issued:
   - year: 2009
   title: Matriptase-deficient mice exhibit ichthyotic skin with a selective shift
@@ -1419,27 +1007,17 @@
 
 - id: kim2009sustained
   type: article-journal
-  author:
-  - family: Kim
-    given: Yoo-Jin
-  - family: Kim
-    given: Yoon-Sang
-  - family: Larochelle
-    given: Andre
-  - family: Renaud
-    given: Gabriel
-  - family: Wolfsberg
-    given: Tyra G
-  - family: Adler
-    given: Rima
-  - family: Donahue
-    given: Robert E
-  - family: Hematti
-    given: Peiman
-  - family: Hong
-    given: Bum-Kee
-  - family: Roayaei
-    given: Jean
+  authors:
+  - Yoo-Jin Kim
+  - Yoon-Sang Kim
+  - Andre Larochelle
+  - Gabriel Renaud
+  - Tyra G Wolfsberg
+  - Rima Adler
+  - Robert E Donahue
+  - Peiman Hematti
+  - Bum-Kee Hong
+  - Jean Roayaei
   - literal: others
   issued:
   - year: 2009
@@ -1454,25 +1032,16 @@
 
 - id: grice2008diversity
   type: article-journal
-  author:
-  - family: Grice
-    given: Elizabeth A
-  - family: Kong
-    given: Heidi H
-  - family: Renaud
-    given: Gabriel
-  - family: Young
-    given: Alice C
-  - family: Bouffard
-    given: Gerard G
-  - family: Blakesley
-    given: Robert W
-  - family: Wolfsberg
-    given: Tyra G
-  - family: Turner
-    given: Maria L
-  - family: Segre
-    given: Julia A
+  authors:
+  - Elizabeth A Grice
+  - Heidi H Kong
+  - Gabriel Renaud
+  - Alice C Young
+  - Gerard G Bouffard
+  - Robert W Blakesley
+  - Tyra G Wolfsberg
+  - Maria L Turner
+  - Julia A Segre
   issued:
   - year: 2008
   title: A diversity profile of the human skin microbiota
@@ -1484,27 +1053,17 @@
 
 - id: pike2008dna
   type: article-journal
-  author:
-  - family: Pike
-    given: Brian L
-  - family: Greiner
-    given: Timothy C
-  - family: Wang
-    given: Xiaoming
-  - family: Weisenburger
-    given: Dennis D
-  - family: Hsu
-    given: Ya-Hsuan
-  - family: Renaud
-    given: Gabriel
-  - family: Wolfsberg
-    given: Tyra G
-  - family: Kim
-    given: Myungjin
-  - family: Weisenberger
-    given: Daniel J
-  - family: Siegmund
-    given: Kimberly D
+  authors:
+  - Brian L Pike
+  - Timothy C Greiner
+  - Xiaoming Wang
+  - Dennis D Weisenburger
+  - Ya-Hsuan Hsu
+  - Gabriel Renaud
+  - Tyra G Wolfsberg
+  - Myungjin Kim
+  - Daniel J Weisenberger
+  - Kimberly D Siegmund
   - literal: others
   issued:
   - year: 2008
@@ -1518,27 +1077,17 @@
 
 - id: antonellis2008identification
   type: article-journal
-  author:
-  - family: Antonellis
-    given: Anthony
-  - family: Huynh
-    given: Jimmy L
-  - family: Lee-Lin
-    given: Shih-Queen
-  - family: Vinton
-    given: Ryan M
-  - family: Renaud
-    given: Gabriel
-  - family: Loftus
-    given: Stacie K
-  - family: Elliot
-    given: Gene
-  - family: Wolfsberg
-    given: Tyra G
-  - family: Green
-    given: Eric D
-  - family: McCallion
-    given: Andrew S
+  authors:
+  - Anthony Antonellis
+  - Jimmy L Huynh
+  - Shih-Queen Lee-Lin
+  - Ryan M Vinton
+  - Gabriel Renaud
+  - Stacie K Loftus
+  - Gene Elliot
+  - Tyra G Wolfsberg
+  - Eric D Green
+  - Andrew S McCallion
   - literal: others
   issued:
   - year: 2008
@@ -1552,27 +1101,17 @@
 
 - id: grice2008genomic
   type: paper-conference
-  author:
-  - family: Grice
-    given: FA
-  - family: Kong
-    given: HH
-  - family: Renaud
-    given: G
-  - family: Young
-    given: AC
-  - family: Program
-    given: N.
-  - family: Bouffard
-    given: GG
-  - family: Blakesley
-    given: RW
-  - family: Wolfsberg
-    given: TG
-  - family: Tumer
-    given: ML
-  - family: Segre
-    given: JA
+  authors:
+  - FA Grice
+  - HH Kong
+  - G Renaud
+  - AC Young
+  - N. Program
+  - GG Bouffard
+  - RW Blakesley
+  - TG Wolfsberg
+  - ML Tumer
+  - JA Segre
   issued:
   - year: 2008
   title: Genomic analysis of the cutaneous skin microflora
@@ -1583,27 +1122,17 @@
 
 - id: hu2008reduced
   type: article-journal
-  author:
-  - family: Hu
-    given: Jingqiong
-  - family: Renaud
-    given: Gabriel
-  - family: Golmes
-    given: Theotonius
-  - family: Ferris
-    given: Andrea
-  - family: Hendrie
-    given: Paul C
-  - family: Donahue
-    given: Robert E
-  - family: Hughes
-    given: Stephen H
-  - family: Wolfsberg
-    given: Tyra G
-  - family: Russell
-    given: David W
-  - family: Dunbar
-    given: Cynthia E
+  authors:
+  - Jingqiong Hu
+  - Gabriel Renaud
+  - Theotonius Golmes
+  - Andrea Ferris
+  - Paul C Hendrie
+  - Robert E Donahue
+  - Stephen H Hughes
+  - Tyra G Wolfsberg
+  - David W Russell
+  - Cynthia E Dunbar
   issued:
   - year: 2008
   title: Reduced genotoxicity of avian sarcoma leukosis virus vectors in rhesus long-term
@@ -1616,27 +1145,17 @@
 
 - id: hu2007distinctive
   type: article-journal
-  author:
-  - family: Hu
-    given: Jingqiong
-  - family: Gomes
-    given: Theotonius
-  - family: Ferris
-    given: Andrea
-  - family: Renaud
-    given: Gabriel
-  - family: Hendrie
-    given: Paul C
-  - family: Krouse
-    given: Allen E
-  - family: Donahue
-    given: Robert E
-  - family: Wolfsberg
-    given: Tyra G
-  - family: Hughes
-    given: Stephen H
-  - family: Russell
-    given: David W
+  authors:
+  - Jingqiong Hu
+  - Theotonius Gomes
+  - Andrea Ferris
+  - Gabriel Renaud
+  - Paul C Hendrie
+  - Allen E Krouse
+  - Robert E Donahue
+  - Tyra G Wolfsberg
+  - Stephen H Hughes
+  - David W Russell
   - literal: others
   issued:
   - year: 2007
@@ -1650,27 +1169,17 @@
 
 - id: crawford2006dnase
   type: article-journal
-  author:
-  - family: Crawford
-    given: Gregory E
-  - family: Davis
-    given: Sean
-  - family: Scacheri
-    given: Peter C
-  - family: Renaud
-    given: Gabriel
-  - family: Halawi
-    given: Mohamad J
-  - family: Erdos
-    given: Michael R
-  - family: Green
-    given: Roland
-  - family: Meltzer
-    given: Paul S
-  - family: Wolfsberg
-    given: Tyra G
-  - family: Collins
-    given: Francis S
+  authors:
+  - Gregory E Crawford
+  - Sean Davis
+  - Peter C Scacheri
+  - Gabriel Renaud
+  - Mohamad J Halawi
+  - Michael R Erdos
+  - Roland Green
+  - Paul S Meltzer
+  - Tyra G Wolfsberg
+  - Francis S Collins
   issued:
   - year: 2006
   title: 'DNase-chip: A high-resolution method to identify DNase I hypersensitive
