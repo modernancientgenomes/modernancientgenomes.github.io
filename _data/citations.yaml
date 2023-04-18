@@ -1,266 +1,1684 @@
-# GENERATED AUTOMATICALLY, DO NOT EDIT
+---
+- id: vogel2023euka
+  type: article-journal
+  author:
+  - family: Vogel
+    given: Nicola Alexandra
+  - family: Rubin
+    given: Joshua Daniel
+  - family: Swartz
+    given: Mikkel
+  - family: Vlieghe
+    given: Juliette
+  - family: Sackett
+    given: Peter Wad
+  - family: Pedersen
+    given: Anders Gorm
+  - family: Pedersen
+    given: Mikkel Winther
+  - family: Renaud
+    given: Gabriel
+  issued:
+  - year: 2023
+  title: '<span class="nocase">euka: Robust detection of eukaryotic taxa from modern
+    and ancient environmental DNA using pangenomic reference graphs.</span>'
+  container-title: <span class="nocase">bioRxiv</span>
+  publisher: Cold Spring Harbor Laboratory
+  page: 2023-04
 
-- id: doi:10.1186/s13073-020-00825-3
-  title: Mode and dynamics of vanA-type vancomycin resistance dissemination in Dutch
-    hospitals
-  authors:
-  - Sergio Arredondo-Alonso
-  - Janetta Top
-  - Jukka Corander
-  - Rob J. L. Willems
-  - "Anita C. Sch\xFCrch"
-  publisher: Genome Medicine
-  date: '2021-01-20'
-  link: https://doi.org/gm5t64
-  tags:
-  - Plasmid
-  - Enterococcus
-  - Antimicrobial resistance
-- id: doi:10.3390/microorganisms9081613
-  title: Recovering Escherichia coli Plasmids in the Absence of Long-Read Sequencing
-    Data
-  authors:
-  - Julian A. Paganini
-  - Nienke L. Plantinga
-  - Sergio Arredondo-Alonso
-  - Rob J. L. Willems
-  - "Anita C. Sch\xFCrch"
-  publisher: Microorganisms
-  date: '2021-07-28'
-  link: https://doi.org/gnn36g
-  tags:
-  - Plasmid
-  - WGS
-  - E.coli
-- id: doi:10.1093/jac/dkaa534
-  title: "Comparative genomics of ESBL-producing <i>Escherichia coli</i> (ESBL-Ec)\
-    \ reveals a similar distribution of the 10 most prevalent ESBL-Ec clones and ESBL\
-    \ genes among human community faecal and extra-intestinal infection isolates in\
-    \ the Netherlands (2014\u201317)"
-  authors:
-  - T D Verschuuren
-  - D van Hout
-  - S Arredondo-Alonso
-  - A C Fluit
-  - E A Reuland
-  - J Top
-  - "A C Sch\xFCrch"
-  - T Bosch
-  - M J M Bonten
-  - J A J W Kluytmans
-  - R J L Willems
-  publisher: Journal of Antimicrobial Chemotherapy
-  date: '2021-01-11'
-  link: https://doi.org/gnn36h
-  tags:
-  - WGS
-  - E.coli
-  - Antimicrobial resistance
-- id: doi:10.1038/s41467-021-21749-5
-  title: Apparent nosocomial adaptation of Enterococcus faecalis predates the modern
-    hospital era
-  authors:
-  - "Anna K. P\xF6ntinen"
-  - Janetta Top
-  - Sergio Arredondo-Alonso
-  - Gerry Tonkin-Hill
-  - Ana R. Freitas
-  - Carla Novais
-  - Rebecca A. Gladstone
-  - Maiju Pesonen
-  - Rodrigo Meneses
-  - Henri Pesonen
-  - John A. Lees
-  - Dorota Jamrozy
-  - Stephen D. Bentley
-  - Val F. Lanza
-  - Carmen Torres
-  - Luisa Peixe
-  - Teresa M. Coque
-  - Julian Parkhill
-  - "Anita C. Sch\xFCrch"
-  - Rob J. L. Willems
-  - Jukka Corander
-  publisher: Nature Communications
-  date: '2021-03-09'
-  link: https://doi.org/gkr3gx
-  tags:
-  - Enterococcus
-- id: doi:10.1099/mgen.0.000488
-  title: Genomic rearrangements uncovered by genome-wide co-evolution analysis of
-    a major nosocomial pathogen, Enterococcus faecium
-  authors:
-  - Janetta Top
-  - Sergio Arredondo-Alonso
-  - "Anita C. Sch\xFCrch"
-  - Santeri Puranen
-  - Maiju Pesonen
-  - Johan Pensar
-  - Rob J. L. Willems
-  - Jukka Corander
-  publisher: Microbial Genomics
-  date: '2020-03-09'
-  link: https://doi.org/gmsjnb
-  tags:
-  - Enterococcus
-- id: doi:10.1093/bioinformatics/btaa233
-  title: 'gplas: a comprehensive tool for plasmid analysis using short-read graphs'
-  authors:
-  - Sergio Arredondo-Alonso
-  - Martin Bootsma
-  - "Ya\xEFr Hein"
-  - Malbert R C Rogers
-  - Jukka Corander
-  - Rob J L Willems
-  - "Anita C Sch\xFCrch"
-  publisher: Bioinformatics
-  date: '2020-06-01'
-  link: https://doi.org/gg8s4b
-  tags:
-  - Plasmid
-  - Tool
-  extra-links:
-  - type: source
-    link: https://gitlab.com/sirarredondo/gplas
-- id: doi:10.1128/mBio.03284-19
-  title: Plasmids Shaped the Recent Emergence of the Major Nosocomial Pathogen Enterococcus
-    faecium
-  authors:
-  - S. Arredondo-Alonso
-  - J. Top
-  - A. McNally
-  - S. Puranen
-  - M. Pesonen
-  - J. Pensar
-  - P. Marttinen
-  - J. C. Braat
-  - M. R. C. Rogers
-  - W. van Schaik
-  - S. Kaski
-  - R. J. L. Willems
-  - J. Corander
-  - "A. C. Sch\xFCrch"
-  publisher: mBio
-  date: '2020-02-11'
-  link: https://doi.org/gjzbrg
-  tags:
-  - Plasmid
-  - Enterococcus
-  - WGS
-- id: doi:10.1371/journal.pone.0227604
-  title: "Extended-spectrum beta-lactamase (ESBL)-producing and non-ESBL-producing\
-    \ Escherichia coli isolates causing bacteremia in the Netherlands (2014 \u2013\
-    \ 2016) differ in clonal distribution, antimicrobial resistance gene and virulence\
-    \ gene content"
-  authors:
-  - Denise van Hout
-  - Tess D. Verschuuren
-  - Patricia C. J. Bruijning-Verhagen
-  - Thijs Bosch
-  - "Anita C. Sch\xFCrch"
-  - Rob J. L. Willems
-  - Marc J. M. Bonten
-  - Jan A. J. W. Kluytmans
-  publisher: PLOS ONE
-  date: '2020-01-14'
-  link: https://doi.org/gnn4jq
-  tags:
-  - E.coli
-  - WGS
-  - Antimicrobial resistance
-- id: doi:10.1128/AAC.01204-19
-  title: Sequence-Based Epidemiology of an OXA-48 Plasmid during a Hospital Outbreak
-  authors:
-  - Laura Hidalgo
-  - Mark de Been
-  - Malbert R. C. Rogers
-  - "Anita C. Sch\xFCrch"
-  - Jelle Scharringa
-  - Anneke van der Zee
-  - Marc J. M. Bonten
-  - Ad C. Fluit
-  publisher: Antimicrobial Agents and Chemotherapy
-  date: '2019-09-21'
-  link: https://doi.org/gnpv9g
-  tags:
-  - Plasmid
-  - Antimicrobial resistance
-- id: doi:10.1128/MRA.00243-19
-  title: Draft Genome Sequence of Haemophilus haemolyticus Strain 16/010 O, Isolated
-    from a Sputum Sample from a Cystic Fibrosis Patient
-  authors:
-  - Ad C. Fluit
-  - Jumamurat R. Bayjanov
-  - Michael Tunney
-  - J. Stuart Elborn
-  - Malbert R. C. Rogers
-  - "Anita C. Sch\xFCrch"
-  - Miquel B. Ekkelenkamp
-  publisher: Microbiology Resource Announcements
-  date: '2019-07-06'
-  link: https://doi.org/gnpv9h
-  tags:
-  - WGS
-- id: doi:10.1099/mgen.0.000128
-  title: On the (im)possibility of reconstructing plasmids from whole-genome short-read
-    sequencing data
-  authors:
-  - Sergio Arredondo-Alonso
-  - Rob J. Willems
-  - Willem van Schaik
-  - "Anita C. Sch\xFCrch"
-  publisher: Microbial Genomics
-  date: '2017-09-01'
-  link: https://doi.org/gf6b63
-  tags:
-  - Plasmid
-  - WGS
-- id: doi:10.1111/nyas.13310
-  title: Challenges and opportunities for whole-genome sequencing-based surveillance
-    of antibiotic resistance
-  authors:
-  - "Anita C. Sch\xFCrch"
-  - Willem van Schaik
-  publisher: Annals of the New York Academy of Sciences
-  date: '2017-01-30'
-  link: https://doi.org/f9pcc4
-  tags:
-  - WGS
-  - Antimicrobial resistance
-- id: doi:10.1016/j.cmi.2017.12.016
-  title: "Whole genome sequencing options for bacterial strain typing and epidemiologic\
-    \ analysis based on single nucleotide polymorphism versus gene-by-gene\u2013based\
-    \ approaches"
-  authors:
-  - "A.C. Sch\xFCrch"
-  - S. Arredondo-Alonso
-  - R.J.L. Willems
-  - R.V. Goering
-  publisher: Clinical Microbiology and Infection
-  date: '2018-04-01'
-  link: https://doi.org/gc9nkx
-  tags:
-  - WGS
-- id: doi:10.1099/mgen.0.000224
-  title: 'mlplasmids: a user-friendly tool to predict plasmid- and chromosome-derived
-    sequences for single species'
-  authors:
-  - Sergio Arredondo-Alonso
-  - Malbert R. C. Rogers
-  - Johanna C. Braat
-  - Tess D. Verschuuren
-  - Janetta Top
-  - Jukka Corander
-  - Rob J. L. Willems
-  - "Anita C. Sch\xFCrch"
-  publisher: Microbial Genomics
-  date: '2018-11-01'
-  link: https://doi.org/gnn4jr
-  tags:
-  - Plasmid
-  - Tool
-  extra-links:
-  - type: source
-    link: https://gitlab.com/sirarredondo/mlplasmids
-  - type: app
-    link: https://sarredondo.shinyapps.io/mlplasmids
+- id: thuesen2022benchmarking
+  type: article-journal
+  author:
+  - family: Thuesen
+    given: Nikolas Hallberg
+  - family: Klausen
+    given: Michael Schantz
+  - family: Gopalakrishnan
+    given: Shyam
+  - family: Trolle
+    given: Thomas
+  - family: Renaud
+    given: Gabriel
+  issued:
+  - year: 2022
+  title: <span class="nocase">Benchmarking freely available HLA typing algorithms
+    across varying genes, coverages and typing resolutions</span>
+  container-title: <span class="nocase">Frontiers in Immunology</span>
+  publisher: Frontiers Research Foundation
+  page: 987655-987655
+  volume: '13'
+
+- id: rubin2022haplocart
+  type: article-journal
+  author:
+  - family: Rubin
+    given: Joshua D.
+  - family: Vogel
+    given: Nicola A.
+  - family: Gopalakrishnan
+    given: Shyam
+  - family: Sackett
+    given: Peter W.
+  - family: Renaud
+    given: Gabriel
+  issued:
+  - year: 2022
+  title: '<span class="nocase">HaploCart: Human mtDNA Haplogroup Classification Using
+    a Pangenomic Reference Graph</span>'
+  container-title: <span class="nocase">bioRxiv</span>
+  publisher: Cold Spring Harbor Laboratory
+
+- id: renaud2022unsupervised
+  type: article-journal
+  author:
+  - family: Renaud
+    given: Gabriel
+  - family: Nørgaard
+    given: Maibritt
+  - family: Lindberg
+    given: Johan
+  - family: Grönberg
+    given: Henrik
+  - family: De Laere
+    given: Bram
+  - family: Jensen
+    given: Jørgen Bjerggaard
+  - family: Borre
+    given: Michael
+  - family: Andersen
+    given: Claus Lindbjerg
+  - family: Sørensen
+    given: Karina Dalsgaard
+  - family: Maretty
+    given: Lasse
+  - literal: others
+  issued:
+  - year: 2022
+  title: <span class="nocase">Unsupervised detection of fragment length signatures
+    of circulating tumor DNA using non-negative matrix factorization</span>
+  container-title: <span class="nocase">eLife</span>
+  publisher: eLife Sciences Publications Limited
+  page: e71569
+  volume: '11'
+
+- id: allentoft2022population
+  type: article-journal
+  author:
+  - family: Allentoft
+    given: Morten E.
+  - family: Sikora
+    given: Martin
+  - family: Refoyo-Martı́nez
+    given: Alba
+  - family: Irving-Pease
+    given: Evan K.
+  - family: Fischer
+    given: Anders
+  - family: Barrie
+    given: William
+  - family: Ingason
+    given: Andrés
+  - family: Stenderup
+    given: Jesper
+  - family: Sjögren
+    given: Karl-Göran
+  - family: Pearson
+    given: Alice
+  - family: Mota
+    given: Barbara
+  - family: Paulsson
+    given: Bettina Schulz
+  - family: Halgren
+    given: Alma
+  - family: Macleod
+    given: Ruairidh
+  - family: Schjellerup Jørkov
+    given: Marie Louise
+  - family: Demeter
+    given: Fabrice
+  - family: Novosolov
+    given: Maria
+  - family: Sørensen
+    given: Lasse
+  - family: Nielsen
+    given: Poul-Otto
+  - family: Henriksen
+    given: Rasmus H.A.
+  - family: Vimala
+    given: Tharsika
+  - family: McColl
+    given: Hugh
+  - family: Margaryan
+    given: Ashot
+  - family: Ilardo
+    given: Melissa
+  - family: Vaughn
+    given: Andrew
+  - family: Mortensen
+    given: Morten Fischer
+  - family: Nielsen
+    given: Anne Birgitte
+  - family: Hede
+    given: Mikkel Ulfeldt
+  - family: Rasmussen
+    given: Peter
+  - family: Vinner
+    given: Lasse
+  - family: Renaud
+    given: Gabriel
+  - family: Stern
+    given: Aaron
+  - literal: others
+  issued:
+  - year: 2022
+  title: <span class="nocase">Population Genomics of Stone Age Eurasia</span>
+  container-title: <span class="nocase">bioRxiv</span>
+  publisher: Cold Spring Harbor Laboratory
+
+- id: hodgins2022ancient
+  type: article-journal
+  author:
+  - family: Hodgins
+    given: Harold P
+  - family: Chen
+    given: Pengsheng
+  - family: Lobb
+    given: Briallen
+  - family: Tremblay
+    given: Benjamin JM
+  - family: Mansfield
+    given: Michael J
+  - family: Lee
+    given: Victoria CY
+  - family: Lee
+    given: Pyung-Gang
+  - family: Coffin
+    given: Jeffrey
+  - family: Wei
+    given: Xin
+  - family: Duggan
+    given: Ana T
+  - family: Dolphin
+    given: Alexis E
+  - family: Renaud
+    given: Gabriel
+  - family: Dong
+    given: Min
+  - family: C
+    given: Doxey Andrew
+  issued:
+  - year: 2022
+  title: <span class="nocase">Ancient Clostridium DNA and variants of tetanus neurotoxins
+    associated with human archaeological remains</span>
+  container-title: <span class="nocase">bioRxiv</span>
+  publisher: Cold Spring Harbor Laboratory
+
+- id: margaryan2020population
+  type: article-journal
+  author:
+  - family: Margaryan
+    given: Ashot
+  - family: Lawson
+    given: Daniel J
+  - family: Sikora
+    given: Martin
+  - family: Racimo
+    given: Fernando
+  - family: Rasmussen
+    given: Simon
+  - family: Moltke
+    given: Ida
+  - family: Cassidy
+    given: Lara M
+  - family: Jørsboe
+    given: Emil
+  - family: Ingason
+    given: Andrés
+  - family: Pedersen
+    given: Mikkel W
+  - family: Korneliussen
+    given: Thorfinn
+  - family: Wilhelmson
+    given: Helene
+  - family: Buś
+    given: Magdalena
+  - family: Barros Damgaard
+    given: Peter
+    dropping-particle: de
+  - family: Martiniano
+    given: Rui
+  - family: Renaud
+    given: Gabriel
+  - family: Bhérer
+    given: Claude
+  - family: Moreno-Mayar
+    given: J. Vı́ctor
+  - literal: others
+  issued:
+  - year: 2020
+  title: Population genomics of the Viking world
+  container-title: Nature
+  publisher: Nature Publishing Group
+  page: 390-396
+  volume: '585'
+  issue: '7825'
+
+- id: moreno2020likelihood
+  type: article-journal
+  author:
+  - family: Moreno-Mayar
+    given: J Vı́ctor
+  - family: Korneliussen
+    given: Thorfinn Sand
+  - family: Dalal
+    given: Jyoti
+  - family: Renaud
+    given: Gabriel
+  - family: Albrechtsen
+    given: Anders
+  - family: Nielsen
+    given: Rasmus
+  - family: Malaspinas
+    given: Anna-Sapfo
+  issued:
+  - year: 2020
+  title: A likelihood method for estimating present-day human contamination in ancient
+    male samples using low-depth X-chromosome data
+  container-title: Bioinformatics
+  publisher: Oxford University Press
+  page: 828-841
+  volume: '36'
+  issue: '3'
+
+- id: sandoval2019genetic
+  type: article-journal
+  author:
+  - family: Sandoval-Velasco
+    given: Marcela
+  - family: Jagadeesan
+    given: Anuradha
+  - family: Ávila-Arcos
+    given: Marı́a C.
+  - family: Gopalakrishnan
+    given: Shyam
+  - family: Ramos-Madrigal
+    given: Jazmı́n
+  - family: Vı́ctor Moreno-Mayar
+    given: J.
+  - family: Renaud
+    given: Gabriel
+  - family: Cruz-Dávalos
+    given: Diana I.
+  - family: Johannesdóttir
+    given: Erna
+  - family: Watson
+    given: Judy
+  - family: Robson-Brown
+    given: Kate
+  - family: Pearson
+    given: Andrew
+  - family: Helgason
+    given: Agnar
+  - family: Gilbert
+    given: M. Thomas P.
+  - family: Schroeder
+    given: Hannes
+  issued:
+  - year: 2019
+  title: The genetic origins of Saint Helena’s liberated Africans
+  container-title: bioRxiv
+  publisher: Cold Spring Harbor Laboratory
+  abstract: Between the early 16th and late 19th centuries, an estimated 12 million
+    Africans were transported to the Americas as part of the transatlantic slave trade.
+    Following Britain’s abolition of slave trade in 1807, the Royal Navy patrolled
+    the Atlantic and intercepted slave ships that continued to operate. During this
+    period, the island of St Helena in the middle of the South Atlantic served as
+    a depot for “liberated” Africans. Between 1840 and 1867, approximately 27,000
+    Africans were disembarked on the island. To investigate their origins, we generated
+    genome-wide ancient DNA data for 20 individuals recovered from St Helena. The
+    genetic data indicate that they came from West Central Africa, possibly the area
+    of present-day Gabon and Angola. The data further suggest that they did not belong
+    to a single population, confirming historical reports of cultural heterogeneity
+    among the island’s African community. Our results shed new light on the origins
+    of enslaved Africans during the final stages of the slave trade and illustrate
+    how genetic data can be used to complement and validate existing historical sources.
+  URL: https://www.biorxiv.org/content/early/2019/10/01/787515
+  DOI: 10.1101/787515
+
+- id: sikora2019population
+  type: article-journal
+  author:
+  - family: Sikora
+    given: Martin
+  - family: Pitulko
+    given: Vladimir V
+  - family: Sousa
+    given: Vitor C
+  - family: Allentoft
+    given: Morten E
+  - family: Vinner
+    given: Lasse
+  - family: Rasmussen
+    given: Simon
+  - family: Margaryan
+    given: Ashot
+  - family: Barros Damgaard
+    given: Peter
+    dropping-particle: de
+  - family: Fuente
+    given: Constanza
+    dropping-particle: de la
+  - family: Renaud
+    given: Gabriel
+  - literal: others
+  issued:
+  - year: 2019
+  title: The population history of northeastern siberia since the pleistocene
+  container-title: Nature
+  publisher: Nature Publishing Group
+  page: 182-188
+  volume: '570'
+  issue: '7760'
+
+- id: mata2019repertoire
+  type: article-journal
+  author:
+  - family: Mata
+    given: Xavier
+  - family: Renaud
+    given: Gabriel
+  - family: Mollereau
+    given: Catherine
+  issued:
+  - year: 2019
+  title: The repertoire of family A-peptide GPCRs in archaic hominins
+  container-title: Peptides
+  publisher: Elsevier
+  page: '170154'
+  volume: '122'
+
+- id: renaud2019joint
+  type: article-journal
+  author:
+  - family: Renaud
+    given: Gabriel
+  - family: Hanghøj
+    given: Kristian
+  - family: Korneliussen
+    given: Thorfinn Sand
+  - family: Willerslev
+    given: Eske
+  - family: Orlando
+    given: Ludovic
+  issued:
+  - year: 2019
+  title: Joint Estimates of Heterozygosity and Runs of Homozygosity for Modern and
+    Ancient Samples
+  container-title: Genetics
+  publisher: Genetics
+  page: genetics-302057
+
+- id: hanghoj2019dammet
+  type: article-journal
+  author:
+  - family: Hanghøj
+    given: Kristian
+  - family: Renaud
+    given: Gabriel
+  - family: Albrechtsen
+    given: Anders
+  - family: Orlando
+    given: Ludovic
+  issued:
+  - year: 2019
+  title: 'DamMet: Ancient methylome mapping accounting for errors, true variants,
+    and post-mortem DNA damage'
+  title-short: DamMet
+  container-title: GigaScience
+  publisher: Oxford University Press
+  page: giz025
+  volume: '8'
+  issue: '4'
+
+- id: renaud2019authentication
+  type: chapter
+  author:
+  - family: Renaud
+    given: Gabriel
+  - family: Schubert
+    given: Mikkel
+  - family: Sawyer
+    given: Susanna
+  - family: Orlando
+    given: Ludovic
+  issued:
+  - year: 2019
+  title: Authentication and assessment of contamination in ancient DNA
+  container-title: 'Ancient DNA: Methods and Protocols, 2nd Edition'
+  publisher: Humana Press, New York, NY
+  page: 163-194
+
+- id: damgaard2018137
+  type: article-journal
+  author:
+  - family: Damgaard
+    given: Peter de Barros
+  - family: Marchi
+    given: Nina
+  - family: Rasmussen
+    given: Simon
+  - family: Peyrot
+    given: Michaël
+  - family: Renaud
+    given: Gabriel
+  - family: Korneliussen
+    given: Thorfinn
+  - family: Moreno-Mayar
+    given: José Victor
+  - family: Pedersen
+    given: Mikkel Winther
+  - family: Goldberg
+    given: Amy
+  - family: Usmanova
+    given: Emma
+  - literal: others
+  issued:
+  - year: 2018
+  title: 137 ancient human genomes from across the Eurasian steppes.
+  container-title: Nature
+  publisher: Nature Publishing Group
+  page: 369-374
+  volume: '557'
+  issue: '7705'
+
+- id: schroeder2018origins
+  type: article-journal
+  author:
+  - family: Schroeder
+    given: Hannes
+  - family: Sikora
+    given: Martin
+  - family: Gopalakrishnan
+    given: Shyam
+  - family: Cassidy
+    given: Lara M
+  - family: Delser
+    given: Pierpaolo Maisano
+  - family: Velasco
+    given: Marcela Sandoval
+  - family: Schraiber
+    given: Joshua G
+  - family: Rasmussen
+    given: Simon
+  - family: Homburger
+    given: Julian R
+  - family: Ávila-Arcos
+    given: Marı́a C
+  - family: Allentoft
+    given: Morten E
+  - family: Moreno-Mayar
+    given: J Vı́ctor
+  - family: Renaud
+    given: Gabriel
+  - family: Gómez-Carballa
+    given: Alberto
+  - literal: others
+  issued:
+  - year: 2018
+  title: Origins and genetic legacies of the Caribbean Taino
+  container-title: Proceedings of the National Academy of Sciences
+  publisher: National Acad Sciences
+  page: 2341-2346
+  volume: '115'
+  issue: '10'
+
+- id: renaud2018improved
+  type: article-journal
+  author:
+  - family: Renaud
+    given: Gabriel
+  - family: Petersen
+    given: Bent
+  - family: Seguin-Orlando
+    given: Andaine
+  - family: Bertelsen
+    given: Mads Frost
+  - family: Waller
+    given: Andrew
+  - family: Newton
+    given: Richard
+  - family: Paillot
+    given: Romain
+  - family: Bryant
+    given: Neil
+  - family: Vaudin
+    given: Mark
+  - family: Librado
+    given: Pablo
+  - literal: others
+  issued:
+  - year: 2018
+  title: Improved de novo genomic assembly for the domestic donkey
+  container-title: Science Advances
+  publisher: American Association for the Advancement of Science
+  page: eaaq0392
+  volume: '4'
+  issue: '4'
+
+- id: renaud2017glactools
+  type: article-journal
+  author:
+  - family: Renaud
+    given: Gabriel
+  issued:
+  - year: 2017
+  title: 'Glactools: A command-line toolset for the management of genotype likelihoods
+    and allele counts'
+  title-short: Glactools
+  container-title: Bioinformatics
+  publisher: Oxford University Press
+  page: '3'
+  volume: '1'
+
+- id: duggan2017genetic
+  type: article-journal
+  author:
+  - family: Duggan
+    given: Ana T
+  - family: Harris
+    given: Alison JT
+  - family: Marciniak
+    given: Stephanie
+  - family: Marshall
+    given: Ingeborg
+  - family: Kuch
+    given: Melanie
+  - family: Kitchen
+    given: Andrew
+  - family: Renaud
+    given: Gabriel
+  - family: Southon
+    given: John
+  - family: Fuller
+    given: Ben
+  - family: Young
+    given: Janet
+  - literal: others
+  issued:
+  - year: 2017
+  title: Genetic Discontinuity between the Maritime Archaic and Beothuk Populations
+    in Newfoundland, Canada
+  container-title: Current Biology
+  publisher: Cell Press
+
+- id: sikora2017ancient
+  type: article-journal
+  author:
+  - family: Sikora
+    given: Martin
+  - family: Seguin-Orlando
+    given: Andaine
+  - family: Sousa
+    given: Vitor C.
+  - family: Albrechtsen
+    given: Anders
+  - family: Korneliussen
+    given: Thorfinn
+  - family: Ko
+    given: Amy
+  - family: Rasmussen
+    given: Simon
+  - family: Dupanloup
+    given: Isabelle
+  - family: Nigst
+    given: Philip R
+  - family: Bosch
+    given: Marjolein D
+  - family: Renaud
+    given: Gabriel
+  - family: Allentoft
+    given: Morten E
+  - family: Margaryan
+    given: Ashot
+  - literal: others
+  issued:
+  - year: 2017
+  title: Ancient genomes show social and reproductive behaviour of early Upper Paleolithic
+    foragers
+  container-title: Science
+  publisher: American Association for the Advancement of Science
+  volume: eaao1807
+
+- id: slon2017fourth
+  type: article-journal
+  author:
+  - family: Slon
+    given: Viviane
+  - family: Viola
+    given: Bence
+  - family: Renaud
+    given: Gabriel
+  - family: Gansauge
+    given: Marie-Theres
+  - family: Benazzi
+    given: Stefano
+  - family: Sawyer
+    given: Susanna
+  - family: Hublin
+    given: Jean-Jacques
+  - family: Shunkov
+    given: Michail V.
+  - family: Derevianko
+    given: Anatoly P.
+  - family: Kelso
+    given: Janet
+  - family: Prüfer
+    given: Kay
+  - family: Meyer
+    given: Matthias
+  - family: Pääbo
+    given: Svante
+  issued:
+  - year: 2017
+  title: A fourth Denisovan individual
+  container-title: Science Advances
+  publisher: American Association for the Advancement of Science
+  page: e1700186
+  volume: '3'
+  issue: '7'
+
+- id: renaud2016gargammel
+  type: article-journal
+  author:
+  - family: Renaud
+    given: Gabriel
+  - family: Hanghøj
+    given: Kristian
+  - family: Willerslev
+    given: Eske
+  - family: Orlando
+    given: Ludovic
+  issued:
+  - year: 2016
+  title: 'Gargammel: A sequence simulator for ancient DNA'
+  title-short: Gargammel
+  container-title: Bioinformatics
+  publisher: Oxford University Press
+  page: 577-579
+  volume: '33'
+  issue: '4'
+
+- id: mallick2016simons
+  type: article-journal
+  author:
+  - family: Mallick
+    given: Swapan
+  - family: Li
+    given: Heng
+  - family: Lipson
+    given: Mark
+  - family: Mathieson
+    given: Iain
+  - family: Gymrek
+    given: Melissa
+  - family: Racimo
+    given: Fernando
+  - family: Zhao
+    given: Mengyao
+  - family: Chennagiri
+    given: Niru
+  - family: Nordenfelt
+    given: Susanne
+  - family: Tandon
+    given: Arti
+  - family: Skoglund
+    given: Pontus
+  - family: Lazaridis
+    given: Iosif
+  - family: Sankararaman
+    given: Sriram
+  - family: Fu
+    given: Qiaomei
+  - family: Rohland
+    given: Nadin
+  - family: Renaud
+    given: Gabriel
+  - family: Erlich
+    given: Yaniv
+  - family: Gallo
+    given: Carla
+  - literal: others
+  issued:
+  - year: 2016
+  title: 'The Simons Genome Diversity Project: 300 genomes from 142 diverse populations'
+  title-short: The Simons Genome Diversity Project
+  container-title: Nature
+  publisher: Nature Research
+  page: 201-206
+  volume: '538'
+  issue: '7624'
+
+- id: renaudracimo2016joint
+  type: article-journal
+  author:
+  - family: Renaud\*
+    given: Gabriel
+  - family: Racimo\*
+    given: Fernando
+  - family: Slatkin
+    given: Montgomery
+  issued:
+  - year: 2016
+  title: Joint estimation of contamination, error and demography for nuclear DNA from
+    ancient humans
+  container-title: PLoS Genetics
+  publisher: Public Library of Science
+  page: e1005972
+  volume: '12'
+  issue: '4'
+
+- id: posth2016pleistocene
+  type: article-journal
+  author:
+  - family: Posth
+    given: Cosimo
+  - family: Renaud
+    given: Gabriel
+  - family: Mittnik
+    given: Alissa
+  - family: Drucker
+    given: Dorothée G
+  - family: Rougier
+    given: Hélène
+  - family: Cupillard
+    given: Christophe
+  - literal: others
+  issued:
+  - year: 2016
+  title: Pleistocene Mitochondrial Genomes Suggest a Single Major Dispersal of Non-Africans
+    and a Late Glacial Population Turnover in Europe
+  container-title: Current Biology
+  publisher: Elsevier
+  page: 827-833
+  volume: '26'
+  issue: '6'
+
+- id: renaud2015schmutzi
+  type: article-journal
+  author:
+  - family: Renaud
+    given: Gabriel
+  - family: Slon
+    given: Viviane
+  - family: Duggan
+    given: Ana T.
+  - family: Kelso
+    given: Janet
+  issued:
+  - year: 2015
+  title: '<span class="nocase">Schmutzi: estimation of contamination and endogenous
+    mitochondrial consensus calling for ancient DNA</span>'
+  container-title: Genome Biology
+  page: '224'
+  volume: '16'
+
+- id: renaudsawyer2015nuclear
+  type: article-journal
+  author:
+  - family: Renaud\*
+    given: Gabriel
+  - family: Sawyer\*
+    given: Susanna
+  - family: Viola
+    given: Bence
+  - family: Hublin
+    given: Jean-Jacques
+  - family: Theres-Gansauge
+    given: Marie
+  - family: Shunkovc
+    given: Michail
+  - family: Dereviankoc
+    given: Anatoly
+  - family: Pruefer
+    given: Kay
+  - family: Kelso
+    given: Janet
+  - family: Pääbo
+    given: Svante
+  issued:
+  - year: 2015
+    month: 12
+  title: <span class="nocase">Nuclear and mitochondrial DNA sequences from two Denisovan
+    individuals</span>
+  container-title: Proceedings of the National Academy of Sciences
+  page: 15696-15700
+  volume: '112'
+  issue: '51'
+
+- id: le2015kiwi
+  type: article-journal
+  author:
+  - family: Le Duc
+    given: Diana
+  - family: Renaud
+    given: Gabriel
+  - family: Krishnan
+    given: Arunkumar
+  - family: Almén
+    given: Markus Sällman
+  - family: Huynen
+    given: Leon
+  - family: Prohaska
+    given: Sonja J.
+  - family: Ongyerth
+    given: Matthias
+  - family: Bitarello
+    given: Bárbara D.
+  - family: Schiöth
+    given: Helgi B.
+  - family: Hofreiter
+    given: Michael
+  - family: Stadler
+    given: Peter F.
+  - family: Prüfer
+    given: Kay
+  - family: Lambert
+    given: David
+  - family: Kelso
+    given: Janet
+  - family: Schöneberg
+    given: Torsten
+  issued:
+  - year: 2015
+  title: Kiwi genome provides insights into nocturnal adaptation
+  container-title: Genome Biology
+  page: '147'
+  volume: '16'
+
+- id: renaud2014deml
+  type: article-journal
+  author:
+  - family: Renaud
+    given: Gabriel
+  - family: Stenzel
+    given: Udo
+  - family: Maricic
+    given: Tomislav
+  - family: Wiebe
+    given: Victor
+  - family: Kelso
+    given: Janet
+  issued:
+  - year: 2015
+    month: 3
+  title: '<span class="nocase">deML: robust demultiplexing of Illumina sequences using
+    a likelihood-based approach</span>'
+  container-title: Bioinformatics
+  page: 770-772
+  volume: '31'
+  issue: '5'
+
+- id: renaud2014triefinder
+  type: article-journal
+  author:
+  - family: Renaud\*
+    given: Gabriel
+  - family: LaFave\*
+    given: Matthew C
+  - family: Liang
+    given: Jin
+  - family: Wolfsberg
+    given: Tyra G
+  - family: Burgess
+    given: Shawn M
+  issued:
+  - year: 2014
+  title: 'TrieFinder: An efficient program for annotating Digital Gene Expression
+    (DGE) tags'
+  title-short: TrieFinder
+  container-title: BMC Bioinformatics
+  publisher: BioMed Central Ltd
+  page: '329'
+  volume: '15'
+  issue: '1'
+
+- id: renaud2014leehom
+  type: article-journal
+  author:
+  - family: Renaud
+    given: Gabriel
+  - family: Stenzel
+    given: Udo
+  - family: Kelso
+    given: Janet
+  issued:
+  - year: 2014
+    month: 10
+  title: '<span class="nocase">leeHom: adaptor trimming and merging for Illumina sequencing
+    reads</span>'
+  container-title: Nucleic Acids Research
+  page: e141
+  volume: '42'
+  issue: '18'
+
+- id: lazaridis2014ancient
+  type: article-journal
+  author:
+  - family: Lazaridis
+    given: Iosif
+  - family: Patterson
+    given: Nick
+  - family: Mittnik
+    given: Alissa
+  - family: Renaud
+    given: Gabriel
+  - family: Mallick
+    given: Swapan
+  - family: Kirsanow
+    given: Karola
+  - family: Sudmant
+    given: Peter H
+  - family: Schraiber
+    given: Joshua G
+  - family: Castellano
+    given: Sergi
+  - family: Lipson
+    given: Mark
+  - literal: others
+  issued:
+  - year: 2014
+    month: 9
+  title: Ancient human genomes suggest three ancestral populations for present-day
+    Europeans
+  container-title: Nature
+  publisher: Nature Publishing Group
+  page: 409-413
+  volume: '513'
+  issue: '7518'
+
+- id: lippold2014human
+  type: article-journal
+  author:
+  - family: Lippold
+    given: Sebastian
+  - family: Xu
+    given: Hongyang
+  - family: Ko
+    given: Albert
+  - family: Li
+    given: Mingkun
+  - family: Renaud
+    given: Gabriel
+  - family: Butthof
+    given: Anne
+  - family: Schröder
+    given: Roland
+  - family: Stoneking
+    given: Mark
+  - literal: others
+  issued:
+  - year: 2014
+  title: '<span class="nocase">Human paternal and maternal demographic histories:
+    insights from high-resolution Y chromosome and mtDNA sequences</span>'
+  container-title: Investigative Genetics
+  page: '13'
+  volume: '5'
+
+- id: renaud2013freeibis
+  type: article-journal
+  author:
+  - family: Renaud
+    given: Gabriel
+  - family: Kircher
+    given: Martin
+  - family: Stenzel
+    given: Udo
+  - family: Kelso
+    given: Janet
+  issued:
+  - year: 2013
+    month: 5
+  title: '<span class="nocase">freeIbis: an efficient basecaller with calibrated quality
+    scores for Illumina sequencers</span>'
+  container-title: Bioinformatics
+  page: 1208-1209
+  volume: '29'
+  issue: '9'
+
+- id: castellano2014patterns
+  type: article-journal
+  author:
+  - family: Castellano
+    given: Sergi
+  - family: Parra
+    given: Genı́s
+  - family: Sánchez-Quinto
+    given: Federico A
+  - family: Racimo
+    given: Fernando
+  - family: Kuhlwilm
+    given: Martin
+  - family: Kircher
+    given: Martin
+  - family: Sawyer
+    given: Susanna
+  - family: Fu
+    given: Qiaomei
+  - family: Heinze
+    given: Anja
+  - family: Nickel
+    given: Birgit
+  - family: Dabney
+    given: Jesse
+  - family: Siebauer
+    given: Michael
+  - family: White
+    given: Louise
+  - family: Burbano
+    given: Hernán A
+  - family: Renaud
+    given: Gabriel
+  - family: Stenzel
+    given: Udo
+  - family: Lalueza-Fox
+    given: Carles
+  - literal: others
+  issued:
+  - year: 2014
+  title: Patterns of coding variation in the complete exomes of three Neandertals
+  container-title: Proceedings of the National Academy of Sciences
+  publisher: National Acad Sciences
+  page: 6666-6671
+  volume: '111'
+  issue: '18'
+
+- id: prufer2014complete
+  type: article-journal
+  author:
+  - family: Prüfer
+    given: Kay
+  - family: Racimo
+    given: Fernando
+  - family: Patterson
+    given: Nick
+  - family: Jay
+    given: Flora
+  - family: Sankararaman
+    given: Sriram
+  - family: Sawyer
+    given: Susanna
+  - family: Heinze
+    given: Anja
+  - family: Renaud
+    given: Gabriel
+  - family: Sudmant
+    given: Peter H
+  - family: Filippo
+    given: Cesare
+    dropping-particle: de
+  - literal: others
+  issued:
+  - year: 2014
+  title: The complete genome sequence of a Neanderthal from the Altai Mountains
+  container-title: Nature
+  publisher: Nature Publishing Group
+  page: 43-49
+  volume: '505'
+  issue: '7481'
+
+- id: bell2011predisposition
+  type: article-journal
+  author:
+  - family: Bell
+    given: Daphne W
+  - family: Sikdar
+    given: Nilabja
+  - family: Lee
+    given: Kyoo-young
+  - family: Price
+    given: Jessica C
+  - family: Chatterjee
+    given: Raghunath
+  - family: Park
+    given: Hee-Dong
+  - family: Fox
+    given: Jennifer
+  - family: Ishiai
+    given: Masamichi
+  - family: Rudd
+    given: Meghan L
+  - family: Pollock
+    given: Lana M
+  - family: Fogoros
+    given: Sarah K
+  - family: Mohamed
+    given: Hassan
+  - family: Hanigan
+    given: Christin L
+  - family: Zhang
+    given: Suiyuan
+  - family: Cruz
+    given: Pedro
+  - family: Renaud
+    given: Gabriel
+  - family: Hansen
+    given: Nancy F
+  - literal: others
+  issued:
+  - year: 2011
+  title: Predisposition to cancer caused by genetic and functional defects of mammalian
+    Atad5
+  container-title: PLoS Genetics
+  publisher: Public Library of Science
+  page: e1002245
+  volume: '7'
+  issue: '8'
+
+- id: liang2011sequencing
+  type: article-journal
+  author:
+  - family: Liang
+    given: Jin
+  - family: Renaud
+    given: Gabriel
+  - family: Burgess
+    given: Shawn M
+  issued:
+  - year: 2011
+  title: Sequencing-based expression profiling in Zebrafish
+  container-title: Methods in Cell Biology
+  publisher: NIH Public Access
+  page: '379'
+  volume: '104'
+
+- id: liang2012stat3
+  type: article-journal
+  author:
+  - family: Liang
+    given: Jin
+  - family: Wang
+    given: Dongmei
+  - family: Renaud
+    given: Gabriel
+  - family: Wolfsberg
+    given: Tyra G
+  - family: Wilson
+    given: Alexander F
+  - family: Burgess
+    given: Shawn M
+  issued:
+  - year: 2012
+    month: 8
+  title: <span class="nocase">The stat3/socs3a pathway is a key regulator of hair
+    cell regeneration in zebrafish.</span>
+  container-title: The Journal of Neuroscience
+  page: 10662-10673
+  volume: '32'
+  issue: '31'
+
+- id: costa2012identification
+  type: article-journal
+  author:
+  - family: Costa
+    given: Fabricio F
+  - family: Bischof
+    given: Jared M
+  - family: Vanin
+    given: Elio F
+  - family: Lulla
+    given: Rishi R
+  - family: Sredni
+    given: Simone T
+  - family: Rajaram
+    given: Veena
+  - family: Wang
+    given: Min
+  - family: Renaud
+    given: Gabriel
+  - family: Passetti
+    given: Fabio
+  - family: Tomita
+    given: Tadanori
+  - literal: others
+  issued:
+  - year: 2012
+  title: Identification of differentially expressed microRNAs and other non-coding
+    RNAs in ependymomas
+  container-title: Cancer Research
+  publisher: American Association for Cancer Research
+  page: 198-198
+  volume: '72'
+  issue: 8 Supplement
+
+- id: tavares2012identical
+  type: article-journal
+  author:
+  - family: Tavares
+    given: Raphael
+  - family: Renaud
+    given: Gabriel
+  - family: Oliveira
+    given: Paulo Sergio Lopes
+  - family: Ferreira
+    given: Carlos G
+  - family: Dias-Neto
+    given: Emmanuel
+  - family: Passetti
+    given: Fabio
+  issued:
+  - year: 2012
+  title: Identical sequence patterns in the ends of exons and introns of human protein-coding
+    genes
+  container-title: Computational Biology and Chemistry
+  publisher: Elsevier
+  page: 55-61
+  volume: '36'
+
+- id: emerenciano2011challenges
+  type: article-journal
+  author:
+  - family: Emerenciano
+    given: Mariana
+  - family: Renaud
+    given: Gabriel
+  - family: Sant’Ana
+    given: Mariana
+  - family: Barbieri
+    given: Caroline
+  - family: Passetti
+    given: Fabio
+  - family: Pombo-de-Oliveira
+    given: Maria S
+  - family: Infant Acute Leukemia
+    given: Brazilian Collaborative Study Group
+    dropping-particle: of
+  issued:
+  - year: 2011
+  title: Challenges in the use of NG2 antigen as a marker to predict MLL rearrangements
+    in multi-center studies
+  container-title: Leukemia Research
+  publisher: Pergamon
+  page: 1001-1007
+  volume: '35'
+  issue: '8'
+
+- id: renaud2011segtor
+  type: article-journal
+  author:
+  - family: Renaud
+    given: Gabriel
+  - family: Neves
+    given: Pedro
+  - family: Folador
+    given: Edson Luiz
+  - family: Ferreira
+    given: Carlos Gil
+  - family: Passetti
+    given: Fabio
+  issued:
+  - year: 2011
+  title: 'Segtor: Rapid annotation of genomic coordinates and single nucleotide variations
+    using segment trees'
+  title-short: Segtor
+  container-title: PLOS ONE
+  publisher: Public Library of Science
+  page: e26715
+  volume: '6'
+  issue: '11'
+
+- id: toleno2009development
+  type: article-journal
+  author:
+  - family: Toleno
+    given: Donna M
+  - family: Renaud
+    given: Gabriel
+  - family: Wolfsberg
+    given: Tyra G
+  - family: Islam
+    given: Munirul
+  - family: Wildman
+    given: Derek E
+  - family: Siegmund
+    given: Kimberly D
+  - family: Hacia
+    given: Joseph G
+  issued:
+  - year: 2009
+  title: Development and evaluation of new mask protocols for gene expression profiling
+    in humans and chimpanzees
+  container-title: BMC Bioinformatics
+  publisher: BioMed Central Ltd
+  page: '77'
+  volume: '10'
+  issue: '1'
+
+- id: loftus2009gpnmb
+  type: article-journal
+  author:
+  - family: Loftus
+    given: Stacie K
+  - family: Antonellis
+    given: Anthony
+  - family: Matera
+    given: Ivana
+  - family: Renaud
+    given: Gabriel
+  - family: Baxter
+    given: Laura L
+  - family: Reid
+    given: Duncan
+  - family: Wolfsberg
+    given: Tyra G
+  - family: Chen
+    given: Yidong
+  - family: Wang
+    given: ChenWei
+  - family: Prasad
+    given: Megana K
+  - literal: others
+  issued:
+  - year: 2009
+  title: Gpnmb is a melanoblast-expressed, MITF-dependent gene
+  container-title: Pigment Cell & Melanoma Research
+  publisher: Wiley Online Library
+  page: 99-110
+  volume: '22'
+  issue: '1'
+
+- id: scharschmidt2009matriptase
+  type: article-journal
+  author:
+  - family: Scharschmidt
+    given: Tiffany C
+  - family: List
+    given: Karin
+  - family: Grice
+    given: Elizabeth A
+  - family: Szabo
+    given: Roman
+  - family: Renaud
+    given: Gabriel
+  - family: Lee
+    given: Chyi-Chia R
+  - family: Wolfsberg
+    given: Tyra G
+  - family: Bugge
+    given: Thomas H
+  - family: Segre
+    given: Julia A
+  issued:
+  - year: 2009
+  title: Matriptase-deficient mice exhibit ichthyotic skin with a selective shift
+    in skin microbiota
+  container-title: Journal of Investigative Dermatology
+  publisher: Nature Publishing Group
+  page: 2435-2442
+  volume: '129'
+  issue: '10'
+
+- id: kim2009sustained
+  type: article-journal
+  author:
+  - family: Kim
+    given: Yoo-Jin
+  - family: Kim
+    given: Yoon-Sang
+  - family: Larochelle
+    given: Andre
+  - family: Renaud
+    given: Gabriel
+  - family: Wolfsberg
+    given: Tyra G
+  - family: Adler
+    given: Rima
+  - family: Donahue
+    given: Robert E
+  - family: Hematti
+    given: Peiman
+  - family: Hong
+    given: Bum-Kee
+  - family: Roayaei
+    given: Jean
+  - literal: others
+  issued:
+  - year: 2009
+  title: Sustained high-level polyclonal hematopoietic marking and transgene expression
+    4 years after autologous transplantation of rhesus macaques with SIV lentiviral
+    vector–transduced CD34+ cells
+  container-title: Blood
+  publisher: American Society of Hematology
+  page: 5434-5443
+  volume: '113'
+  issue: '22'
+
+- id: grice2008diversity
+  type: article-journal
+  author:
+  - family: Grice
+    given: Elizabeth A
+  - family: Kong
+    given: Heidi H
+  - family: Renaud
+    given: Gabriel
+  - family: Young
+    given: Alice C
+  - family: Bouffard
+    given: Gerard G
+  - family: Blakesley
+    given: Robert W
+  - family: Wolfsberg
+    given: Tyra G
+  - family: Turner
+    given: Maria L
+  - family: Segre
+    given: Julia A
+  issued:
+  - year: 2008
+  title: A diversity profile of the human skin microbiota
+  container-title: Genome Research
+  publisher: Cold Spring Harbor Lab
+  page: 1043-1050
+  volume: '18'
+  issue: '7'
+
+- id: pike2008dna
+  type: article-journal
+  author:
+  - family: Pike
+    given: Brian L
+  - family: Greiner
+    given: Timothy C
+  - family: Wang
+    given: Xiaoming
+  - family: Weisenburger
+    given: Dennis D
+  - family: Hsu
+    given: Ya-Hsuan
+  - family: Renaud
+    given: Gabriel
+  - family: Wolfsberg
+    given: Tyra G
+  - family: Kim
+    given: Myungjin
+  - family: Weisenberger
+    given: Daniel J
+  - family: Siegmund
+    given: Kimberly D
+  - literal: others
+  issued:
+  - year: 2008
+  title: DNA methylation profiles in diffuse large B-cell lymphoma and their relationship
+    to gene expression status
+  container-title: Leukemia
+  publisher: Nature Publishing Group
+  page: 1035-1043
+  volume: '22'
+  issue: '5'
+
+- id: antonellis2008identification
+  type: article-journal
+  author:
+  - family: Antonellis
+    given: Anthony
+  - family: Huynh
+    given: Jimmy L
+  - family: Lee-Lin
+    given: Shih-Queen
+  - family: Vinton
+    given: Ryan M
+  - family: Renaud
+    given: Gabriel
+  - family: Loftus
+    given: Stacie K
+  - family: Elliot
+    given: Gene
+  - family: Wolfsberg
+    given: Tyra G
+  - family: Green
+    given: Eric D
+  - family: McCallion
+    given: Andrew S
+  - literal: others
+  issued:
+  - year: 2008
+  title: Identification of neural crest and glial enhancers at the mouse Sox10 locus
+    through transgenesis in zebrafish
+  container-title: PLoS Genetics
+  publisher: Public Library of Science
+  page: e1000174
+  volume: '4'
+  issue: '9'
+
+- id: grice2008genomic
+  type: paper-conference
+  author:
+  - family: Grice
+    given: FA
+  - family: Kong
+    given: HH
+  - family: Renaud
+    given: G
+  - family: Young
+    given: AC
+  - family: Program
+    given: N.
+  - family: Bouffard
+    given: GG
+  - family: Blakesley
+    given: RW
+  - family: Wolfsberg
+    given: TG
+  - family: Tumer
+    given: ML
+  - family: Segre
+    given: JA
+  issued:
+  - year: 2008
+  title: Genomic analysis of the cutaneous skin microflora
+  container-title: Journal of Investigative Dermatology
+  publisher: Nature Publishing Group
+  page: S121-S121
+  volume: '128'
+
+- id: hu2008reduced
+  type: article-journal
+  author:
+  - family: Hu
+    given: Jingqiong
+  - family: Renaud
+    given: Gabriel
+  - family: Golmes
+    given: Theotonius
+  - family: Ferris
+    given: Andrea
+  - family: Hendrie
+    given: Paul C
+  - family: Donahue
+    given: Robert E
+  - family: Hughes
+    given: Stephen H
+  - family: Wolfsberg
+    given: Tyra G
+  - family: Russell
+    given: David W
+  - family: Dunbar
+    given: Cynthia E
+  issued:
+  - year: 2008
+  title: Reduced genotoxicity of avian sarcoma leukosis virus vectors in rhesus long-term
+    repopulating cells compared to standard murine retrovirus vectors
+  container-title: Molecular Therapy
+  publisher: Nature Publishing Group
+  page: 1617-1623
+  volume: '16'
+  issue: '9'
+
+- id: hu2007distinctive
+  type: article-journal
+  author:
+  - family: Hu
+    given: Jingqiong
+  - family: Gomes
+    given: Theotonius
+  - family: Ferris
+    given: Andrea
+  - family: Renaud
+    given: Gabriel
+  - family: Hendrie
+    given: Paul C
+  - family: Krouse
+    given: Allen E
+  - family: Donahue
+    given: Robert E
+  - family: Wolfsberg
+    given: Tyra G
+  - family: Hughes
+    given: Stephen H
+  - family: Russell
+    given: David W
+  - literal: others
+  issued:
+  - year: 2007
+  title: Distinctive integration profile of avian sarcoma leukosis virus vectors in
+    rhesus long-term repopulating cells
+  container-title: Blood
+  publisher: American Society of Hematology
+  page: 66A-66A
+  volume: '110'
+  issue: '11'
+
+- id: crawford2006dnase
+  type: article-journal
+  author:
+  - family: Crawford
+    given: Gregory E
+  - family: Davis
+    given: Sean
+  - family: Scacheri
+    given: Peter C
+  - family: Renaud
+    given: Gabriel
+  - family: Halawi
+    given: Mohamad J
+  - family: Erdos
+    given: Michael R
+  - family: Green
+    given: Roland
+  - family: Meltzer
+    given: Paul S
+  - family: Wolfsberg
+    given: Tyra G
+  - family: Collins
+    given: Francis S
+  issued:
+  - year: 2006
+  title: 'DNase-chip: A high-resolution method to identify DNase I hypersensitive
+    sites using tiled microarrays'
+  title-short: DNase-chip
+  container-title: Nature Methods
+  publisher: Nature Publishing Group
+  page: 503-509
+  volume: '3'
+  issue: '7'
+...
