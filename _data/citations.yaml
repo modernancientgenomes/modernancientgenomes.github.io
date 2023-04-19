@@ -47,6 +47,27 @@
   title: '<span class="nocase">HaploCart: Human mtDNA Haplogroup Classification Using a Pangenomic Reference Graph</span>'
   publisher: bioRxiv
 
+- id: doi.org/10.7554/eLife.71569
+  type: article-journal
+  authors:
+  - Gabriel Renaud
+  - Maibritt Nørgaard
+  - Johan Lindberg
+  - Henrik Grönberg
+  - Bram De Laere
+  - Jørgen Bjerggaard Jensen
+  - Michael Borre
+  - Claus Lindbjerg Andersen
+  - Karina Dalsgaard Sørensen
+  - Lasse Maretty
+  - and others
+  date: '2022-7-27'
+  link:  https://doi.org/10.7554/eLife.71569
+  title: <span class="nocase">Unsupervised detection of fragment length signatures of circulating tumor DNA using non-negative matrix factorization</span>
+  publisher: <span class="nocase">eLife</span>
+  page: e71569
+  volume: '11'
+
 - id: doi.org/10.1101/2022.05.04.490594
   type: article-journal
   authors:
@@ -83,7 +104,7 @@
   - Gabriel Renaud
   - Aaron Stern
   - and others
-  date: '2022'
+  date: '2022-5-5'
   link: https://doi.org/10.1101/2022.05.04.490594
   title: <span class="nocase">Population Genomics of Stone Age Eurasia</span>
   publisher: bioRxiv
@@ -105,7 +126,7 @@
   - Gabriel Renaud
   - Min Dong
   - Doxey Andrew C
-  date: '2022'
+  date: '2022-06-30'
   link: http://doi.org/10.1101/2022.06.30.498301
   title: <span class="nocase">Ancient Clostridium DNA and variants of tetanus neurotoxins associated with human archaeological remains</span>
   container-title: <span class="nocase">bioRxiv</span>
@@ -133,7 +154,7 @@
   - Claude Bhérer
   - J. Vı́ctor Moreno-Mayar
   - and others
-  date: '2020'
+  date: '2020-09-16'
   link: https://doi.org/10.1038/s41586-020-2688-8
   title: Population genomics of the Viking world
   container-title: Nature
@@ -158,11 +179,30 @@
   publisher: Genetics
   page: genetics-302057
 
+- id: doi.org/10.1093/bioinformatics/btz660
+  type: article-journal
+  authors:
+  - J Vı́ctor Moreno-Mayar
+  - Thorfinn Sand Korneliussen
+  - Jyoti Dalal
+  - Gabriel Renaud
+  - Anders Albrechtsen
+  - Rasmus Nielsen
+  - Anna-Sapfo Malaspinas
+  date: '2019-08-26'
+  link: https://doi.org/10.1093/bioinformatics/btz660
+  title: A likelihood method for estimating present-day human contamination in ancient male samples using low-depth X-chromosome data
+  publisher: Bioinformatics
+  page: 828-841
+  volume: '36'
+  issue: '3'
+
+
 - id: doi.org/10.1093/bioinformatics/btx749
   type: article-journal
   authors:
   - Gabriel Renaud
-  date: '2017'
+  date: '2017-11-27'
   link: https://doi.org/10.1093/bioinformatics/btx749
   title: 'glactools: A command-line toolset for the management of genotype likelihoods and allele counts'
   title-short: glactools
@@ -177,7 +217,7 @@
   - Kristian Hanghøj
   - Eske Willerslev
   - Ludovic Orlando
-  date: '2016'
+  date: '2016-11-21'
   link: https://doi.org/10.1093/bioinformatics/btw670
   title: 'gargammel: A sequence simulator for ancient DNA'
   title-short: Gargammel
@@ -193,7 +233,7 @@
   - Gabriel Renaud*
   - Fernando Racimo*
   - Montgomery Slatkin
-  date: '2016'
+  date: '2016-04-06'
   link: https://doi.org/10.1371/journal.pgen.1005972
   title: Joint estimation of contamination, error and demography for nuclear DNA from ancient humans
   publisher: PLoS Genetics
@@ -208,7 +248,7 @@
   - Viviane Slon
   - Ana T. Duggan
   - Janet Kelso
-  date: '2015'
+  date: '2015-10-12'
   link: https://doi.org/10.1186/s13059-015-0776-0
   title: '<span class="nocase">Schmutzi: estimation of contamination and endogenous mitochondrial consensus calling for ancient DNA</span>'
   publisher: Genome Biology
@@ -224,7 +264,7 @@
   - Tomislav Maricic
   - Victor Wiebe
   - Janet Kelso
-  date: '2015'
+  date: '2015-03-01'
   link: https://doi.org/10.1093/bioinformatics/btu719
   title: '<span class="nocase">deML: robust demultiplexing of Illumina sequences using a likelihood-based approach</span>'
   publisher: Bioinformatics
@@ -238,7 +278,7 @@
   - Gabriel Renaud
   - Udo Stenzel
   - Janet Kelso
-  date: '2014'
+  date: '2014-10-13'
   link: https://doi.org/10.1093/nar/gku699
   title: '<span class="nocase">leeHom: adaptor trimming and merging for Illumina sequencing reads</span>'
   publisher: Nucleic Acids Research
