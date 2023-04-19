@@ -10,7 +10,7 @@
   - Anders Gorm Pedersen
   - Mikkel Winther Pedersen
   - Gabriel Renaud
-  date: '2023'
+  date: '2023-04-04'
   link: https://doi.org/10.1101/2023.04.04.535531
   title: '<span class="nocase">euka: Robust detection of eukaryotic taxa from modern
     and ancient environmental DNA using pangenomic reference graphs.</span>'
@@ -25,7 +25,7 @@
   - Shyam Gopalakrishnan
   - Thomas Trolle
   - Gabriel Renaud
-  date: '2022'
+  date: '2022-11-8'
   link: https://doi.org/10.3389/fimmu.2022.987655
   title: <span class="nocase">Benchmarking freely available HLA typing algorithms
     across varying genes, coverages and typing resolutions</span>
@@ -42,7 +42,7 @@
   - Shyam Gopalakrishnan
   - Peter W. Sackett
   - Gabriel Renaud
-  date: '2022'
+  date: '2022-9-26'
   link: https://doi.org/10.1101/2022.09.23.509203
   title: '<span class="nocase">HaploCart: Human mtDNA Haplogroup Classification Using a Pangenomic Reference Graph</span>'
   publisher: bioRxiv
@@ -190,8 +190,8 @@
 - id: doi.org/10.1371/journal.pgen.1005972
   type: article-journal
   authors:
-  - Gabriel Renaud\*
-  - Fernando Racimo\*
+  - Gabriel Renaud*
+  - Fernando Racimo*
   - Montgomery Slatkin
   date: '2016'
   link: https://doi.org/10.1371/journal.pgen.1005972
@@ -211,7 +211,7 @@
   date: '2015'
   link: https://doi.org/10.1186/s13059-015-0776-0
   title: '<span class="nocase">Schmutzi: estimation of contamination and endogenous mitochondrial consensus calling for ancient DNA</span>'
-  container-title: Genome Biology
+  publisher: Genome Biology
   page: '224'
   volume: '16'
 
@@ -227,7 +227,7 @@
   date: '2015'
   link: https://doi.org/10.1093/bioinformatics/btu719
   title: '<span class="nocase">deML: robust demultiplexing of Illumina sequences using a likelihood-based approach</span>'
-  container-title: Bioinformatics
+  publisher: Bioinformatics
   page: 770-772
   volume: '31'
   issue: '5'
@@ -241,7 +241,7 @@
   date: '2014'
   link: https://doi.org/10.1093/nar/gku699
   title: '<span class="nocase">leeHom: adaptor trimming and merging for Illumina sequencing reads</span>'
-  container-title: Nucleic Acids Research
+  publisher: Nucleic Acids Research
   page: e141
   volume: '42'
   issue: '18'
