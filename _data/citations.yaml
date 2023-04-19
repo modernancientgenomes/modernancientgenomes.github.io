@@ -10,7 +10,8 @@
   - Anders Gorm Pedersen
   - Mikkel Winther Pedersen
   - Gabriel Renaud
-  date: 2023
+  date: '2023'
+  link: https://doi.org/10.1101/2023.04.04.535531
   title: '<span class="nocase">euka: Robust detection of eukaryotic taxa from modern
     and ancient environmental DNA using pangenomic reference graphs.</span>'
   publisher: bioRxiv
@@ -24,7 +25,8 @@
   - Shyam Gopalakrishnan
   - Thomas Trolle
   - Gabriel Renaud
-  date: 2022
+  date: '2022'
+  link: https://doi.org/10.3389/fimmu.2022.987655
   title: <span class="nocase">Benchmarking freely available HLA typing algorithms
     across varying genes, coverages and typing resolutions</span>
   container-title: <span class="nocase">Frontiers in Immunology</span>
@@ -40,7 +42,8 @@
   - Shyam Gopalakrishnan
   - Peter W. Sackett
   - Gabriel Renaud
-  date: 2022
+  date: '2022'
+  link: https://doi.org/10.1101/2022.09.23.509203
   title: '<span class="nocase">HaploCart: Human mtDNA Haplogroup Classification Using a Pangenomic Reference Graph</span>'
   publisher: bioRxiv
 
@@ -80,7 +83,8 @@
   - Gabriel Renaud
   - Aaron Stern
   - and others
-  date: 2022
+  date: '2022'
+  link: https://doi.org/10.1101/2022.05.04.490594
   title: <span class="nocase">Population Genomics of Stone Age Eurasia</span>
   publisher: bioRxiv
 
@@ -101,12 +105,13 @@
   - Gabriel Renaud
   - Min Dong
   - Doxey Andrew C
-  date: 2022
+  date: '2022'
+  link: http://doi.org/10.1101/2022.06.30.498301
   title: <span class="nocase">Ancient Clostridium DNA and variants of tetanus neurotoxins associated with human archaeological remains</span>
   container-title: <span class="nocase">bioRxiv</span>
   publisher: bioRxiv
   
-- id: margaryan2020population
+- id: doi.org/10.1038/s41586-020-2688-8
   type: article-journal
   authors:
   - Ashot Margaryan
@@ -128,7 +133,8 @@
   - Claude Bhérer
   - J. Vı́ctor Moreno-Mayar
   - and others
-  date: 2020
+  date: '2020'
+  link: https://doi.org/10.1038/s41586-020-2688-8
   title: Population genomics of the Viking world
   container-title: Nature
   publisher: Nature Publishing Group
@@ -145,7 +151,8 @@
   - Thorfinn Sand Korneliussen
   - Eske Willerslev
   - Ludovic Orlando
-  date: 2019
+  date: '2019'
+  link: https://doi.org/10.1534/genetics.119.302057
   title: Joint Estimates of Heterozygosity and Runs of Homozygosity for Modern and Ancient Samples
   container-title: Genetics
   publisher: Genetics
@@ -155,7 +162,8 @@
   type: article-journal
   authors:
   - Gabriel Renaud
-  date: 2017
+  date: '2017'
+  link: https://doi.org/10.1093/bioinformatics/btx749
   title: 'glactools: A command-line toolset for the management of genotype likelihoods and allele counts'
   title-short: glactools
   publisher: Bioinformatics
@@ -169,7 +177,8 @@
   - Kristian Hanghøj
   - Eske Willerslev
   - Ludovic Orlando
-  date: 2016
+  date: '2016'
+  link: https://doi.org/10.1093/bioinformatics/btw670
   title: 'gargammel: A sequence simulator for ancient DNA'
   title-short: Gargammel
   container-title: 
@@ -184,7 +193,8 @@
   - Gabriel Renaud\*
   - Fernando Racimo\*
   - Montgomery Slatkin
-  date: 2016
+  date: '2016'
+  link: https://doi.org/10.1371/journal.pgen.1005972
   title: Joint estimation of contamination, error and demography for nuclear DNA from ancient humans
   publisher: PLoS Genetics
   page: e1005972
@@ -198,7 +208,8 @@
   - Viviane Slon
   - Ana T. Duggan
   - Janet Kelso
-  date: 2015
+  date: '2015'
+  link: https://doi.org/10.1186/s13059-015-0776-0
   title: '<span class="nocase">Schmutzi: estimation of contamination and endogenous mitochondrial consensus calling for ancient DNA</span>'
   container-title: Genome Biology
   page: '224'
@@ -213,7 +224,8 @@
   - Tomislav Maricic
   - Victor Wiebe
   - Janet Kelso
-  date: 2015
+  date: '2015'
+  link: https://doi.org/10.1093/bioinformatics/btu719
   title: '<span class="nocase">deML: robust demultiplexing of Illumina sequences using a likelihood-based approach</span>'
   container-title: Bioinformatics
   page: 770-772
@@ -226,7 +238,8 @@
   - Gabriel Renaud
   - Udo Stenzel
   - Janet Kelso
-  date: 2014
+  date: '2014'
+  link: https://doi.org/10.1093/nar/gku699
   title: '<span class="nocase">leeHom: adaptor trimming and merging for Illumina sequencing reads</span>'
   container-title: Nucleic Acids Research
   page: e141
