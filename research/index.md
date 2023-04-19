@@ -9,6 +9,8 @@ nav:
 
 Our research interest is to computational methods applied to ancient DNA, sedimentary DNA, ancient microbes, low-coverage DNA, haplotypes, allele frequencies. We mostly use pangenomic graphs, Bayesian inference. We also collaborate closely with groups that produce empirical data.
 
+Here are some publications from the group along with software that is being actively supported by the lab.
+
 {% include section.html %}
 
 

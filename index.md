@@ -4,7 +4,7 @@ title: Home
 
 # Modern and Ancient Genomes
 
-The Modern and Ancient Genomes group is found at the Technical University of Denmark on the outskirts of Copenhagen. We are broadly interested in methods applied to next-generation sequencing data, genotyping, allele frequencies and resolved haplotypes from either modern and ancient genomes as we as sedimentary DNA. 
+The Modern and Ancient Genomes group headed by Prof. Gabriel Renaud is found at the Technical University of Denmark on the outskirts of Copenhagen. We are broadly interested in methods applied to next-generation sequencing data, genotyping, allele frequencies and resolved haplotypes from either modern and ancient genomes as we as sedimentary DNA. 
 
 
 {% include section.html full=true %}
@@ -18,7 +18,9 @@ The Modern and Ancient Genomes group is found at the Technical University of Den
 # Highlights
 
 {% capture text %}
+
 Pangenome graphs are a data structure to represent the known diversity of a species instead of just using a linear reference. Several computational tools are being developed actively to build such graphs and subsequently align DNA sequencing reads to them. In our group, we make extensive use of pangenome graphs in combination with Bayesian inference.  
+
 {:.center}
 {% endcapture %}
 
@@ -31,7 +33,9 @@ Pangenome graphs are a data structure to represent the known diversity of a spec
 %}
 
 {% capture text %}
+
 Ancient DNA (aDNA) is degraded DNA extracted from fossils, museum samples etc. aDNA offers an amazing opportunity to study ancient species but is plagued by fragmentation, short fragment length, chemical damage and contamination. Our group develops novel computational methods to deal with such idiosyncrasies.  
+
 {:.center}
 {% endcapture %}
 
@@ -54,13 +58,14 @@ Sedimentary DNA (sedaDNA) is ancient environmental DNA which involves retrieving
   include feature.html
   image="images/sedaDNA.png"
   link="research"
-  headline="Sedamentary DNA"
+  headline="Sedimentary DNA"
   text=text
 %}
 
 {% capture text %}
 
 Our group develops computational methods to analyze, store and use ancient allele frequencies. By studying genetic diversity in ancient populations, we can gain insights into the history and evolution of various species including humans. Our methods utilize advanced algorithms and statistical models to analyze large-scale datasets from modern and ancient sources.
+
 {:.center}
 {% endcapture %}
 
@@ -74,7 +79,7 @@ Our group develops computational methods to analyze, store and use ancient allel
 
 
 {% capture text %}
-Science needs to be open, reproducible to accessible to all. This is why our developed tools and analyzed data are made public on <a href="https://github.com/grenaud/">GitHub</a> and released under GPL or MIT licenses.
+Science needs to be open, reproducible and to accessible to all. This is why our developed tools and analyzed data are made public on <a href="https://github.com/grenaud/">GitHub</a> and released under GPL or MIT licenses.
 
 [See our tools &nbsp;→](tools)
 {:.center}

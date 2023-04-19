@@ -214,7 +214,6 @@
   - Victor Wiebe
   - Janet Kelso
   date: 2015
-    month: 3
   title: '<span class="nocase">deML: robust demultiplexing of Illumina sequences using a likelihood-based approach</span>'
   container-title: Bioinformatics
   page: 770-772
@@ -228,7 +227,6 @@
   - Udo Stenzel
   - Janet Kelso
   date: 2014
-    month: 10
   title: '<span class="nocase">leeHom: adaptor trimming and merging for Illumina sequencing reads</span>'
   container-title: Nucleic Acids Research
   page: e141
