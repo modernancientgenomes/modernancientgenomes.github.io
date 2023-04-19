@@ -1,54 +1,55 @@
-- name: Gplas
-  group: wgs
-  image: images/gplas_logo.png
-  link: https://gitlab.com/mmb-umcu/gplas
-  description: gplas is a tool to bin plasmid-predicted contigs based on sequence composition, coverage and assembly graph information. This tool extends the possibility of accurately binning predicted plasmid contigs into several discrete plasmid components.
-  repo: mmb-umcu/gplas
+- name: euka
+  group: software
+  image: images/euka.png
+  link: https://github.com/grenaud/vgan
+  description:  euka (part of vgan) is a tool for bilaterian abundance estimation of ancient environmental DNA. 
+  repo: grenaud/vgan
   tags: 
-    - Plasmid
+    - sedaDNA
+    - eDNA
+    - aDNA
 
 
-- name: mlplasmids
-  group: wgs
-  image: images/mlplasmids_logo.png
-  link: https://gitlab.com/sirarredondo/mlplasmids
-  description: mlplasmids consists of binary classifiers to predict contigs either as plasmid-derived or chromosome-derived. It currently classifies short-read contigs as chromosomes and plasmids for *Enterococcus faecium*, *Enterococcus faecalis*, *Klebsiella pneumoniae* and *Acinetobacter baumannii*. 
-  repo: sirarredondo/mlplasmids
+- name: HaploCart
+  group: software
+  image: images/haplocart.png
+  link: https://github.com/grenaud/vgan
+  description: Haplocart (part of vgan) classifies modern human mtDNA haplogroup.
+  repo: grenaud/vgan
   tags:
-    - Plasmid
+    - mtDNA
 
 
-- name: MetaMobilePicker
-  group: metagenomics
-  image: images/MMP_logo.png
-  link: https://gitlab.com/jkerkvliet/metamobilepicker
-  description: MetaMobilePicker is a computational pipeline designed to identify mobile genetic elements and antimicrobial resistance genes in metagenomics samples. Currently it identifies plasmids, insertion sequences and bacteriophages. 
-  repo: jkerkvliet/metamobilepicker
+- name: cinch
+  group: software
+  image: images/cinch.png
+  link: https://github.com/grenaud/cinch
+  description: cinch is a non-negative matrix factorization tool to infer levels of tumor DNA from cell-free DNA.
+  repo: grenaud/cinch
   tags:
-    - Plasmid
-    - MGEs
-    - AMR
-    - Assembly
-    - Annotation
+    - cfDNA
+    - ctDNA
     
-- name: Tourmaline
-  group: metagenomics
-  image: images/tourmaline_icon.svg
-  link: https://gitlab.com/malbert.rogers/tourmaline
-  description: Tourmaline is an amplicon sequence processing workflow for Illumina sequence data developed by the [Nacional Oceanic and Atmospheric Administration](https://github.com/aomlomics/tourmaline) that uses QIIME 2 and the software packages it wraps. We modified this package to fit our sequencing data and system requirements.
-  repo: malbert.rogers/tourmaline
+- name: ROHan
+  group: software
+  image: images/rohan.png
+  link: https://github.com/grenaud/rohan
+  description: ROHan is a Bayesian framework to estimate local rates of heterozygosity, infer runs of homozygosity (ROH) and compute global rates of heterozygosity. ROHan can work on modern and ancient samples with signs of ancient DNA damage.
+  repo: grenaud/rohan
   tags:
-     - 16S
-     - Taxonomy
+     - aDNA
+     - ROH
 
-- name: plasmidEC
-  group: wgs
-  image: images/plasmidEC_logo_2.svg
-  link: https://gitlab.com/mmb-umcu/plasmidEC
-  description: " plasmidEC identifies plasmid-derived contigs in all bacterial species. This tool combines the output of three binary classification tools and implements a majority vote system. Currently, the user can choose any combination of the following four softwares: Centrifuge, Platon, RFPlasmid and mlplasmids."
-  repo: mmb-umcu/plasmidec
+- name: glactools
+  group: software
+  image: images/glactools.png
+  link: https://github.com/grenaud/glactools/
+  description: glactools is a set of command-line tools for the management of Genotype Likelihood (GL) and Allele Counts (AC).
+  repo: grenaud/glactools/
   tags:
-    - Plasmid
+    - allele counts
+    - allele frequency
+    
     
 
 - name: Bactofidia
