@@ -48,7 +48,7 @@
   repo: grenaud/gargammel
   tags:
      - aDNA
-     - simulation
+
 
 - name: glactools
   group: software
@@ -107,14 +107,14 @@
 
 - name: 22126 - Introduction to Next Generation Sequencing Analysis
   group: education
-  image: images/ngs.svg
+  image: images/ngs.png
   link: https://teaching.healthtech.dtu.dk/22126/index.php/22126_-_Next_Generation_Sequencing_Analysis
   description: Three week graduate-level course on introduction to next-generation sequencing (NGS) data analysis, introduction to UNIX and command-line use.
 
 
 - name: Introduction to population genetics, human ancestry and health
   group: education
-  image: images/popgen.svg
+  image: images/popgen.png
   link: https://teaching.healthtech.dtu.dk/22126/index.php/22126_-_Next_Generation_Sequencing_Analysis
   description: Three month graduate-level course to understand basic concepts in population genetics concepts and their links to human health and disease (starting Fall 2024)
   
