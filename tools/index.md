@@ -20,15 +20,9 @@ Are you a wet-labber? Are you interested in learning bioinformatics? Then you sh
 
 # Tools
 
-## Whole Genome Sequencing
+## Software
 
-{% include list.html component="card" data="tools" filters="group: wgs" %}
-
-{% include section.html %}
-
-## Metagenomics
-
-{% include list.html component="card" data="tools" filters="group: metagenomics" %}
+{% include list.html component="card" data="tools" filters="group: software" %}
 
 {% include section.html %}
 
