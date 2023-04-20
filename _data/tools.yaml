@@ -40,6 +40,16 @@
      - aDNA
      - ROH
 
+- name: gargammel
+  group: software
+  image: images/gargammel.png
+  link: https://github.com/grenaud/gargammel
+  description: gargammel is a set of programs aimed at simulating ancient DNA fragments. For ancient hominin samples our program can also simulate various levels of present-day human contamination and microbial contamination.
+  repo: grenaud/gargammel
+  tags:
+     - aDNA
+     - simulation
+
 - name: glactools
   group: software
   image: images/glactools.png
@@ -50,42 +60,61 @@
     - allele counts
     - allele frequency
     
-    
-
-- name: Bactofidia
-  group: wgs
-  image: images/bactofidia_logo.png
-  link: https://gitlab.com/mmb-umcu/bactofidia-stable
-  description: bactofidia is a bacterial assembly and basic analysis pipeline using Snakemake and bioconda. It is currently written for paired-end Illumina data with length 250 or 150. The pipeline is written to ensure reproducibility, and creates virtual software environments with the software versions that are used for analysis.
-  repo: mmb-umcu/bactofidia-stable
+- name: DICE
+  group: software
+  image: images/dice.png
+  link: https://github.com/grenaud/dice
+  description: DICE is a Bayesian method to jointly estimate error rates, demographic parameters and the rate of contamination from present-day humans in ancient DNA (aDNA) samples from modern or archaic humans. Our approach is based on an MCMC sampler, and is applicable to nuclear autosomal aDNA data. It can also serve to infer the most probable ancestry of the individual(s) that contaminated the sample.
+  repo: grenaud/dice
   tags: 
-    - Assembly
-    - AMR
-    - Annotation
+    - contamination
+    - aDNA
 
 
-- name: ClonalTraker
-  group: wgs
-  image: images/VREfidia_logo.png
-  link: http://212.227.129.221/index.html
-  description: ClonalTraker is a tool to compare any two vancomycin-resistant *Enterococcus faecium* (VRE), and the genomic context of the van operon.
-  repo: victoriapascal/clonaltracker
+- name: Schmutzi
+  group: software
+  image: images/schmutzi.png
+  link: https://github.com/grenaud/schmutzi
+  description: schmutzi is a set of programs aimed at ancient DNA data that can estimate contamination based on deamination patterns alone, call a mitonchondrial consensus for the endogenous genome while taking into account contamination and deamination and estimate mitonchondrial contamination and identify the most likely contaminant.
+  repo: grenaud/schmutzi
   tags:
-     - AMR
-     - MGEs
+     - contamination
+     - aDNA
+     - mtDNA
 
-- name: Molecular Epidemiology of Infectious Diseases - computer practical
+- name: deML
+  group: software
+  image: images/deml.png
+  link: https://github.com/grenaud/schmutzi
+  description: deML is a program for maximum likelihood demultiplexing of next-generation sequencing data.
+  repo: grenaud/schmutzi
+  tags:
+     - contamination
+     - aDNA
+     - mtDNA
+
+- name: leeHom
+  group: software
+  image: images/leehom.png
+  link: https://github.com/grenaud/leeHom/
+  description: leeHom is a program to trim adapters and merge overlapping sequencing using a Bayesian reconstruction. This is particularly useful for ancient DNA and or DNA shorter fragment sizes like cell-free DNA.
+  repo: grenaud/leeHom/
+  tags:
+     - contamination
+     - aDNA
+     - mtDNA
+
+
+- name: 22126 - Introduction to Next Generation Sequencing Analysis
   group: education
-  image: images/education_logo_mmbioit.svg
-  link: https://aschuerch.github.io/MolecularEpidemiology_AnalysisWGS/
-  description: Three day graduate level course on molecular epidemiology teaching the command line, WGS, annotation and pangenomics.
-  repo: aschuerch/MolecularEpidemiology_AnalysisWGS
- 
-  
-- name: Microbial Genomics Workshop
+  image: images/ngs.svg
+  link: https://teaching.healthtech.dtu.dk/22126/index.php/22126_-_Next_Generation_Sequencing_Analysis
+  description: Three week graduate-level course on introduction to next-generation sequencing (NGS) data analysis, introduction to UNIX and command-line use.
+
+
+- name: Introduction to population genetics, human ancestry and health
   group: education
-  image: images/education_logo_mmbioit.svg
-  link: https://mmb-umcu.github.io/genomics-workshop/
-  description: Three day course on microbial genomics from commandline to SNP analyses using data from the Lenski Long Term Evolution experiment.
-  repo: aschuerch/MolecularEpidemiology_AnalysisWGS
+  image: images/popgen.svg
+  link: https://teaching.healthtech.dtu.dk/22126/index.php/22126_-_Next_Generation_Sequencing_Analysis
+  description: Three month graduate-level course to understand basic concepts in population genetics concepts and their links to human health and disease (starting Fall 2024)
   
