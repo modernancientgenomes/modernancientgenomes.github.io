@@ -48,7 +48,7 @@
   repo: grenaud/gargammel
   tags:
      - aDNA
-
+     - simulation
 
 - name: glactools
   group: software

@@ -95,9 +95,9 @@ nav:
 
 ## Join
 
-We have no open positions at the moment.
+We are always looking for new people to work with! Please contact the PI directly.
 
-{% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
+
 {:.center}
 
 {% include section.html %}
