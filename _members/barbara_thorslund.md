@@ -1,6 +1,6 @@
 ---
-name: Giulia Fornero
-image: images/people/giulia-fornero.jpg
+name: Barbara Thorslund
+image: images/people/woman.jpg
 description: Student
 status: alumni
 role: student

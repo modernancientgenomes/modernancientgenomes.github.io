@@ -1,8 +1,8 @@
 ---
-name: Giulia Fornero
-image: images/people/giulia-fornero.jpg
-description: Student
-status: alumni
+name: Annette Lien
+image: images/people/Annette Lien.jpg
+description: M.Sc
+status: current
 role: student
 aliases:
   - 

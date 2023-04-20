@@ -1,7 +1,7 @@
 ---
-name: Giulia Fornero
-image: images/people/giulia-fornero.jpg
-description: Student
+name: Ángela Miranda Segura
+image: images/people/angela_segura.jpg
+description: M.Sc
 status: alumni
 role: student
 aliases:
