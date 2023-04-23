@@ -1,5 +1,5 @@
 ---
-name: Ángela Miranda Segura
+name: Angela Miranda Segura
 image: images/people/angela_segura.jpg
 description: M.Sc
 status: alumni
