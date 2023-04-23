@@ -1,14 +1,8 @@
 ---
-name: Giulia Fornero
-image: images/people/giulia-fornero.jpg
-description: Student
+name: Leonardo Pestana Legori
+image: images/people/leonardo_legori.jpg
+description: B.Sc
 status: alumni
 role: student
 aliases:
-  - 
-links: 
-  home-page: 
-  email: 
-  github: 
-  linkedin: 
 ---

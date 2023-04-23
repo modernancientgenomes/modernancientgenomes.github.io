@@ -1,6 +1,6 @@
 ---
 name: Barbara Thorslund
-image: images/people/woman.jpg
+image: images/people/mortar.jpg
 description: Student
 status: alumni
 role: student

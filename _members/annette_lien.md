@@ -1,6 +1,6 @@
 ---
 name: Annette Lien
-image: images/people/Annette Lien.jpg
+image: images/people/annette_lien.jpg
 description: M.Sc
 status: current
 role: student

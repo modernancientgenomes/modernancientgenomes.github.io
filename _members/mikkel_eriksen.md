@@ -1,6 +1,6 @@
 ---
-name: Giulia Fornero
-image: images/people/giulia-fornero.jpg
+name: Mikkel Spallou Eriksen
+image: images/people/mikkel_eriksen.jpg
 description: Student
 status: alumni
 role: student

@@ -1,14 +1,8 @@
 ---
-name: Giulia Fornero
-image: images/people/giulia-fornero.jpg
+name: Martynas Baltusis
+image: images/people/mortar.jpg
 description: Student
 status: alumni
 role: student
 aliases:
-  - 
-links: 
-  home-page: 
-  email: 
-  github: 
-  linkedin: 
 ---

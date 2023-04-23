@@ -1,6 +1,6 @@
 ---
-name: Giulia Fornero
-image: images/people/giulia-fornero.jpg
+name: Nikolas Thuesen
+image: images/people/nikolas_thuesen.jpg
 description: Student
 status: alumni
 role: student

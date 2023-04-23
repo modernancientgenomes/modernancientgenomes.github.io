@@ -1,6 +1,6 @@
 ---
-name: Giulia Fornero
-image: images/people/giulia-fornero.jpg
+name: Emilie Sofie Engdal
+image: images/people/emilie_engdal.jpg
 description: Student
 status: alumni
 role: student

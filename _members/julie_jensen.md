@@ -1,14 +1,8 @@
 ---
-name: Giulia Fornero
-image: images/people/giulia-fornero.jpg
-description: Student
-status: alumni
+name: Julie Kragmose Jensen
+image: images/people/mortar.jpg
+description: M.Sc
+status: current
 role: student
 aliases:
-  - 
-links: 
-  home-page: 
-  email: 
-  github: 
-  linkedin: 
 ---

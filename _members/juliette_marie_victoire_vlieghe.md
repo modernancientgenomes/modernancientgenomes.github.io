@@ -1,14 +1,8 @@
 ---
-name: Giulia Fornero
-image: images/people/giulia-fornero.jpg
-description: Student
+name: Juliette Marie Victoire Vlieghe
+image: images/people/juliette_vlieghe.jpg
+description: B.Sc
 status: alumni
 role: student
 aliases:
-  - 
-links: 
-  home-page: 
-  email: 
-  github: 
-  linkedin: 
 ---

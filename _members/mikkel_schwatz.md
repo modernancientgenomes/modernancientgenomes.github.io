@@ -1,6 +1,6 @@
 ---
-name: Giulia Fornero
-image: images/people/giulia-fornero.jpg
+name: Mikkel Schwatz
+image: images/people/mortar.jpg
 description: Student
 status: alumni
 role: student
