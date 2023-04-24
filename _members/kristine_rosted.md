@@ -2,7 +2,7 @@
 name: Kristine Emilie Rosted Petersen
 image: images/people/mortar.jpg
 description: B.Sc
-status: alumni
+status: current
 role: student
 aliases:
 ---

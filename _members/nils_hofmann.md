@@ -1,6 +1,6 @@
 ---
-name: Mikkel Spallou Eriksen
-image: images/people/mikkel_eriksen.jpg
+name: Nils Hofmann
+image: images/people/nils_hofmann.jpg
 description: M.Sc
 status: current
 role: student

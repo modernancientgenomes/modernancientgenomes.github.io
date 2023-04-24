@@ -1,7 +1,7 @@
 ---
 name: Mikkel Schwatz
 image: images/people/mortar.jpg
-description: Student
+description: B.Sc
 status: alumni
 role: student
 aliases:

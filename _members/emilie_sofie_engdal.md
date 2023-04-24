@@ -1,7 +1,7 @@
 ---
 name: Emilie Sofie Engdal
 image: images/people/emilie_engdal.jpg
-description: Student
+description: B.Sc
 status: alumni
 role: student
 aliases:

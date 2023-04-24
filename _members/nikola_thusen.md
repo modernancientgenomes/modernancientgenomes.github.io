@@ -1,7 +1,7 @@
 ---
 name: Nikolas Thuesen
 image: images/people/nikolas_thuesen.jpg
-description: Student
+description: M.Sc
 status: alumni
 role: student
 aliases:

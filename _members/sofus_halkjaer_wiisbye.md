@@ -1,5 +1,5 @@
 ---
-name: sofus Halkjaer Wiisbye
+name: Sofus Halkjaer Wiisbye
 image: images/people/sofus_wiisbye.jpg
 description: M.Sc
 status: alumni

@@ -1,7 +1,7 @@
 ---
 name: Barbara Thorslund
 image: images/people/mortar.jpg
-description: Student
+description: M.Sc
 status: alumni
 role: student
 aliases:
