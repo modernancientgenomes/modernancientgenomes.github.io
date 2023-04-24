@@ -1,6 +1,6 @@
 ---
 name: Mads Hartmann
-image: images/people/mads_hartmann.jpg
+image: images/people/mortar.jpg
 description: M.Sc
 status: current
 role: student

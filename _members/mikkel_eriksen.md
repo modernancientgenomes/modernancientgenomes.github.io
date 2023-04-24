@@ -1,6 +1,6 @@
 ---
 name: Mikkel Spallou Eriksen
-image: images/people/mikkel_eriksen.jpg
+image: images/people/mortar.jpg
 description: M.Sc
 status: current
 role: student

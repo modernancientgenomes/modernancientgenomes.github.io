@@ -6,8 +6,11 @@ nav:
 ---
 
 # <i class="fas fa-envelope"></i>Contact
-Our lab is part of the group of [Prof. Rob Willems](https://www.umcutrecht.nl/en/Research/Researchers/Willems-Rob-RJL) of the [Department of Medical Microbiology](https://www.umcutrecht.nl/nl/over-ons-medische-microbiologie?lang=en), at the Division Laboratories, Pharmacy and Biomedical Genetics, [University Medical Center Utrecht](https://www.umcutrecht.nl/en).
-  
+
+
+Our group is part of the [Bioinformatics Section](https://www.healthtech.dtu.dk/research/research-sections/section-bioinformatics) at the [Department of Health Technologies](https://www.healthtech.dtu.dk/) at the Technical University of Denmark (https://www.dtu.dk/). We located in Lyngby which is 12km north of Copenhagen, Denmark. We are part of the EuroTech Universities Alliance.
+
+Lyngy is 15 mins away from downtown Copenhagen by train and surrounded by amazing forests and lakes. 
 
 {%
   include link.html
@@ -15,16 +18,7 @@ Our lab is part of the group of [Prof. Rob Willems](https://www.umcutrecht.nl/en
   icon=""
   text=""
   tooltip=""
-  link="a.c.schurch@umcutrecht.nl"
-  style="button"
-%}
-{%
-  include link.html
-  type="phone"
-  icon=""
-  text=""
-  tooltip=""
-  link="+31887551318"
+  link="gabriel.reno@gmail.com"
   style="button"
 %}
 {%
@@ -33,39 +27,26 @@ Our lab is part of the group of [Prof. Rob Willems](https://www.umcutrecht.nl/en
   icon=""
   text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://goo.gl/maps/NKyMyckT54guBjvz6"
+  link="https://goo.gl/maps/RtFktTm8QkmvFpqX8"
   style="button"
 %}
 {:.center}
 
 {% include section.html %}
 
-### <i class="fas fa-mail-bulk"></i>Mailing Address
-
-Heidelberglaan 100
-{:.center}
-
-3584 CX Utrecht
-{:.center}
-
-Internal mail no. G04.614
-{:.center}
-
-The Netherlands
-{:.center}
 
 {% capture col1 %}
 {%
   include figure.html
-  image="images/robin-ooode-XusR7PXCV0o-unsplash.jpg"
-  caption="Utrecht by Robin Oode on Unsplash"
+  image="images/eremitageslotte-unesco.jpg"
+  caption="The Dyrehave (deer park) (picture by Peter Lassen at the Nturstyrelsen)"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
-  image="images/bodi-raw-izMtCpq_RyI-unsplash.jpg"
-  caption="Utrecht by Bodi.raw on Unsplash"
+  image="images/images/furesoen.jpg"
+  caption="Furesøen (by [Henrik Pers](https://brugere.lex.dk/6941)"
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}
