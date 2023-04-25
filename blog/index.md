@@ -19,7 +19,7 @@ nav:
 
 <!-- Twitter embeds from https://publish.twitter.com/ -->
 
-<a class="twitter-timeline" data-width="400" align="left" data-height="400"  href="https://twitter.com/grenaud">Tweets by Gabriel Renaud</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<a class="twitter-timeline" data-width="400" align="left" data-height="400"  href="https://twitter.com/gabrielylr">Tweets by Gabriel Renaud</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 <p>
 <p>
