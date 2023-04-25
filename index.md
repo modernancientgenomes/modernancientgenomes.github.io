@@ -4,7 +4,7 @@ title: Home
 
 # Modern and Ancient Genomes
 
-The Modern and Ancient Genomes group headed by Prof. Gabriel Renaud is found at the Technical University of Denmark on the outskirts of Copenhagen. We are broadly interested in methods applied to next-generation sequencing data, genotyping, allele frequencies and resolved haplotypes from either modern and ancient genomes as we as sedimentary DNA. 
+The Modern and Ancient Genomes group headed by Prof. Gabriel Renaud is found at the Technical University of Denmark on the outskirts of Copenhagen. We are broadly interested in methods applied to next-generation sequencing data, genotyping, allele frequencies and resolved haplotypes from either modern and ancient genomes as well as sedimentary DNA. 
 
 
 {% include section.html full=true %}
@@ -49,7 +49,7 @@ Ancient DNA (aDNA) is degraded DNA extracted from fossils, museum samples etc. a
 
 {% capture text %}
 
-Sedimentary DNA (sedaDNA) is ancient environmental DNA which involves retrieving genetic material from environments where multiple organism will contribute to it. However, the computational analysis of sedaDNA both faces the problems of ancient DNA and environmental DNA where multiple contributing species need to be deconvoluted. We craft exciting new tools to be able to analyze sedaDNA datasets for hominins, eukaryotes and microbes.  
+Sedimentary DNA (sedaDNA) is ancient environmental DNA that involves retrieving genetic material from environments where multiple organisms will contribute to it. However, the computational analysis of sedaDNA both faces the problems of ancient DNA and environmental DNA where multiple contributing species need to be deconvoluted. We craft exciting new tools to be able to analyze sedaDNA datasets for hominins, eukaryotes and microbes.  
 
 {:.center}
 {% endcapture %}
@@ -79,7 +79,7 @@ Our group develops computational methods to analyze, store and use ancient allel
 
 
 {% capture text %}
-Science needs to be open, reproducible and to accessible to all. This is why our developed tools and analyzed data are made public on <a href="https://github.com/grenaud/">GitHub</a> and released under GPL or MIT licenses.
+Science needs to be open, reproducible and accessible to all. This is why our developed tools and analyzed data are made public on <a href="https://github.com/grenaud/">GitHub</a> and released under GPL or MIT licenses.
 
 [See our tools &nbsp;→](tools)
 {:.center}
