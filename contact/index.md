@@ -46,7 +46,7 @@ Lyngy is 15 mins away from downtown Copenhagen by train and surrounded by amazin
 {% capture col2 %}
 {%
   include figure.html
-  image="images/images/furesoen.jpg"
+  image="images/furesoen.jpg"
   caption="Furesoen (by [Henrik Pers](https://brugere.lex.dk/6941)"
 %}
 {% endcapture %}
