@@ -30,6 +30,7 @@ Lyngy is 15 mins away from downtown Copenhagen by train and surrounded by amazin
   link="https://goo.gl/maps/RtFktTm8QkmvFpqX8"
   style="button"
 %}
+
 {:.center}
 
 {% include section.html %}
@@ -39,14 +40,14 @@ Lyngy is 15 mins away from downtown Copenhagen by train and surrounded by amazin
 {%
   include figure.html
   image="images/eremitageslotte-unesco.jpg"
-  caption="The Dyrehave (deer park) (picture by Peter Lassen at the Nturstyrelsen)"
+  caption="The Dyrehave (deer park) (picture by Peter Lassen at the Naturstyrelsen)"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
   image="images/images/furesoen.jpg"
-  caption="Furesøen (by [Henrik Pers](https://brugere.lex.dk/6941)"
+  caption="Furesoen (by [Henrik Pers](https://brugere.lex.dk/6941)"
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}
