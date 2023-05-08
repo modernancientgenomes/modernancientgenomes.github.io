@@ -1,6 +1,6 @@
 ---
 name: Martynas Baltusis
-image: images/people/mortar.jpg
+image: images/people/martynas.png
 description: M.Sc
 status: current
 role: student
