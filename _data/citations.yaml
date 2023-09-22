@@ -1,4 +1,92 @@
 ---
+- id: hodgins2023ancient
+  type: article
+  title: "Ancient Clostridium DNA and variants of tetanus neurotoxins associated with human archaeological remains"
+  author:
+    - Hodgins, Harold P
+    - Chen, Pengsheng
+    - Lobb, Briallen
+    - Wei, Xin
+    - Tremblay, Benjamin JM
+    - Mansfield, Michael J
+    - Lee, Victoria CY
+    - Lee, Pyung-Gang
+    - Coffin, Jeffrey
+    - Duggan, Ana T
+    - others
+  journal: "Nature Communications"
+  volume: 14
+  number: 1
+  pages: 5475
+  year: 2023
+  publisher: "Nature Publishing Group UK London"
+
+- id: sandoval2023ancestry
+  type: article
+  title: "The ancestry and geographical origins of St Helena's liberated Africans"
+  author:
+    - Sandoval-Velasco, Marcela
+    - Jagadeesan, Anuradha
+    - Ramos-Madrigal, Jazmín
+    - Ávila-Arcos, María C
+    - Fortes-Lima, Cesar A
+    - Watson, Judy
+    - Johannesdóttir, Erna
+    - Cruz-Dávalos, Diana I
+    - Gopalakrishnan, Shyam
+    - Moreno-Mayar, J Víctor
+    - others
+  journal: "The American Journal of Human Genetics"
+  volume: 110
+  number: 9
+  pages: 1590-1599
+  year: 2023
+  publisher: "Elsevier"
+
+- id: rubin2023haplocart
+  type: article
+  title: "HaploCart: Human mtDNA haplogroup classification using a pangenomic reference graph human mtDNA haplogroup inference"
+  author:
+    - Rubin, Joshua Daniel
+    - Vogel, Nicola Alexandra
+    - Gopalakrishnan, Shyam
+    - Sackett, Peter Wad
+    - Renaud, Gabriel
+  journal: "PLOS Computational Biology"
+  volume: 19
+  number: 6
+  pages: e1011148
+  year: 2023
+  publisher: "Public Library of Science San Francisco, CA USA"
+
+- id: diaz2023limits
+  type: article
+  title: "The Limits of Haplotype-Based Approaches: Exploring the Applicability of the Li and Stephens Haplotype-Copying Model to Ancient Samples"
+  author:
+    - Díaz-Pinés Cort, Isabel
+    - Rubin, Joshua Daniel
+    - Wad Sackett, Peter
+    - Renaud, Gabriel
+  journal: "bioRxiv"
+  pages: 2023-06
+  year: 2023
+  publisher: "Cold Spring Harbor Laboratory"
+
+- id: lien2023benchmarking
+  type: article
+  title: "Benchmarking software tools for trimming adapters and merging next-generation sequencing data for ancient DNA"
+  author:
+    - Lien, Annette
+    - Pestana Legori, Leonardo
+    - Kraft, Louis
+    - Wad Sackett, Peter
+    - Renaud, Gabriel
+  journal: "bioRxiv"
+  pages: 2023-07
+  year: 2023
+  publisher: "Cold Spring Harbor Laboratory"
+
+
 - id: doi.org/10.1101/2023.04.04.535531
   type: article-journal
   authors:

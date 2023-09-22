@@ -1,8 +1,8 @@
 ---
-name: Mikkel Spallou Eriksen
-image: images/people/mikkel_eriksen.jpg
+name: Anna Keisha Mercy Kyei Boateng
+image: images/people/anna_boateng.jpg
 description: M.Sc
-status: alumni
+status: current
 role: student
 aliases:
   - 
