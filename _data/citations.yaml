@@ -1,4 +1,186 @@
 ---
+
+- id: allentoft2024100
+  type: article-journal
+  author:
+  - family: Allentoft
+    given: Morten E.
+  - family: Sikora
+    given: Martin
+  - family: Refoyo-Martínez
+    given: Alba
+  - family: Irving-Pease
+    given: Evan K.
+  - family: Fischer
+    given: Anders
+  - family: Barrie
+    given: William
+  - family: Ingason
+    given: Andrés
+  - family: Stenderup
+    given: Jesper
+  - family: Sjögren
+    given: Karl-Göran
+  - family: Pearson
+    given: Alice
+  - family: Sousa da Mota
+    given: Bárbara
+  - family: Schulz Paulsson
+    given: Bettina
+  - family: Halgren
+    given: Alma
+  - family: Macleod
+    given: Ruairidh
+  - family: Jørkov
+    given: Marie Louise Schjellerup
+  - family: Demeter
+    given: Fabrice
+  - family: Sørensen
+    given: Lasse
+  - family: Nielsen
+    given: Poul Otto
+  - family: Henriksen
+    given: Rasmus A.
+  - family: Vimala
+    given: Tharsika
+  - family: McColl
+    given: Hugh
+  - family: Margaryan
+    given: Ashot
+  - family: Ilardo
+    given: Melissa
+  - family: Vaughn
+    given: Andrew
+  - family: Fischer Mortensen
+    given: Morten
+  - family: Nielsen
+    given: Anne Birgitte
+  - family: Ulfeldt Hede
+    given: Mikkel
+  - family: Johannsen
+    given: Niels Nørkjær
+  - family: Rasmussen
+    given: Peter
+  - family: Vinner
+    given: Lasse
+  - family: Renaud
+    given: Gabriel
+  - family: Stern
+    given: Aaron
+  - literal: others
+  issued:
+  - year: 2024
+  title: <span class="nocase">100 ancient genomes show repeated population turnovers
+    in Neolithic Denmark</span>
+  container-title: Nature
+  publisher: Nature Publishing Group UK London
+  page: 329-337
+  volume: '625'
+  issue: '7994'
+
+- id: allentoft2024population
+  type: article-journal
+  author:
+  - family: Allentoft
+    given: Morten E.
+  - family: Sikora
+    given: Martin
+  - family: Fischer
+    given: Anders
+  - family: Sjögren
+    given: Karl-Göran
+  - family: Ingason
+    given: Andrés
+  - family: Macleod
+    given: Ruairidh
+  - family: Rosengren
+    given: Anders
+  - family: Schulz Paulsson
+    given: Bettina
+  - family: Jørkov
+    given: Marie Louise Schjellerup
+  - family: Novosolov
+    given: Maria
+  - family: Stenderup
+    given: Jesper
+  - family: Price
+    given: T. Douglas
+  - family: Fischer Mortensen
+    given: Morten
+  - family: Nielsen
+    given: Anne Birgitte
+  - family: Ulfeldt Hede
+    given: Mikkel
+  - family: Sørensen
+    given: Lasse
+  - family: Nielsen
+    given: Poul Otto
+  - family: Rasmussen
+    given: Peter
+  - family: Jensen
+    given: Theis Zetner Trolle
+  - family: Refoyo-Martínez
+    given: Alba
+  - family: Irving-Pease
+    given: Evan K.
+  - family: Barrie
+    given: William
+  - family: Pearson
+    given: Alice
+  - family: Sousa da Mota
+    given: Bárbara
+  - family: Demeter
+    given: Fabrice
+  - family: Henriksen
+    given: Rasmus A.
+  - family: Vimala
+    given: Tharsika
+  - family: McColl
+    given: Hugh
+  - family: Vaughn
+    given: Andrew
+  - family: Vinner
+    given: Lasse
+  - family: Renaud
+    given: Gabriel
+  - family: Stern
+    given: Aaron
+  - literal: others
+  issued:
+  - year: 2024
+  title: <span class="nocase">Population genomics of post-glacial western Eurasia</span>
+  container-title: Nature
+  publisher: Nature Publishing Group UK London
+  page: 301-311
+  volume: '625'
+  issue: '7994'
+
+- id: vogel2023euka
+  type: article-journal
+  author:
+  - family: Vogel
+    given: Nicola Alexandra
+  - family: Rubin
+    given: Joshua Daniel
+  - family: Swartz
+    given: Mikkel
+  - family: Vlieghe
+    given: Juliette
+  - family: Sackett
+    given: Peter Wad
+  - family: Pedersen
+    given: Anders Gorm
+  - family: Pedersen
+    given: Mikkel Winther
+  - family: Renaud
+    given: Gabriel
+  issued:
+  - year: 2023
+  title: '<span class="nocase">euka: Robust tetrapodic and arthropodic taxa detection
+    from modern and ancient environmental DNA using pangenomic reference graphs</span>'
+  container-title: <span class="nocase">Methods in Ecology and Evolution</span>
+  publisher: Wiley Online Library
+
 - id: hodgins2023ancient
   type: article
   title: "Ancient Clostridium DNA and variants of tetanus neurotoxins associated with human archaeological remains"
@@ -73,37 +255,26 @@
   publisher: "Cold Spring Harbor Laboratory"
 
 - id: lien2023benchmarking
-  type: article
-  title: "Benchmarking software tools for trimming adapters and merging next-generation sequencing data for ancient DNA"
-  author:
-    - Lien, Annette
-    - Pestana Legori, Leonardo
-    - Kraft, Louis
-    - Wad Sackett, Peter
-    - Renaud, Gabriel
-  journal: "bioRxiv"
-  pages: 2023-07
-  year: 2023
-  publisher: "Cold Spring Harbor Laboratory"
-
-
-- id: doi.org/10.1101/2023.04.04.535531
   type: article-journal
-  authors:
-  - Nicola Alexandra Vogel
-  - Joshua Daniel Rubin
-  - Mikkel Swartz
-  - Juliette Vlieghe
-  - Peter Wad Sackett
-  - Anders Gorm Pedersen
-  - Mikkel Winther Pedersen
-  - Gabriel Renaud
-  date: '2023-04-04'
-  link: https://doi.org/10.1101/2023.04.04.535531
-  title: '<span class="nocase">euka: Robust detection of eukaryotic taxa from modern
-    and ancient environmental DNA using pangenomic reference graphs.</span>'
-  publisher: bioRXIV
-  page: 2023-04
+  author:
+  - family: Lien
+    given: Annette
+  - family: Legori
+    given: Leonardo Pestana
+  - family: Kraft
+    given: Louis
+  - family: Sackett
+    given: Peter Wad
+  - family: Renaud
+    given: Gabriel
+  issued:
+  - year: 2023
+  title: <span class="nocase">Benchmarking software tools for trimming adapters and
+    merging next-generation sequencing data for ancient DNA</span>
+  container-title: <span class="nocase">Frontiers in Bioinformatics</span>
+  publisher: Frontiers Media SA
+  volume: '3'
+
 
 - id: doi.org/10.3389/fimmu.2022.987655
   type: article-journal
