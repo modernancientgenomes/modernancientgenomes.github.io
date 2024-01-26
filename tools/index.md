@@ -2,7 +2,7 @@
 title: Tools
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: Software, courses, and more
 ---
 
 # <i class="fas fa-tools"></i>Tools & Education

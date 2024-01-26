@@ -93,6 +93,23 @@ Science needs to be open, reproducible and accessible to all. This is why our de
   text=text
 %}
 
+
+{% capture text %}
+Training the next generation of new scientists and bioinformaticians is crucial. We are responsible for 2 courses at DTU which are open to DTU students as well as students from abroad and people in industry. 
+
+[See our courses &nbsp;→](tools)
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/classroom.png"
+  link="tools"
+  headline="Our courses"
+  text=text
+%}
+
+
 {% capture text %}
 Our team consists of a diverse group of passionate scientists who possess unique interests and backgrounds. We all share a common goal of crafting novel computational methods for ancient and modern DNA as well as using existing tools to answer exciting scientific questions. To achieve this, we work closely with various other groups from different parts of the world that generate interesting empirical datasets.
 
