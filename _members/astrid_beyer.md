@@ -1,6 +1,6 @@
 ---
 name: Astrid Filt Beyer
-image: images/people/astrid_beyer.jpg
+image: images/people/mortar.jpg
 description: M.Sc
 status: current
 role: student
