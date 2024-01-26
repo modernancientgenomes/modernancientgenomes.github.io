@@ -91,7 +91,7 @@
 
 - id: vogel2023euka
   type: article-journal
-  author:
+  authors:
   - Nicola Alexandra Vogel
   - Joshua Daniel Rubin
   - Mikkel Swartz
@@ -109,7 +109,7 @@
 - id: hodgins2023ancient
   type: article
   title: "Ancient Clostridium DNA and variants of tetanus neurotoxins associated with human archaeological remains"
-  author:
+  authors:
     - Harold P Hodgins 
     - Pengsheng Chen
     - Briallen Lobb 
