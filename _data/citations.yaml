@@ -2,72 +2,40 @@
 
 - id: allentoft2024100
   type: article-journal
-  author:
-  - family: Allentoft
-    given: Morten E.
-  - family: Sikora
-    given: Martin
-  - family: Refoyo-Martínez
-    given: Alba
-  - family: Irving-Pease
-    given: Evan K.
-  - family: Fischer
-    given: Anders
-  - family: Barrie
-    given: William
-  - family: Ingason
-    given: Andrés
-  - family: Stenderup
-    given: Jesper
-  - family: Sjögren
-    given: Karl-Göran
-  - family: Pearson
-    given: Alice
-  - family: Sousa da Mota
-    given: Bárbara
-  - family: Schulz Paulsson
-    given: Bettina
-  - family: Halgren
-    given: Alma
-  - family: Macleod
-    given: Ruairidh
-  - family: Jørkov
-    given: Marie Louise Schjellerup
-  - family: Demeter
-    given: Fabrice
-  - family: Sørensen
-    given: Lasse
-  - family: Nielsen
-    given: Poul Otto
-  - family: Henriksen
-    given: Rasmus A.
-  - family: Vimala
-    given: Tharsika
-  - family: McColl
-    given: Hugh
-  - family: Margaryan
-    given: Ashot
-  - family: Ilardo
-    given: Melissa
-  - family: Vaughn
-    given: Andrew
-  - family: Fischer Mortensen
-    given: Morten
-  - family: Nielsen
-    given: Anne Birgitte
-  - family: Ulfeldt Hede
-    given: Mikkel
-  - family: Johannsen
-    given: Niels Nørkjær
-  - family: Rasmussen
-    given: Peter
-  - family: Vinner
-    given: Lasse
-  - family: Renaud
-    given: Gabriel
-  - family: Stern
-    given: Aaron
-  - literal: others
+  authors:
+  - Morten E. Allentoft
+  - Martin Sikora
+  - Alba Refoyo-Martínez
+  - Evan K. Irving-Pease
+  - Anders Fischer
+  - William Barrie
+  - Andrés Ingason
+  - Jesper Stenderup
+  - Karl-Göran Sjögren
+  - Alice Pearson
+  - Bárbara Sousa da Mota
+  - Bettina Schulz Paulsson
+  - Alma Halgren
+  - Ruairidh Macleod
+  - Marie Louise Schjellerup Jørkov
+  - Fabrice Demeter
+  - Lasse Sørensen
+  - Poul Otto Nielsen
+  - Rasmus A. Henriksen
+  - Tharsika Vimala
+  - Hugh McColl
+  - Ashot Margaryan
+  - Melissa Ilardo
+  - Andrew Vaughn
+  - Morten Fischer Mortensen
+  - Anne Birgitte Nielsen
+  - Mikkel Ulfeldt Hede
+  - Niels Nørkjær Johannsen
+  - Peter Rasmussen
+  - Lasse Vinner
+  - Gabriel Renaud
+  - Aaron Stern
+  - others
   date: '2024-01-18'
   title: <span class="nocase">100 ancient genomes show repeated population turnovers
     in Neolithic Denmark</span>
@@ -79,72 +47,40 @@
 
 - id: allentoft2024population
   type: article-journal
-  author:
-  - family: Allentoft
-    given: Morten E.
-  - family: Sikora
-    given: Martin
-  - family: Fischer
-    given: Anders
-  - family: Sjögren
-    given: Karl-Göran
-  - family: Ingason
-    given: Andrés
-  - family: Macleod
-    given: Ruairidh
-  - family: Rosengren
-    given: Anders
-  - family: Schulz Paulsson
-    given: Bettina
-  - family: Jørkov
-    given: Marie Louise Schjellerup
-  - family: Novosolov
-    given: Maria
-  - family: Stenderup
-    given: Jesper
-  - family: Price
-    given: T. Douglas
-  - family: Fischer Mortensen
-    given: Morten
-  - family: Nielsen
-    given: Anne Birgitte
-  - family: Ulfeldt Hede
-    given: Mikkel
-  - family: Sørensen
-    given: Lasse
-  - family: Nielsen
-    given: Poul Otto
-  - family: Rasmussen
-    given: Peter
-  - family: Jensen
-    given: Theis Zetner Trolle
-  - family: Refoyo-Martínez
-    given: Alba
-  - family: Irving-Pease
-    given: Evan K.
-  - family: Barrie
-    given: William
-  - family: Pearson
-    given: Alice
-  - family: Sousa da Mota
-    given: Bárbara
-  - family: Demeter
-    given: Fabrice
-  - family: Henriksen
-    given: Rasmus A.
-  - family: Vimala
-    given: Tharsika
-  - family: McColl
-    given: Hugh
-  - family: Vaughn
-    given: Andrew
-  - family: Vinner
-    given: Lasse
-  - family: Renaud
-    given: Gabriel
-  - family: Stern
-    given: Aaron
-  - literal: others
+  authors:
+  - Morten E. Allentoft
+  - Martin Sikora
+  - Anders Fischer
+  - Karl-Göran Sjögren
+  - Andrés Ingason
+  - Ruairidh Macleod
+  - Anders Rosengren
+  - Bettina Schulz Paulsson
+  - Marie Louise Schjellerup Jørkov
+  - Maria Novosolov
+  - Jesper Stenderup
+  - T. Douglas Price
+  - Morten Fischer Mortensen
+  - Anne Birgitte Nielsen
+  - Mikkel Ulfeldt Hede
+  - Lasse Sørensen
+  - Poul Otto Nielsen
+  - Peter Rasmussen
+  - Theis Zetner Trolle Jensen
+  - Alba Refoyo-Martínez
+  - Evan K. Irving-Pease
+  - William Barrie
+  - Alice Pearson
+  - Bárbara Sousa da Mota
+  - Fabrice Demeter
+  - Rasmus A. Henriksen
+  - Tharsika Vimala
+  - Hugh McColl
+  - Andrew Vaughn
+  - Lasse Vinner
+  - Gabriel Renaud
+  - Aaron Stern
+  - others
   date: '2024-01-18'
   title: <span class="nocase">Population genomics of post-glacial western Eurasia</span>
   container-title: Nature
@@ -156,22 +92,14 @@
 - id: vogel2023euka
   type: article-journal
   author:
-  - family: Vogel
-    given: Nicola Alexandra
-  - family: Rubin
-    given: Joshua Daniel
-  - family: Swartz
-    given: Mikkel
-  - family: Vlieghe
-    given: Juliette
-  - family: Sackett
-    given: Peter Wad
-  - family: Pedersen
-    given: Anders Gorm
-  - family: Pedersen
-    given: Mikkel Winther
-  - family: Renaud
-    given: Gabriel
+  - Nicola Alexandra Vogel
+  - Joshua Daniel Rubin
+  - Mikkel Swartz
+  - Juliette Vlieghe
+  - Peter Wad Sackett
+  - Anders Gorm Pedersen
+  - Mikkel Winther Pedersen
+  - Gabriel Renaud
   date: '2023-09-23'
   title: '<span class="nocase">euka: Robust tetrapodic and arthropodic taxa detection
     from modern and ancient environmental DNA using pangenomic reference graphs</span>'
@@ -182,16 +110,16 @@
   type: article
   title: "Ancient Clostridium DNA and variants of tetanus neurotoxins associated with human archaeological remains"
   author:
-    - Hodgins, Harold P
-    - Chen, Pengsheng
-    - Lobb, Briallen
-    - Wei, Xin
-    - Tremblay, Benjamin JM
-    - Mansfield, Michael J
-    - Lee, Victoria CY
-    - Lee, Pyung-Gang
-    - Coffin, Jeffrey
-    - Duggan, Ana T
+    - Harold P Hodgins 
+    - Pengsheng Chen
+    - Briallen Lobb 
+    - Xin Wei
+    - Benjamin JM Tremblay
+    - Michael J Mansfield
+    - Victoria CY Lee
+    - Pyung-Gang Lee
+    - Jeffrey Coffin
+    - Ana T Duggan
     - others
   journal: "Nature Communications"
   volume: 14
@@ -203,17 +131,17 @@
 - id: sandoval2023ancestry
   type: article
   title: "The ancestry and geographical origins of St Helena's liberated Africans"
-  author:
-    - Sandoval-Velasco, Marcela
-    - Jagadeesan, Anuradha
-    - Ramos-Madrigal, Jazmín
-    - Ávila-Arcos, María C
-    - Fortes-Lima, Cesar A
-    - Watson, Judy
-    - Johannesdóttir, Erna
-    - Cruz-Dávalos, Diana I
-    - Gopalakrishnan, Shyam
-    - Moreno-Mayar, J Víctor
+  authors:
+    - Marcela Sandoval-Velasco
+    - Anuradha Jagadeesan
+    - Jazmín Ramos-Madrigal
+    - María C Ávila-Arcos
+    - Cesar A Fortes-Lima
+    - Judy Watson
+    - Erna Johannesdóttir
+    - Diana I Cruz-Dávalos
+    - Shyam Gopalakrishnan
+    - J Víctor Moreno-Mayar
     - others
   journal: "The American Journal of Human Genetics"
   volume: 110
@@ -225,12 +153,12 @@
 - id: rubin2023haplocart
   type: article
   title: "HaploCart: Human mtDNA haplogroup classification using a pangenomic reference graph human mtDNA haplogroup inference"
-  author:
-    - Rubin, Joshua Daniel
-    - Vogel, Nicola Alexandra
-    - Gopalakrishnan, Shyam
-    - Sackett, Peter Wad
-    - Renaud, Gabriel
+  authors:
+    - Joshua Daniel Rubin
+    - Nicola Alexandra Vogel
+    - Shyam Gopalakrishnan
+    - Peter Wad Sackett
+    - Gabriel Renaud
   journal: "PLOS Computational Biology"
   volume: 19
   number: 6
@@ -241,11 +169,11 @@
 - id: diaz2023limits
   type: article
   title: "The Limits of Haplotype-Based Approaches: Exploring the Applicability of the Li and Stephens Haplotype-Copying Model to Ancient Samples"
-  author:
-    - Díaz-Pinés Cort, Isabel
-    - Rubin, Joshua Daniel
-    - Wad Sackett, Peter
-    - Renaud, Gabriel
+  authors:
+    - Isabel Díaz-Pinés Cort
+    - Joshua Daniel Rubin
+    - Peter Wad Sackett
+    - Gabriel Renaud
   journal: "bioRxiv"
   pages: 2023-06
   date: '2023-06-24'
@@ -253,17 +181,12 @@
 
 - id: lien2023benchmarking
   type: article-journal
-  author:
-  - family: Lien
-    given: Annette
-  - family: Legori
-    given: Leonardo Pestana
-  - family: Kraft
-    given: Louis
-  - family: Sackett
-    given: Peter Wad
-  - family: Renaud
-    given: Gabriel
+  authors:
+  - Annette Lien
+  - Leonardo Pestana Legori
+  - Louis Kraft
+  - Peter Wad Sackett
+  - Gabriel Renaud
   date: '2023-12-07'
   title: <span class="nocase">Benchmarking software tools for trimming adapters and
     merging next-generation sequencing data for ancient DNA</span>
