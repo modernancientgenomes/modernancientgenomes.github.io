@@ -1,8 +1,8 @@
 ---
-name: Nils Hofmann
-image: images/people/nils_hofmann.jpg
+name: Wanlin Chen
+image: images/people/wanlin_chen.jpg
 description: M.Sc
-status: alumni
+status: current
 role: student
 aliases:
   - 

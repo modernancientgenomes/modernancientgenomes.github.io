@@ -1,8 +1,8 @@
 ---
-name: Nils Hofmann
-image: images/people/nils_hofmann.jpg
+name: Catia do Carmo Baptista
+image: images/people/catia_baptista.jpg
 description: M.Sc
-status: alumni
+status: current
 role: student
 aliases:
   - 

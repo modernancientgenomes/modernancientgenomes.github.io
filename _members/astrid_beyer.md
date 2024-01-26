@@ -1,8 +1,8 @@
 ---
-name: Nils Hofmann
-image: images/people/nils_hofmann.jpg
+name: Astrid Filt Beyer
+image: images/people/astrid_beyer.jpg
 description: M.Sc
-status: alumni
+status: current
 role: student
 aliases:
   - 
