@@ -50,7 +50,7 @@
       {{ authors | join: ", " }}
     </div>
 
-    {%- assign publisher = citation.journal | default: "" -%}
+    {%- assign publisher = citation.publisher | default: "" -%}
     {%- assign date = citation.date | default: "1900-01-01" -%}
     <div class="citation_details">
       {{ publisher }}&nbsp; · &nbsp;{{ date | date: "%d %b %Y" }}
