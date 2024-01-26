@@ -293,18 +293,7 @@
   page: 987655-987655
   volume: '13'
 
-- id: doi.org/10.1101/2022.09.23.509203
-  type: article-journal
-  authors:
-  - Joshua D. Rubin
-  - Nicola A. Vogel
-  - Shyam Gopalakrishnan
-  - Peter W. Sackett
-  - Gabriel Renaud
-  date: '2022-9-26'
-  link: https://doi.org/10.1101/2022.09.23.509203
-  title: '<span class="nocase">HaploCart: Human mtDNA Haplogroup Classification Using a Pangenomic Reference Graph</span>'
-  publisher: bioRxiv
+
 
 - id: doi.org/10.7554/eLife.71569
   type: article-journal
