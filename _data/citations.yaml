@@ -68,8 +68,7 @@
   - family: Stern
     given: Aaron
   - literal: others
-  issued:
-  - year: 2024
+  date: '2024-01-18'
   title: <span class="nocase">100 ancient genomes show repeated population turnovers
     in Neolithic Denmark</span>
   container-title: Nature
@@ -146,8 +145,7 @@
   - family: Stern
     given: Aaron
   - literal: others
-  issued:
-  - year: 2024
+  date: '2024-01-18'
   title: <span class="nocase">Population genomics of post-glacial western Eurasia</span>
   container-title: Nature
   publisher: Nature Publishing Group UK London
@@ -174,8 +172,7 @@
     given: Mikkel Winther
   - family: Renaud
     given: Gabriel
-  issued:
-  - year: 2023
+  date: '2023-09-23'
   title: '<span class="nocase">euka: Robust tetrapodic and arthropodic taxa detection
     from modern and ancient environmental DNA using pangenomic reference graphs</span>'
   container-title: <span class="nocase">Methods in Ecology and Evolution</span>
@@ -200,7 +197,7 @@
   volume: 14
   number: 1
   pages: 5475
-  year: 2023
+  date: '2023-09-06'
   publisher: "Nature Publishing Group UK London"
 
 - id: sandoval2023ancestry
@@ -222,7 +219,7 @@
   volume: 110
   number: 9
   pages: 1590-1599
-  year: 2023
+  date: '2023-11-05'
   publisher: "Elsevier"
 
 - id: rubin2023haplocart
@@ -238,7 +235,7 @@
   volume: 19
   number: 6
   pages: e1011148
-  year: 2023
+  date: '2023-06-07'
   publisher: "Public Library of Science San Francisco, CA USA"
 
 - id: diaz2023limits
@@ -251,7 +248,7 @@
     - Renaud, Gabriel
   journal: "bioRxiv"
   pages: 2023-06
-  year: 2023
+  date: '2023-06-24'
   publisher: "Cold Spring Harbor Laboratory"
 
 - id: lien2023benchmarking
@@ -267,8 +264,7 @@
     given: Peter Wad
   - family: Renaud
     given: Gabriel
-  issued:
-  - year: 2023
+  date: '2023-12-07'
   title: <span class="nocase">Benchmarking software tools for trimming adapters and
     merging next-generation sequencing data for ancient DNA</span>
   container-title: <span class="nocase">Frontiers in Bioinformatics</span>
