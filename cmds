@@ -1,0 +1,5 @@
+#citations
+ pandoc-citeproc --bib2yaml input.bib
+
+run 
+yaml_format.py to reformat authors
