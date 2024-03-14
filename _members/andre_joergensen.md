@@ -1,5 +1,5 @@
 ---
-name: André Rosengaard Jørgensen
+name: Andre Rosengaard Joergensen
 image: images/people/andre_joergensen.jpg
 description: M.Sc
 status: current

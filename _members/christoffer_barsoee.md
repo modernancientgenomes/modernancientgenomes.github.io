@@ -1,5 +1,5 @@
 ---
-name: Christoffer Brusen Barsøe
+name: Christoffer Brusen Barsoee
 image: images/people/mortar.jpg
 description: M.Sc
 status: current
