@@ -2,7 +2,7 @@
 name: Astrid Filt Beyer
 image: images/people/astrid_beyer.jpg
 description: M.Sc
-status: current
+status: alumni
 role: student
 aliases:
   - 

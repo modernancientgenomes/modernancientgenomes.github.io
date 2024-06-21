@@ -1,3 +1,14 @@
+- name: soibean
+  group: software
+  image: images/soibean.png
+  link: https://github.com/grenaud/vgan
+  description:  soibean (part of vgan) is a tool for species identification that can handle mixtures and  abundance estimation for ancient environmental DNA. 
+  repo: grenaud/vgan
+  tags: 
+    - sedaDNA
+    - eDNA
+    - aDNA
+
 - name: euka
   group: software
   image: images/euka.png

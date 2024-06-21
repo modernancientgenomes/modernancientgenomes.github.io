@@ -2,7 +2,7 @@
 name: Adresya Azhakath
 image: images/people/adresya_azhakath.jpg
 description: M.Sc
-status: current
+status: alumni
 role: student
 aliases:
   - 
