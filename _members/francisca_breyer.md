@@ -1,8 +1,8 @@
 ---
-name: Catia do Carmo Baptista
-image: images/people/catia_baptista.jpg
+name: Francisca Miriam Breyer
+image: images/people/francisca_breyer.jpg
 description: M.Sc
-status: alumni
+status: current
 role: student
 aliases:
   - 
