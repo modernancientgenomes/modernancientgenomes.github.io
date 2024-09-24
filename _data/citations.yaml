@@ -1,5 +1,65 @@
 ---
 
+- id: kraft2024carpedeam
+  type: article-journal
+  author:
+  - Louis Kraft
+  - Johannes Soeding
+  - Martin Steinegger
+  - Annika Jochheim
+  - Antonio Fernandez-Guerra
+  - Gabriel Renaud
+  issued:
+  - year: 2024
+  title: 'CarpeDeam: A De Novo Metagenome Assembler for Heavily Damaged Ancient Datasets'
+  container-title: bioRxiv
+  publisher: Cold Spring Harbor Laboratory
+  page: 2024-08
+
+- id: rubin2024safari
+  type: article-journal
+  author:
+  - Joshua Daniel Rubin
+  - Jan van Waaij
+  - Louis M Kraft
+  - Jouni Sirén
+  - Peter Wad Sackett
+  - Gabriel Renaud
+  issued:
+  - year: 2024
+  title: 'SAFARI: Pangenome Alignment of Ancient DNA Using Purine/Pyrimidine Encodings'
+  container-title: <span class="nocase">bioRxiv</span>
+  publisher: Cold Spring Harbor Laboratory
+  page: 2024-08
+
+- id: eriksen2024number
+  type: article-journal
+  author:
+  - Mikkel Spallou Eriksen
+  - Gabriel Renaud
+  issued:
+  - year: 2024
+  title: Number of ancestors and length of identity-by-descent
+  tracks over time</span>
+  container-title: <span class="nocase">bioRxiv</span>
+  publisher: Cold Spring Harbor Laboratory
+  page: 2024-08
+
+- id: vogel2024soibean
+  type: article-journal
+  author:
+  - Nicola Alexandra Vogel
+  - Joshua Daniel Rubin
+  - Anders Gorm Pedersen
+  - Peter Wad Sackett
+  - Mikkel Winther Pedersen
+  - Gabriel Renaud
+  issued:
+  - year: 2024
+  title: 'soibean: High-resolution Taxonomic Identification of Ancient Environmental DNA Using Mitochondrial Pangenome Graphs</span>'
+  container-title: <span class="nocase">bioRxiv</span>
+  publisher: Cold Spring Harbor Laboratory
+  page: 2024-04
 - id: allentoft2024100
   type: article-journal
   authors:
