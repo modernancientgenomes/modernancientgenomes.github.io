@@ -59,11 +59,117 @@
   date: '2024-04-01'
   issued:
   - year: 2024
-  title: 'soibean: High-resolution Taxonomic Identification of Ancient Environmental DNA Using Mitochondrial Pangenome Graphs</span>'
+  title: 'soibean: High-resolution Taxonomic Identification of Ancient Environmental DNA Using Mitochondrial Pangenome Graphs'
   container-title: <span class="nocase">bioRxiv</span>
   publisher: Cold Spring Harbor Laboratory
   page: 2024-04
-  
+
+
+- id: librado2024widespread
+  type: article-journal
+  author:
+  - Pablo Librado
+  - Gaetan Tressières
+  - Lorelei Chauvey
+  - Antoine Fages
+  - Naveed Khan
+  - Stéphanie Schiavinato
+  - Laure Calvière-Tonasso
+  - Mariya A Kusliy
+  - Charleen Gaunitz
+  - Xuexue Liu
+  - Stefanie Wagner
+  - Clio Der Sarkissian
+  - Andaine Seguin-Orlando
+  - Aude Perdereau
+  - Jean-Marc Aury
+  - John Southon
+  - Beth Shapiro
+  - Olivier Bouchez
+  - Cécile Donnadieu
+  - Yvette Running Horse Collin
+  - Kristian M Gregersen
+  - Mads Dengsø Jessen
+  - Kirsten Christensen
+  - Lone Claudi-Hansen
+  - Mélanie Pruvost
+  - Erich Pucher
+  - Hrvoje Vulic
+  - Mario Novak
+  - Andrea Rimpf
+  - Peter Turk
+  - Simone Reiter
+  - Gottfried Brem
+  - Christoph Schwall
+  - Éric Barrey
+  - Céline Robert
+  - Christophe Degueurce
+  - Liora Kolska Horwitz
+  - Lutz Klassen
+  - Uffe Rasmussen
+  - Jacob Kveiborg
+  - Niels Nørkjær Johannsen
+  - Daniel Makowiecki
+  - Przemysław Makarowicz
+  - Marcin Szeliga
+  - Vasyl Ilchyshyn
+  - Vitalii Rud
+  - Jan Romaniszyn
+  - Victoria E Mullin
+  - Marta Verdugo
+  - Daniel G Bradley
+  - João L Cardoso
+  - Maria J Valente
+  - Miguel Telles Antunes
+  - Carly Ameen
+  - Richard Thomas
+  - Arne Ludwig
+  - Matilde Marzullo
+  - Ornella Prato
+  - Giovanna Bagnasco Gianni
+  - Umberto Tecchiati
+  - José Granado
+  - Angela Schlumbaum
+  - Sabine Deschler-Erb
+  - Monika Schernig Mráz
+  - Nicolas Boulbes
+  - Armelle Gardeisen
+  - Christian Mayer
+  - Hans-Jürgen Döhle
+  - Magdolna Vicze
+  - Pavel A Kosintsev
+  - René Kyselý
+  - Lubomı́r Peške
+  - Terry O’Connor
+  - Elina Ananyevskaya
+  - Irina Shevnina
+  - Andrey Logvin
+  - Alexey A Kovalev
+  - Tumur-Ochir Iderkhangai
+  - Mikhail V Sablin
+  - Petr K Dashkovskiy
+  - Alexander S Graphodatsky
+  - Ilia Merts
+  - Viktor Merts
+  - Aleksei K Kasparov
+  - Vladimir V Pitulko
+  - Vedat Onar
+  - Aliye Öztan
+  - Benjamin S Arbuckle
+  - Hugh McColl
+  - Gabriel Renaud
+  - Ruslan Khaskhanov
+  - literal: others
+  date: '2024-06-01'
+  issued:
+  - year: 2024
+  title: <span class="nocase">Widespread horse-based mobility arose around 2,200 BCE
+  in Eurasia</span>
+  container-title: Nature
+  publisher: Nature Publishing Group UK London
+  page: 1-64
+
+
 - id: allentoft2024100
   type: article-journal
   authors:
