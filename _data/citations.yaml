@@ -9,6 +9,7 @@
   - Annika Jochheim
   - Antonio Fernandez-Guerra
   - Gabriel Renaud
+  date: '2024-08-03'
   issued:
   - year: 2024
   title: 'CarpeDeam: A De Novo Metagenome Assembler for Heavily Damaged Ancient Datasets'
@@ -25,6 +26,7 @@
   - Jouni Sirén
   - Peter Wad Sackett
   - Gabriel Renaud
+  date: '2024-08-02'
   issued:
   - year: 2024
   title: 'SAFARI: Pangenome Alignment of Ancient DNA Using Purine/Pyrimidine Encodings'
@@ -37,6 +39,7 @@
   author:
   - Mikkel Spallou Eriksen
   - Gabriel Renaud
+  date: '2024-08-01'
   issued:
   - year: 2024
   title: 'Number of ancestors and length of identity-by-descent tracks over time'
@@ -53,12 +56,14 @@
   - Peter Wad Sackett
   - Mikkel Winther Pedersen
   - Gabriel Renaud
+  date: '2024-04-01'
   issued:
   - year: 2024
   title: 'soibean: High-resolution Taxonomic Identification of Ancient Environmental DNA Using Mitochondrial Pangenome Graphs</span>'
   container-title: <span class="nocase">bioRxiv</span>
   publisher: Cold Spring Harbor Laboratory
   page: 2024-04
+  
 - id: allentoft2024100
   type: article-journal
   authors:
