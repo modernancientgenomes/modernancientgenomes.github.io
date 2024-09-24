@@ -2,7 +2,7 @@
 
 - id: kraft2024carpedeam
   type: article-journal
-  author:
+  authors:
   - Louis Kraft
   - Johannes Soeding
   - Martin Steinegger
@@ -19,7 +19,7 @@
 
 - id: rubin2024safari
   type: article-journal
-  author:
+  authors:
   - Joshua Daniel Rubin
   - Jan van Waaij
   - Louis M Kraft
@@ -36,7 +36,7 @@
 
 - id: eriksen2024number
   type: article-journal
-  author:
+  authors:
   - Mikkel Spallou Eriksen
   - Gabriel Renaud
   date: '2024-08-01'
@@ -67,7 +67,7 @@
 
 - id: librado2024widespread
   type: article-journal
-  author:
+  authors:
   - Pablo Librado
   - Gaetan Tressières
   - Lorelei Chauvey
