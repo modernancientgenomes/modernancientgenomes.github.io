@@ -1,6 +1,6 @@
 ---
-name: Andre Rosengaard Joergensen
-image: images/people/andre_joergensen.jpg
+name: 	Christian Christensen
+image: images/people/mortar.jpg
 description: M.Sc
 status: alumni
 role: student

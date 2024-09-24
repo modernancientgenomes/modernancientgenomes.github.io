@@ -1,3 +1,24 @@
+- name: safari
+  group: software
+  image: images/safari.png
+  link: https://github.com/grenaud/SAFARI
+  description:  safari is an aligner to pangenomes built on top of "vg giraffe" that is robust to ancient DNA damage
+  repo: grenaud/vgan
+  tags: 
+    - aDNA
+    - aeDNA
+
+- name: CarpeDeam
+  group: software
+  image: images/carpedeam.png
+  link: https://github.com/LouisPwr/CarpeDeam
+  description:  CarpeDeam is an assembly algorithm for ancient metagenomics
+  repo: grenaud/vgan
+  tags: 
+    - metagenomics
+    - eDNA
+    - aDNA
+
 - name: soibean
   group: software
   image: images/soibean.png

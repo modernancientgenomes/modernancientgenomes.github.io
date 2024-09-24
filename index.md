@@ -10,7 +10,7 @@ The Modern and Ancient Genomes group headed by Prof. Gabriel Renaud is found at 
 {% include section.html full=true %}
 
 {% include figure.html
-  image="images/MAAG_2022.jpg"
+  image="images/MAAG_2024.png"
 %}
 
 {% include section.html %}
