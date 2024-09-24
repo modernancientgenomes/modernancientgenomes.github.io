@@ -1,1132 +1,1397 @@
 ---
+- id: kraft2024carpedeam
+type: article-journal
+author:
+- Louis Kraft
+- Johannes Soeding
+- Martin Steinegger
+- Annika Jochheim
+- Antonio Fernandez-Guerra
+- Gabriel Renaud
+issued:
+- year: 2024
+title: '<span class="nocase">CarpeDeam: A De Novo Metagenome Assembler for Heavily
+Damaged Ancient Datasets</span>'
+container-title: bioRxiv
+publisher: Cold Spring Harbor Laboratory
+page: 2024-08
+note: In review at Genome Biology
+
+- id: rubin2024safari
+type: article-journal
+author:
+- Joshua Daniel Rubin
+- Jan Waaij
+dropping-particle: van
+- Louis M Kraft
+- Jouni Sirén
+- Peter Wad Sackett
+- Gabriel Renaud
+issued:
+- year: 2024
+title: '<span class="nocase">SAFARI: Pangenome Alignment of Ancient DNA Using Purine/Pyrimidine
+Encodings</span>'
+container-title: <span class="nocase">bioRxiv</span>
+publisher: Cold Spring Harbor Laboratory
+page: 2024-08
+note: submitted
+
+- id: eriksen2024number
+type: article-journal
+author:
+- Mikkel Spallou Eriksen
+- Gabriel Renaud
+issued:
+- year: 2024
+title: <span class="nocase">Number of ancestors and length of identity-by-descent
+tracks over time</span>
+container-title: <span class="nocase">bioRxiv</span>
+publisher: Cold Spring Harbor Laboratory
+page: 2024-08
+
+- id: vogel2024soibean
+type: article-journal
+author:
+- Nicola Alexandra Vogel
+- Joshua Daniel Rubin
+- Anders Gorm Pedersen
+- Peter Wad Sackett
+- Mikkel Winther Pedersen
+- Gabriel Renaud
+issued:
+- year: 2024
+title: '<span class="nocase">soibean: High-resolution Taxonomic Identification of
+Ancient Environmental DNA Using Mitochondrial Pangenome Graphs</span>'
+container-title: <span class="nocase">bioRxiv</span>
+publisher: Cold Spring Harbor Laboratory
+page: 2024-04
+note: In review, minor revisions at Molecular Biology and Evolution
+
+- id: librado2024widespread
+type: article-journal
+author:
+- Pablo Librado
+- Gaetan Tressières
+- Lorelei Chauvey
+- Antoine Fages
+- Naveed Khan
+- Stéphanie Schiavinato
+- Laure Calvière-Tonasso
+- Mariya A Kusliy
+- Charleen Gaunitz
+- Xuexue Liu
+- Stefanie Wagner
+- Clio Der Sarkissian
+- Andaine Seguin-Orlando
+- Aude Perdereau
+- Jean-Marc Aury
+- John Southon
+- Beth Shapiro
+- Olivier Bouchez
+- Cécile Donnadieu
+- Yvette Running Horse Collin
+- Kristian M Gregersen
+- Mads Dengsø Jessen
+- Kirsten Christensen
+- Lone Claudi-Hansen
+- Mélanie Pruvost
+- Erich Pucher
+- Hrvoje Vulic
+- Mario Novak
+- Andrea Rimpf
+- Peter Turk
+- Simone Reiter
+- Gottfried Brem
+- Christoph Schwall
+- Éric Barrey
+- Céline Robert
+- Christophe Degueurce
+- Liora Kolska Horwitz
+- Lutz Klassen
+- Uffe Rasmussen
+- Jacob Kveiborg
+- Niels Nørkjær Johannsen
+- Daniel Makowiecki
+- Przemysław Makarowicz
+- Marcin Szeliga
+- Vasyl Ilchyshyn
+- Vitalii Rud
+- Jan Romaniszyn
+- Victoria E Mullin
+- Marta Verdugo
+- Daniel G Bradley
+- João L Cardoso
+- Maria J Valente
+- Miguel Telles Antunes
+- Carly Ameen
+- Richard Thomas
+- Arne Ludwig
+- Matilde Marzullo
+- Ornella Prato
+- Giovanna Bagnasco Gianni
+- Umberto Tecchiati
+- José Granado
+- Angela Schlumbaum
+- Sabine Deschler-Erb
+- Monika Schernig Mráz
+- Nicolas Boulbes
+- Armelle Gardeisen
+- Christian Mayer
+- Hans-Jürgen Döhle
+- Magdolna Vicze
+- Pavel A Kosintsev
+- René Kyselý
+- Lubomı́r Peške
+- Terry O’Connor
+- Elina Ananyevskaya
+- Irina Shevnina
+- Andrey Logvin
+- Alexey A Kovalev
+- Tumur-Ochir Iderkhangai
+- Mikhail V Sablin
+- Petr K Dashkovskiy
+- Alexander S Graphodatsky
+- Ilia Merts
+- Viktor Merts
+- Aleksei K Kasparov
+- Vladimir V Pitulko
+- Vedat Onar
+- Aliye Öztan
+- Benjamin S Arbuckle
+- Hugh McColl
+- Gabriel Renaud
+- Ruslan Khaskhanov
+- literal: others
+issued:
+- year: 2024
+title: <span class="nocase">Widespread horse-based mobility arose around 2,200 BCE
+in Eurasia</span>
+container-title: Nature
+publisher: Nature Publishing Group UK London
+page: 1-64
+
+- id: allentoft2024100
+type: article-journal
+author:
+- Morten E Allentoft
+- Martin Sikora
+- Anders Fischer
+- Karl-Göran Sjögren
+- Andrés Ingason
+- Ruairidh Macleod
+- Anders Rosengren
+- Bettina Schulz Paulsson
+- Marie Louise Schjellerup Jørkov
+- Maria Novosolov
+- Jesper Stenderup
+- T Douglas Price
+- Morten Fischer Mortensen
+- Anne Birgitte Nielsen
+- Mikkel Ulfeldt Hede
+- Lasse Sørensen
+- Poul Otto Nielsen
+- Peter Rasmussen
+- Theis Zetner Trolle Jensen
+- Alba Refoyo-Martı́nez
+- Evan K Irving-Pease
+- William Barrie
+- Alice Pearson
+- Bárbara Sousa Mota
+dropping-particle: da
+- Fabrice Demeter
+- Rasmus A Henriksen
+- Tharsika Vimala
+- Hugh McColl
+- Andrew Vaughn
+- Lasse Vinner
+- Gabriel Renaud
+- Aaron Stern
+- literal: others
+issued:
+- year: 2024
+title: <span class="nocase">100 ancient genomes show repeated population turnovers
+in Neolithic Denmark</span>
+container-title: Nature
+publisher: Nature Publishing Group UK London
+page: 329-337
+volume: '625'
+issue: '7994'
+
+- id: allentoft2024population
+type: article-journal
+author:
+- Morten E Allentoft
+- Martin Sikora
+- Alba Refoyo-Martı́nez
+- Evan K Irving-Pease
+- Anders Fischer
+- William Barrie
+- Andrés Ingason
+- Jesper Stenderup
+- Karl-Göran Sjögren
+- Alice Pearson
+- Bárbara Sousa Mota
+dropping-particle: da
+- Bettina Schulz Paulsson
+- Alma Halgren
+- Ruairidh Macleod
+- Marie Louise Schjellerup Jørkov
+- Fabrice Demeter
+- Lasse Sørensen
+- Poul Otto Nielsen
+- Rasmus A. Henriksen
+- Tharsika Vimala
+- Hugh McColl
+- Ashot Margaryan
+- Melissa Ilardo
+- Andrew Vaughn
+- Morten Fischer Mortensen
+- Anne Birgitte Nielsen
+- Mikkel Ulfeldt Hede
+- Niels Nørkjær Johannsen
+- Peter Rasmussen
+- Lasse Vinner
+- Gabriel Renaud
+- Aaron Stern
+- literal: others
+issued:
+- year: 2024
+title: Population genomics of post-glacial western eurasia
+container-title: Nature
+publisher: Nature Publishing Group UK London
+page: 301-311
+volume: '625'
+issue: '7994'
+
+
 - id: vogel2023euka
-  type: article-journal
-  authors:
-  - Nicola Alexandra Vogel
-  - Joshua Daniel Rubin
-  - Mikkel Swartz
-  - Juliette Vlieghe
-  - Peter Wad Sackett
-  - Anders Gorm Pedersen
-  - Mikkel Winther Pedersen
-  - Gabriel Renaud
-  date: 2023
-  title: '<span class="nocase">euka: Robust detection of eukaryotic taxa from modern
-    and ancient environmental DNA using pangenomic reference graphs.</span>'
-  container-title: <span class="nocase">bioRxiv</span>
-  publisher: Cold Spring Harbor Laboratory
-  page: 2023-04
+type: article-journal
+authors:
+- Nicola Alexandra Vogel
+- Joshua Daniel Rubin
+- Mikkel Swartz
+- Juliette Vlieghe
+- Peter Wad Sackett
+- Anders Gorm Pedersen
+- Mikkel Winther Pedersen
+- Gabriel Renaud
+date: 2023
+title: '<span class="nocase">euka: Robust detection of eukaryotic taxa from modern
+and ancient environmental DNA using pangenomic reference graphs.</span>'
+container-title: <span class="nocase">bioRxiv</span>
+publisher: Cold Spring Harbor Laboratory
+page: 2023-04
 
 - id: thuesen2022benchmarking
-  type: article-journal
-  authors:
-  - Nikolas Hallberg Thuesen
-  - Michael Schantz Klausen
-  - Shyam Gopalakrishnan
-  - Thomas Trolle
-  - Gabriel Renaud
-  date: 2022
-  title: <span class="nocase">Benchmarking freely available HLA typing algorithms
-    across varying genes, coverages and typing resolutions</span>
-  container-title: <span class="nocase">Frontiers in Immunology</span>
-  publisher: Frontiers Research Foundation
-  page: 987655-987655
-  volume: '13'
+type: article-journal
+authors:
+- Nikolas Hallberg Thuesen
+- Michael Schantz Klausen
+- Shyam Gopalakrishnan
+- Thomas Trolle
+- Gabriel Renaud
+date: 2022
+title: <span class="nocase">Benchmarking freely available HLA typing algorithms
+across varying genes, coverages and typing resolutions</span>
+container-title: <span class="nocase">Frontiers in Immunology</span>
+publisher: Frontiers Research Foundation
+page: 987655-987655
+volume: '13'
 
 - id: rubin2022haplocart
-  type: article-journal
-  authors:
-  - Joshua D. Rubin
-  - Nicola A. Vogel
-  - Shyam Gopalakrishnan
-  - Peter W. Sackett
-  - Gabriel Renaud
-  date: 2022
-  title: '<span class="nocase">HaploCart: Human mtDNA Haplogroup Classification Using
-    a Pangenomic Reference Graph</span>'
-  container-title: <span class="nocase">bioRxiv</span>
-  publisher: Cold Spring Harbor Laboratory
+type: article-journal
+authors:
+- Joshua D. Rubin
+- Nicola A. Vogel
+- Shyam Gopalakrishnan
+- Peter W. Sackett
+- Gabriel Renaud
+date: 2022
+title: '<span class="nocase">HaploCart: Human mtDNA Haplogroup Classification Using
+a Pangenomic Reference Graph</span>'
+container-title: <span class="nocase">bioRxiv</span>
+publisher: Cold Spring Harbor Laboratory
 
 - id: renaud2022unsupervised
-  type: article-journal
-  authors:
-  - Gabriel Renaud
-  - Maibritt Nørgaard
-  - Johan Lindberg
-  - Henrik Grönberg
-  - Bram De Laere
-  - Jørgen Bjerggaard Jensen
-  - Michael Borre
-  - Claus Lindbjerg Andersen
-  - Karina Dalsgaard Sørensen
-  - Lasse Maretty
-  - and others
-  date: 2022
-  title: <span class="nocase">Unsupervised detection of fragment length signatures
-    of circulating tumor DNA using non-negative matrix factorization</span>
-  container-title: <span class="nocase">eLife</span>
-  publisher: eLife Sciences Publications Limited
-  page: e71569
-  volume: '11'
+type: article-journal
+authors:
+- Gabriel Renaud
+- Maibritt Nørgaard
+- Johan Lindberg
+- Henrik Grönberg
+- Bram De Laere
+- Jørgen Bjerggaard Jensen
+- Michael Borre
+- Claus Lindbjerg Andersen
+- Karina Dalsgaard Sørensen
+- Lasse Maretty
+- and others
+date: 2022
+title: <span class="nocase">Unsupervised detection of fragment length signatures
+of circulating tumor DNA using non-negative matrix factorization</span>
+container-title: <span class="nocase">eLife</span>
+publisher: eLife Sciences Publications Limited
+page: e71569
+volume: '11'
 
 - id: allentoft2022population
-  type: article-journal
-  authors:
-  - Morten E. Allentoft
-  - Martin Sikora
-  - Alba Refoyo-Martı́nez
-  - Evan K. Irving-Pease
-  - Anders Fischer
-  - William Barrie
-  - Andrés Ingason
-  - Jesper Stenderup
-  - Karl-Göran Sjögren
-  - Alice Pearson
-  - Barbara Mota
-  - Bettina Schulz Paulsson
-  - Alma Halgren
-  - Ruairidh Macleod
-  - Marie Louise Schjellerup Jørkov
-  - Fabrice Demeter
-  - Maria Novosolov
-  - Lasse Sørensen
-  - Poul-Otto Nielsen
-  - Rasmus H.A. Henriksen
-  - Tharsika Vimala
-  - Hugh McColl
-  - Ashot Margaryan
-  - Melissa Ilardo
-  - Andrew Vaughn
-  - Morten Fischer Mortensen
-  - Anne Birgitte Nielsen
-  - Mikkel Ulfeldt Hede
-  - Peter Rasmussen
-  - Lasse Vinner
-  - Gabriel Renaud
-  - Aaron Stern
-  - and others
-  date: 2022
-  title: <span class="nocase">Population Genomics of Stone Age Eurasia</span>
-  container-title: <span class="nocase">bioRxiv</span>
-  publisher: Cold Spring Harbor Laboratory
+type: article-journal
+authors:
+- Morten E. Allentoft
+- Martin Sikora
+- Alba Refoyo-Martı́nez
+- Evan K. Irving-Pease
+- Anders Fischer
+- William Barrie
+- Andrés Ingason
+- Jesper Stenderup
+- Karl-Göran Sjögren
+- Alice Pearson
+- Barbara Mota
+- Bettina Schulz Paulsson
+- Alma Halgren
+- Ruairidh Macleod
+- Marie Louise Schjellerup Jørkov
+- Fabrice Demeter
+- Maria Novosolov
+- Lasse Sørensen
+- Poul-Otto Nielsen
+- Rasmus H.A. Henriksen
+- Tharsika Vimala
+- Hugh McColl
+- Ashot Margaryan
+- Melissa Ilardo
+- Andrew Vaughn
+- Morten Fischer Mortensen
+- Anne Birgitte Nielsen
+- Mikkel Ulfeldt Hede
+- Peter Rasmussen
+- Lasse Vinner
+- Gabriel Renaud
+- Aaron Stern
+- and others
+date: 2022
+title: <span class="nocase">Population Genomics of Stone Age Eurasia</span>
+container-title: <span class="nocase">bioRxiv</span>
+publisher: Cold Spring Harbor Laboratory
 
 - id: hodgins2022ancient
-  type: article-journal
-  authors:
-  - Harold P Hodgins
-  - Pengsheng Chen
-  - Briallen Lobb
-  - Benjamin JM Tremblay
-  - Michael J Mansfield
-  - Victoria CY Lee
-  - Pyung-Gang Lee
-  - Jeffrey Coffin
-  - Xin Wei
-  - Ana T Duggan
-  - Alexis E Dolphin
-  - Gabriel Renaud
-  - Min Dong
-  - Doxey Andrew C
-  date: 2022
-  title: <span class="nocase">Ancient Clostridium DNA and variants of tetanus neurotoxins
-    associated with human archaeological remains</span>
-  container-title: <span class="nocase">bioRxiv</span>
-  publisher: Cold Spring Harbor Laboratory
+type: article-journal
+authors:
+- Harold P Hodgins
+- Pengsheng Chen
+- Briallen Lobb
+- Benjamin JM Tremblay
+- Michael J Mansfield
+- Victoria CY Lee
+- Pyung-Gang Lee
+- Jeffrey Coffin
+- Xin Wei
+- Ana T Duggan
+- Alexis E Dolphin
+- Gabriel Renaud
+- Min Dong
+- Doxey Andrew C
+date: 2022
+title: <span class="nocase">Ancient Clostridium DNA and variants of tetanus neurotoxins
+associated with human archaeological remains</span>
+container-title: <span class="nocase">bioRxiv</span>
+publisher: Cold Spring Harbor Laboratory
 
 - id: margaryan2020population
-  type: article-journal
-  authors:
-  - Ashot Margaryan
-  - Daniel J Lawson
-  - Martin Sikora
-  - Fernando Racimo
-  - Simon Rasmussen
-  - Ida Moltke
-  - Lara M Cassidy
-  - Emil Jørsboe
-  - Andrés Ingason
-  - Mikkel W Pedersen
-  - Thorfinn Korneliussen
-  - Helene Wilhelmson
-  - Magdalena Buś
-  - Peter Barros Damgaard
-  - Rui Martiniano
-  - Gabriel Renaud
-  - Claude Bhérer
-  - J. Vı́ctor Moreno-Mayar
-  - and others
-  date: 2020
-  title: Population genomics of the Viking world
-  container-title: Nature
-  publisher: Nature Publishing Group
-  page: 390-396
-  volume: '585'
-  issue: '7825'
+type: article-journal
+authors:
+- Ashot Margaryan
+- Daniel J Lawson
+- Martin Sikora
+- Fernando Racimo
+- Simon Rasmussen
+- Ida Moltke
+- Lara M Cassidy
+- Emil Jørsboe
+- Andrés Ingason
+- Mikkel W Pedersen
+- Thorfinn Korneliussen
+- Helene Wilhelmson
+- Magdalena Buś
+- Peter Barros Damgaard
+- Rui Martiniano
+- Gabriel Renaud
+- Claude Bhérer
+- J. Vı́ctor Moreno-Mayar
+- and others
+date: 2020
+title: Population genomics of the Viking world
+container-title: Nature
+publisher: Nature Publishing Group
+page: 390-396
+volume: '585'
+issue: '7825'
 
 - id: moreno2020likelihood
-  type: article-journal
-  authors:
-  - J Vı́ctor Moreno-Mayar
-  - Thorfinn Sand Korneliussen
-  - Jyoti Dalal
-  - Gabriel Renaud
-  - Anders Albrechtsen
-  - Rasmus Nielsen
-  - Anna-Sapfo Malaspinas
-  date: 2020
-  title: A likelihood method for estimating present-day human contamination in ancient
-    male samples using low-depth X-chromosome data
-  container-title: Bioinformatics
-  publisher: Oxford University Press
-  page: 828-841
-  volume: '36'
-  issue: '3'
+type: article-journal
+authors:
+- J Vı́ctor Moreno-Mayar
+- Thorfinn Sand Korneliussen
+- Jyoti Dalal
+- Gabriel Renaud
+- Anders Albrechtsen
+- Rasmus Nielsen
+- Anna-Sapfo Malaspinas
+date: 2020
+title: A likelihood method for estimating present-day human contamination in ancient
+male samples using low-depth X-chromosome data
+container-title: Bioinformatics
+publisher: Oxford University Press
+page: 828-841
+volume: '36'
+issue: '3'
 
 - id: sandoval2019genetic
-  type: article-journal
-  authors:
-  - Marcela Sandoval-Velasco
-  - Anuradha Jagadeesan
-  - Marı́a C. Ávila-Arcos
-  - Shyam Gopalakrishnan
-  - Jazmı́n Ramos-Madrigal
-  - J. Vı́ctor Moreno-Mayar
-  - Gabriel Renaud
-  - Diana I. Cruz-Dávalos
-  - Erna Johannesdóttir
-  - Judy Watson
-  - Kate Robson-Brown
-  - Andrew Pearson
-  - Agnar Helgason
-  - M. Thomas P. Gilbert
-  - Hannes Schroeder
-  date: 2019
-  title: The genetic origins of Saint Helena’s liberated Africans
-  container-title: bioRxiv
-  publisher: Cold Spring Harbor Laboratory
-  abstract: Between the early 16th and late 19th centuries, an estimated 12 million
-    Africans were transported to the Americas as part of the transatlantic slave trade.
-    Following Britain’s abolition of slave trade in 1807, the Royal Navy patrolled
-    the Atlantic and intercepted slave ships that continued to operate. During this
-    period, the island of St Helena in the middle of the South Atlantic served as
-    a depot for “liberated” Africans. Between 1840 and 1867, approximately 27,000
-    Africans were disembarked on the island. To investigate their origins, we generated
-    genome-wide ancient DNA data for 20 individuals recovered from St Helena. The
-    genetic data indicate that they came from West Central Africa, possibly the area
-    of present-day Gabon and Angola. The data further suggest that they did not belong
-    to a single population, confirming historical reports of cultural heterogeneity
-    among the island’s African community. Our results shed new light on the origins
-    of enslaved Africans during the final stages of the slave trade and illustrate
-    how genetic data can be used to complement and validate existing historical sources.
-  URL: https://www.biorxiv.org/content/early/2019/10/01/787515
-  DOI: 10.1101/787515
+type: article-journal
+authors:
+- Marcela Sandoval-Velasco
+- Anuradha Jagadeesan
+- Marı́a C. Ávila-Arcos
+- Shyam Gopalakrishnan
+- Jazmı́n Ramos-Madrigal
+- J. Vı́ctor Moreno-Mayar
+- Gabriel Renaud
+- Diana I. Cruz-Dávalos
+- Erna Johannesdóttir
+- Judy Watson
+- Kate Robson-Brown
+- Andrew Pearson
+- Agnar Helgason
+- M. Thomas P. Gilbert
+- Hannes Schroeder
+date: 2019
+title: The genetic origins of Saint Helena’s liberated Africans
+container-title: bioRxiv
+publisher: Cold Spring Harbor Laboratory
+abstract: Between the early 16th and late 19th centuries, an estimated 12 million
+Africans were transported to the Americas as part of the transatlantic slave trade.
+Following Britain’s abolition of slave trade in 1807, the Royal Navy patrolled
+the Atlantic and intercepted slave ships that continued to operate. During this
+period, the island of St Helena in the middle of the South Atlantic served as
+a depot for “liberated” Africans. Between 1840 and 1867, approximately 27,000
+Africans were disembarked on the island. To investigate their origins, we generated
+genome-wide ancient DNA data for 20 individuals recovered from St Helena. The
+genetic data indicate that they came from West Central Africa, possibly the area
+of present-day Gabon and Angola. The data further suggest that they did not belong
+to a single population, confirming historical reports of cultural heterogeneity
+among the island’s African community. Our results shed new light on the origins
+of enslaved Africans during the final stages of the slave trade and illustrate
+how genetic data can be used to complement and validate existing historical sources.
+URL: https://www.biorxiv.org/content/early/2019/10/01/787515
+DOI: 10.1101/787515
 
 - id: sikora2019population
-  type: article-journal
-  authors:
-  - Martin Sikora
-  - Vladimir V Pitulko
-  - Vitor C Sousa
-  - Morten E Allentoft
-  - Lasse Vinner
-  - Simon Rasmussen
-  - Ashot Margaryan
-  - Peter de Barros Damgaard
-  - Constanza de la Fuente
-  - Gabriel Renaud
-  - and others
-  date: 2019
-  title: The population history of northeastern siberia since the pleistocene
-  container-title: Nature
-  publisher: Nature Publishing Group
-  page: 182-188
-  volume: '570'
-  issue: '7760'
+type: article-journal
+authors:
+- Martin Sikora
+- Vladimir V Pitulko
+- Vitor C Sousa
+- Morten E Allentoft
+- Lasse Vinner
+- Simon Rasmussen
+- Ashot Margaryan
+- Peter de Barros Damgaard
+- Constanza de la Fuente
+- Gabriel Renaud
+- and others
+date: 2019
+title: The population history of northeastern siberia since the pleistocene
+container-title: Nature
+publisher: Nature Publishing Group
+page: 182-188
+volume: '570'
+issue: '7760'
 
 - id: mata2019repertoire
-  type: article-journal
-  authors:
-  - Xavier Mata
-  - Gabriel Renaud
-  - Catherine Mollereau
-  date: 2019
-  title: The repertoire of family A-peptide GPCRs in archaic hominins
-  container-title: Peptides
-  publisher: Elsevier
-  page: '170154'
-  volume: '122'
+type: article-journal
+authors:
+- Xavier Mata
+- Gabriel Renaud
+- Catherine Mollereau
+date: 2019
+title: The repertoire of family A-peptide GPCRs in archaic hominins
+container-title: Peptides
+publisher: Elsevier
+page: '170154'
+volume: '122'
 
 - id: renaud2019joint
-  type: article-journal
-  authors:
-  - Gabriel Renaud
-  - Kristian Hanghøj
-  - Thorfinn Sand Korneliussen
-  - Eske Willerslev
-  - Ludovic Orlando
-  date: 2019
-  title: Joint Estimates of Heterozygosity and Runs of Homozygosity for Modern and
-    Ancient Samples
-  container-title: Genetics
-  publisher: Genetics
-  page: genetics-302057
+type: article-journal
+authors:
+- Gabriel Renaud
+- Kristian Hanghøj
+- Thorfinn Sand Korneliussen
+- Eske Willerslev
+- Ludovic Orlando
+date: 2019
+title: Joint Estimates of Heterozygosity and Runs of Homozygosity for Modern and
+Ancient Samples
+container-title: Genetics
+publisher: Genetics
+page: genetics-302057
 
 - id: hanghoj2019dammet
-  type: article-journal
-  authors:
-  - Kristian Hanghøj
-  - Gabriel Renaud
-  - Anders Albrechtsen
-  - Ludovic Orlando
-  date: 2019
-  title: 'DamMet: Ancient methylome mapping accounting for errors, true variants,
-    and post-mortem DNA damage'
-  title-short: DamMet
-  container-title: GigaScience
-  publisher: Oxford University Press
-  page: giz025
-  volume: '8'
-  issue: '4'
+type: article-journal
+authors:
+- Kristian Hanghøj
+- Gabriel Renaud
+- Anders Albrechtsen
+- Ludovic Orlando
+date: 2019
+title: 'DamMet: Ancient methylome mapping accounting for errors, true variants,
+and post-mortem DNA damage'
+title-short: DamMet
+container-title: GigaScience
+publisher: Oxford University Press
+page: giz025
+volume: '8'
+issue: '4'
 
 - id: renaud2019authentication
-  type: chapter
-  authors:
-  - Gabriel Renaud
-  - Mikkel Schubert
-  - Susanna Sawyer
-  - Ludovic Orlando
-  date: 2019
-  title: Authentication and assessment of contamination in ancient DNA
-  container-title: 'Ancient DNA: Methods and Protocols, 2nd Edition'
-  publisher: Humana Press, New York, NY
-  page: 163-194
+type: chapter
+authors:
+- Gabriel Renaud
+- Mikkel Schubert
+- Susanna Sawyer
+- Ludovic Orlando
+date: 2019
+title: Authentication and assessment of contamination in ancient DNA
+container-title: 'Ancient DNA: Methods and Protocols, 2nd Edition'
+publisher: Humana Press, New York, NY
+page: 163-194
 
 - id: damgaard2018137
-  type: article-journal
-  authors:
-  - Peter de Barros Damgaard
-  - Nina Marchi
-  - Simon Rasmussen
-  - Michaël Peyrot
-  - Gabriel Renaud
-  - Thorfinn Korneliussen
-  - José Victor Moreno-Mayar
-  - Mikkel Winther Pedersen
-  - Amy Goldberg
-  - Emma Usmanova
-  - and others
-  date: 2018
-  title: 137 ancient human genomes from across the Eurasian steppes.
-  container-title: Nature
-  publisher: Nature Publishing Group
-  page: 369-374
-  volume: '557'
-  issue: '7705'
+type: article-journal
+authors:
+- Peter de Barros Damgaard
+- Nina Marchi
+- Simon Rasmussen
+- Michaël Peyrot
+- Gabriel Renaud
+- Thorfinn Korneliussen
+- José Victor Moreno-Mayar
+- Mikkel Winther Pedersen
+- Amy Goldberg
+- Emma Usmanova
+- and others
+date: 2018
+title: 137 ancient human genomes from across the Eurasian steppes.
+container-title: Nature
+publisher: Nature Publishing Group
+page: 369-374
+volume: '557'
+issue: '7705'
 
 - id: schroeder2018origins
-  type: article-journal
-  authors:
-  - Hannes Schroeder
-  - Martin Sikora
-  - Shyam Gopalakrishnan
-  - Lara M Cassidy
-  - Pierpaolo Maisano Delser
-  - Marcela Sandoval Velasco
-  - Joshua G Schraiber
-  - Simon Rasmussen
-  - Julian R Homburger
-  - Marı́a C Ávila-Arcos
-  - Morten E Allentoft
-  - J Vı́ctor Moreno-Mayar
-  - Gabriel Renaud
-  - Alberto Gómez-Carballa
-  - and others
-  date: 2018
-  title: Origins and genetic legacies of the Caribbean Taino
-  container-title: Proceedings of the National Academy of Sciences
-  publisher: National Acad Sciences
-  page: 2341-2346
-  volume: '115'
-  issue: '10'
+type: article-journal
+authors:
+- Hannes Schroeder
+- Martin Sikora
+- Shyam Gopalakrishnan
+- Lara M Cassidy
+- Pierpaolo Maisano Delser
+- Marcela Sandoval Velasco
+- Joshua G Schraiber
+- Simon Rasmussen
+- Julian R Homburger
+- Marı́a C Ávila-Arcos
+- Morten E Allentoft
+- J Vı́ctor Moreno-Mayar
+- Gabriel Renaud
+- Alberto Gómez-Carballa
+- and others
+date: 2018
+title: Origins and genetic legacies of the Caribbean Taino
+container-title: Proceedings of the National Academy of Sciences
+publisher: National Acad Sciences
+page: 2341-2346
+volume: '115'
+issue: '10'
 
 - id: renaud2018improved
-  type: article-journal
-  authors:
-  - Gabriel Renaud
-  - Bent Petersen
-  - Andaine Seguin-Orlando
-  - Mads Frost Bertelsen
-  - Andrew Waller
-  - Richard Newton
-  - Romain Paillot
-  - Neil Bryant
-  - Mark Vaudin
-  - Pablo Librado
-  - and others
-  date: 2018
-  title: Improved de novo genomic assembly for the domestic donkey
-  container-title: Science Advances
-  publisher: American Association for the Advancement of Science
-  page: eaaq0392
-  volume: '4'
-  issue: '4'
+type: article-journal
+authors:
+- Gabriel Renaud
+- Bent Petersen
+- Andaine Seguin-Orlando
+- Mads Frost Bertelsen
+- Andrew Waller
+- Richard Newton
+- Romain Paillot
+- Neil Bryant
+- Mark Vaudin
+- Pablo Librado
+- and others
+date: 2018
+title: Improved de novo genomic assembly for the domestic donkey
+container-title: Science Advances
+publisher: American Association for the Advancement of Science
+page: eaaq0392
+volume: '4'
+issue: '4'
 
 - id: renaud2017glactools
-  type: article-journal
-  authors:
-  - Gabriel Renaud
-  date: 2017
-  title: 'glactools: A command-line toolset for the management of genotype likelihoods and allele counts'
-  title-short: Glactools
-  container-title: Bioinformatics
-  publisher: Oxford University Press
-  page: '3'
-  volume: '1'
+type: article-journal
+authors:
+- Gabriel Renaud
+date: 2017
+title: 'glactools: A command-line toolset for the management of genotype likelihoods and allele counts'
+title-short: Glactools
+container-title: Bioinformatics
+publisher: Oxford University Press
+page: '3'
+volume: '1'
 
 - id: duggan2017genetic
-  type: article-journal
-  authors:
-  - Ana T Duggan
-  - Alison JT Harris
-  - Stephanie Marciniak
-  - Ingeborg Marshall
-  - Melanie Kuch
-  - Andrew Kitchen
-  - Gabriel Renaud
-  - John Southon
-  - Ben Fuller
-  - Janet Young
-  - and others
-  date: 2017
-  title: Genetic Discontinuity between the Maritime Archaic and Beothuk Populations
-    in Newfoundland, Canada
-  container-title: Current Biology
-  publisher: Cell Press
+type: article-journal
+authors:
+- Ana T Duggan
+- Alison JT Harris
+- Stephanie Marciniak
+- Ingeborg Marshall
+- Melanie Kuch
+- Andrew Kitchen
+- Gabriel Renaud
+- John Southon
+- Ben Fuller
+- Janet Young
+- and others
+date: 2017
+title: Genetic Discontinuity between the Maritime Archaic and Beothuk Populations
+in Newfoundland, Canada
+container-title: Current Biology
+publisher: Cell Press
 
 - id: sikora2017ancient
-  type: article-journal
-  authors:
-  - Martin Sikora
-  - Andaine Seguin-Orlando
-  - Vitor C. Sousa
-  - Anders Albrechtsen
-  - Thorfinn Korneliussen
-  - Amy Ko
-  - Simon Rasmussen
-  - Isabelle Dupanloup
-  - Philip R Nigst
-  - Marjolein D Bosch
-  - Gabriel Renaud
-  - Morten E Allentoft
-  - Ashot Margaryan
-  - and others
-  date: 2017
-  title: Ancient genomes show social and reproductive behaviour of early Upper Paleolithic
-    foragers
-  container-title: Science
-  publisher: American Association for the Advancement of Science
-  volume: eaao1807
+type: article-journal
+authors:
+- Martin Sikora
+- Andaine Seguin-Orlando
+- Vitor C. Sousa
+- Anders Albrechtsen
+- Thorfinn Korneliussen
+- Amy Ko
+- Simon Rasmussen
+- Isabelle Dupanloup
+- Philip R Nigst
+- Marjolein D Bosch
+- Gabriel Renaud
+- Morten E Allentoft
+- Ashot Margaryan
+- and others
+date: 2017
+title: Ancient genomes show social and reproductive behaviour of early Upper Paleolithic
+foragers
+container-title: Science
+publisher: American Association for the Advancement of Science
+volume: eaao1807
 
 - id: slon2017fourth
-  type: article-journal
-  authors:
-  - Viviane Slon
-  - Bence Viola
-  - Gabriel Renaud
-  - Marie-Theres Gansauge
-  - Stefano Benazzi
-  - Susanna Sawyer
-  - Jean-Jacques Hublin
-  - Michail V. Shunkov
-  - Anatoly P. Derevianko
-  - Janet Kelso
-  - Kay Prüfer
-  - Matthias Meyer
-  - Svante Pääbo
-  date: 2017
-  title: A fourth Denisovan individual
-  container-title: Science Advances
-  publisher: American Association for the Advancement of Science
-  page: e1700186
-  volume: '3'
-  issue: '7'
+type: article-journal
+authors:
+- Viviane Slon
+- Bence Viola
+- Gabriel Renaud
+- Marie-Theres Gansauge
+- Stefano Benazzi
+- Susanna Sawyer
+- Jean-Jacques Hublin
+- Michail V. Shunkov
+- Anatoly P. Derevianko
+- Janet Kelso
+- Kay Prüfer
+- Matthias Meyer
+- Svante Pääbo
+date: 2017
+title: A fourth Denisovan individual
+container-title: Science Advances
+publisher: American Association for the Advancement of Science
+page: e1700186
+volume: '3'
+issue: '7'
 
 - id: renaud2016gargammel
-  type: article-journal
-  authors:
-  - Gabriel Renaud
-  - Kristian Hanghøj
-  - Eske Willerslev
-  - Ludovic Orlando
-  date: 2016
-  title: 'Gargammel: A sequence simulator for ancient DNA'
-  title-short: Gargammel
-  container-title: Bioinformatics
-  publisher: Oxford University Press
-  page: 577-579
-  volume: '33'
-  issue: '4'
+type: article-journal
+authors:
+- Gabriel Renaud
+- Kristian Hanghøj
+- Eske Willerslev
+- Ludovic Orlando
+date: 2016
+title: 'Gargammel: A sequence simulator for ancient DNA'
+title-short: Gargammel
+container-title: Bioinformatics
+publisher: Oxford University Press
+page: 577-579
+volume: '33'
+issue: '4'
 
 - id: mallick2016simons
-  type: article-journal
-  authors:
-  - Swapan Mallick
-  - Heng Li
-  - Mark Lipson
-  - Iain Mathieson
-  - Melissa Gymrek
-  - Fernando Racimo
-  - Mengyao Zhao
-  - Niru Chennagiri
-  - Susanne Nordenfelt
-  - Arti Tandon
-  - Pontus Skoglund
-  - Iosif Lazaridis
-  - Sriram Sankararaman
-  - Qiaomei Fu
-  - Nadin Rohland
-  - Gabriel Renaud
-  - Yaniv Erlich
-  - Carla Gallo
-  - and others
-  date: 2016
-  title: 'The Simons Genome Diversity Project: 300 genomes from 142 diverse populations'
-  title-short: The Simons Genome Diversity Project
-  container-title: Nature
-  publisher: Nature Research
-  page: 201-206
-  volume: '538'
-  issue: '7624'
+type: article-journal
+authors:
+- Swapan Mallick
+- Heng Li
+- Mark Lipson
+- Iain Mathieson
+- Melissa Gymrek
+- Fernando Racimo
+- Mengyao Zhao
+- Niru Chennagiri
+- Susanne Nordenfelt
+- Arti Tandon
+- Pontus Skoglund
+- Iosif Lazaridis
+- Sriram Sankararaman
+- Qiaomei Fu
+- Nadin Rohland
+- Gabriel Renaud
+- Yaniv Erlich
+- Carla Gallo
+- and others
+date: 2016
+title: 'The Simons Genome Diversity Project: 300 genomes from 142 diverse populations'
+title-short: The Simons Genome Diversity Project
+container-title: Nature
+publisher: Nature Research
+page: 201-206
+volume: '538'
+issue: '7624'
 
 - id: renaudracimo2016joint
-  type: article-journal
-  authors:
-  - Gabriel Renaud\*
-  - Fernando Racimo\*
-  - Montgomery Slatkin
-  date: 2016
-  title: Joint estimation of contamination, error and demography for nuclear DNA from
-    ancient humans
-  container-title: PLoS Genetics
-  publisher: Public Library of Science
-  page: e1005972
-  volume: '12'
-  issue: '4'
+type: article-journal
+authors:
+- Gabriel Renaud\*
+- Fernando Racimo\*
+- Montgomery Slatkin
+date: 2016
+title: Joint estimation of contamination, error and demography for nuclear DNA from
+ancient humans
+container-title: PLoS Genetics
+publisher: Public Library of Science
+page: e1005972
+volume: '12'
+issue: '4'
 
 - id: posth2016pleistocene
-  type: article-journal
-  authors:
-  - Cosimo Posth
-  - Gabriel Renaud
-  - Alissa Mittnik
-  - Dorothée G Drucker
-  - Hélène Rougier
-  - Christophe Cupillard
-  - and others
-  date: 2016
-  title: Pleistocene Mitochondrial Genomes Suggest a Single Major Dispersal of Non-Africans
-    and a Late Glacial Population Turnover in Europe
-  container-title: Current Biology
-  publisher: Elsevier
-  page: 827-833
-  volume: '26'
-  issue: '6'
+type: article-journal
+authors:
+- Cosimo Posth
+- Gabriel Renaud
+- Alissa Mittnik
+- Dorothée G Drucker
+- Hélène Rougier
+- Christophe Cupillard
+- and others
+date: 2016
+title: Pleistocene Mitochondrial Genomes Suggest a Single Major Dispersal of Non-Africans
+and a Late Glacial Population Turnover in Europe
+container-title: Current Biology
+publisher: Elsevier
+page: 827-833
+volume: '26'
+issue: '6'
 
 - id: renaud2015schmutzi
-  type: article-journal
-  authors:
-  - Gabriel Renaud
-  - Viviane Slon
-  - Ana T. Duggan
-  - Janet Kelso
-  date: 2015
-  title: '<span class="nocase">Schmutzi: estimation of contamination and endogenous
-    mitochondrial consensus calling for ancient DNA</span>'
-  container-title: Genome Biology
-  page: '224'
-  volume: '16'
+type: article-journal
+authors:
+- Gabriel Renaud
+- Viviane Slon
+- Ana T. Duggan
+- Janet Kelso
+date: 2015
+title: '<span class="nocase">Schmutzi: estimation of contamination and endogenous
+mitochondrial consensus calling for ancient DNA</span>'
+container-title: Genome Biology
+page: '224'
+volume: '16'
 
 - id: renaudsawyer2015nuclear
-  type: article-journal
-  authors:
-  - Gabriel Renaud\*
-  - Susanna Sawyer\*
-  - Bence Viola
-  - Jean-Jacques Hublin
-  - Marie Theres-Gansauge
-  - Michail Shunkovc
-  - Anatoly Dereviankoc
-  - Kay Pruefer
-  - Janet Kelso
-  - Svante Pääbo
-  date: 2015
-    month: 12
-  title: <span class="nocase">Nuclear and mitochondrial DNA sequences from two Denisovan
-    individuals</span>
-  container-title: Proceedings of the National Academy of Sciences
-  page: 15696-15700
-  volume: '112'
-  issue: '51'
+type: article-journal
+authors:
+- Gabriel Renaud\*
+- Susanna Sawyer\*
+- Bence Viola
+- Jean-Jacques Hublin
+- Marie Theres-Gansauge
+- Michail Shunkovc
+- Anatoly Dereviankoc
+- Kay Pruefer
+- Janet Kelso
+- Svante Pääbo
+date: 2015
+month: 12
+title: <span class="nocase">Nuclear and mitochondrial DNA sequences from two Denisovan
+individuals</span>
+container-title: Proceedings of the National Academy of Sciences
+page: 15696-15700
+volume: '112'
+issue: '51'
 
 - id: le2015kiwi
-  type: article-journal
-  authors:
-  - Diana Le Duc
-  - Gabriel Renaud
-  - Arunkumar Krishnan
-  - Markus Sällman Almén
-  - Leon Huynen
-  - Sonja J. Prohaska
-  - Matthias Ongyerth
-  - Bárbara D. Bitarello
-  - Helgi B. Schiöth
-  - Michael Hofreiter
-  - Peter F. Stadler
-  - Kay Prüfer
-  - David Lambert
-  - Janet Kelso
-  - Torsten Schöneberg
-  date: 2015
-  title: Kiwi genome provides insights into nocturnal adaptation
-  container-title: Genome Biology
-  page: '147'
-  volume: '16'
+type: article-journal
+authors:
+- Diana Le Duc
+- Gabriel Renaud
+- Arunkumar Krishnan
+- Markus Sällman Almén
+- Leon Huynen
+- Sonja J. Prohaska
+- Matthias Ongyerth
+- Bárbara D. Bitarello
+- Helgi B. Schiöth
+- Michael Hofreiter
+- Peter F. Stadler
+- Kay Prüfer
+- David Lambert
+- Janet Kelso
+- Torsten Schöneberg
+date: 2015
+title: Kiwi genome provides insights into nocturnal adaptation
+container-title: Genome Biology
+page: '147'
+volume: '16'
 
 - id: renaud2014deml
-  type: article-journal
-  authors:
-  - Gabriel Renaud
-  - Udo Stenzel
-  - Tomislav Maricic
-  - Victor Wiebe
-  - Janet Kelso
-  date: 2015
-    month: 3
-  title: '<span class="nocase">deML: robust demultiplexing of Illumina sequences using
-    a likelihood-based approach</span>'
-  container-title: Bioinformatics
-  page: 770-772
-  volume: '31'
-  issue: '5'
+type: article-journal
+authors:
+- Gabriel Renaud
+- Udo Stenzel
+- Tomislav Maricic
+- Victor Wiebe
+- Janet Kelso
+date: 2015
+month: 3
+title: '<span class="nocase">deML: robust demultiplexing of Illumina sequences using
+a likelihood-based approach</span>'
+container-title: Bioinformatics
+page: 770-772
+volume: '31'
+issue: '5'
 
 - id: renaud2014triefinder
-  type: article-journal
-  authors:
-  - Gabriel Renaud\*
-  - Matthew C LaFave\*
-  - Jin Liang
-  - Tyra G Wolfsberg
-  - Shawn M Burgess
-  date: 2014
-  title: 'TrieFinder: An efficient program for annotating Digital Gene Expression
-    (DGE) tags'
-  title-short: TrieFinder
-  container-title: BMC Bioinformatics
-  publisher: BioMed Central Ltd
-  page: '329'
-  volume: '15'
-  issue: '1'
+type: article-journal
+authors:
+- Gabriel Renaud\*
+- Matthew C LaFave\*
+- Jin Liang
+- Tyra G Wolfsberg
+- Shawn M Burgess
+date: 2014
+title: 'TrieFinder: An efficient program for annotating Digital Gene Expression
+(DGE) tags'
+title-short: TrieFinder
+container-title: BMC Bioinformatics
+publisher: BioMed Central Ltd
+page: '329'
+volume: '15'
+issue: '1'
 
 - id: renaud2014leehom
-  type: article-journal
-  authors:
-  - Gabriel Renaud
-  - Udo Stenzel
-  - Janet Kelso
-  date: 2014
-    month: 10
-  title: '<span class="nocase">leeHom: adaptor trimming and merging for Illumina sequencing
-    reads</span>'
-  container-title: Nucleic Acids Research
-  page: e141
-  volume: '42'
-  issue: '18'
+type: article-journal
+authors:
+- Gabriel Renaud
+- Udo Stenzel
+- Janet Kelso
+date: 2014
+month: 10
+title: '<span class="nocase">leeHom: adaptor trimming and merging for Illumina sequencing
+reads</span>'
+container-title: Nucleic Acids Research
+page: e141
+volume: '42'
+issue: '18'
 
 - id: lazaridis2014ancient
-  type: article-journal
-  authors:
-  - Iosif Lazaridis
-  - Nick Patterson
-  - Alissa Mittnik
-  - Gabriel Renaud
-  - Swapan Mallick
-  - Karola Kirsanow
-  - Peter H Sudmant
-  - Joshua G Schraiber
-  - Sergi Castellano
-  - Mark Lipson
-  - and others
-  date: 2014
-    month: 9
-  title: Ancient human genomes suggest three ancestral populations for present-day
-    Europeans
-  container-title: Nature
-  publisher: Nature Publishing Group
-  page: 409-413
-  volume: '513'
-  issue: '7518'
+type: article-journal
+authors:
+- Iosif Lazaridis
+- Nick Patterson
+- Alissa Mittnik
+- Gabriel Renaud
+- Swapan Mallick
+- Karola Kirsanow
+- Peter H Sudmant
+- Joshua G Schraiber
+- Sergi Castellano
+- Mark Lipson
+- and others
+date: 2014
+month: 9
+title: Ancient human genomes suggest three ancestral populations for present-day
+Europeans
+container-title: Nature
+publisher: Nature Publishing Group
+page: 409-413
+volume: '513'
+issue: '7518'
 
 - id: lippold2014human
-  type: article-journal
-  authors:
-  - Sebastian Lippold
-  - Hongyang Xu
-  - Albert Ko
-  - Mingkun Li
-  - Gabriel Renaud
-  - Anne Butthof
-  - Roland Schröder
-  - Mark Stoneking
-  - and others
-  date: 2014
-  title: '<span class="nocase">Human paternal and maternal demographic histories:
-    insights from high-resolution Y chromosome and mtDNA sequences</span>'
-  container-title: Investigative Genetics
-  page: '13'
-  volume: '5'
+type: article-journal
+authors:
+- Sebastian Lippold
+- Hongyang Xu
+- Albert Ko
+- Mingkun Li
+- Gabriel Renaud
+- Anne Butthof
+- Roland Schröder
+- Mark Stoneking
+- and others
+date: 2014
+title: '<span class="nocase">Human paternal and maternal demographic histories:
+insights from high-resolution Y chromosome and mtDNA sequences</span>'
+container-title: Investigative Genetics
+page: '13'
+volume: '5'
 
 - id: renaud2013freeibis
-  type: article-journal
-  authors:
-  - Gabriel Renaud
-  - Martin Kircher
-  - Udo Stenzel
-  - Janet Kelso
-  date: 2013
-    month: 5
-  title: '<span class="nocase">freeIbis: an efficient basecaller with calibrated quality
-    scores for Illumina sequencers</span>'
-  container-title: Bioinformatics
-  page: 1208-1209
-  volume: '29'
-  issue: '9'
+type: article-journal
+authors:
+- Gabriel Renaud
+- Martin Kircher
+- Udo Stenzel
+- Janet Kelso
+date: 2013
+month: 5
+title: '<span class="nocase">freeIbis: an efficient basecaller with calibrated quality
+scores for Illumina sequencers</span>'
+container-title: Bioinformatics
+page: 1208-1209
+volume: '29'
+issue: '9'
 
 - id: castellano2014patterns
-  type: article-journal
-  authors:
-  - Sergi Castellano
-  - Genı́s Parra
-  - Federico A Sánchez-Quinto
-  - Fernando Racimo
-  - Martin Kuhlwilm
-  - Martin Kircher
-  - Susanna Sawyer
-  - Qiaomei Fu
-  - Anja Heinze
-  - Birgit Nickel
-  - Jesse Dabney
-  - Michael Siebauer
-  - Louise White
-  - Hernán A Burbano
-  - Gabriel Renaud
-  - Udo Stenzel
-  - Carles Lalueza-Fox
-  - and others
-  date: 2014
-  title: Patterns of coding variation in the complete exomes of three Neandertals
-  container-title: Proceedings of the National Academy of Sciences
-  publisher: National Acad Sciences
-  page: 6666-6671
-  volume: '111'
-  issue: '18'
+type: article-journal
+authors:
+- Sergi Castellano
+- Genı́s Parra
+- Federico A Sánchez-Quinto
+- Fernando Racimo
+- Martin Kuhlwilm
+- Martin Kircher
+- Susanna Sawyer
+- Qiaomei Fu
+- Anja Heinze
+- Birgit Nickel
+- Jesse Dabney
+- Michael Siebauer
+- Louise White
+- Hernán A Burbano
+- Gabriel Renaud
+- Udo Stenzel
+- Carles Lalueza-Fox
+- and others
+date: 2014
+title: Patterns of coding variation in the complete exomes of three Neandertals
+container-title: Proceedings of the National Academy of Sciences
+publisher: National Acad Sciences
+page: 6666-6671
+volume: '111'
+issue: '18'
 
 - id: prufer2014complete
-  type: article-journal
-  authors:
-  - Kay Prüfer
-  - Fernando Racimo
-  - Nick Patterson
-  - Flora Jay
-  - Sriram Sankararaman
-  - Susanna Sawyer
-  - Anja Heinze
-  - Gabriel Renaud
-  - Peter H Sudmant
-  - Cesare de Filippo
-  - and others
-  date: 2014
-  title: The complete genome sequence of a Neanderthal from the Altai Mountains
-  container-title: Nature
-  publisher: Nature Publishing Group
-  page: 43-49
-  volume: '505'
-  issue: '7481'
+type: article-journal
+authors:
+- Kay Prüfer
+- Fernando Racimo
+- Nick Patterson
+- Flora Jay
+- Sriram Sankararaman
+- Susanna Sawyer
+- Anja Heinze
+- Gabriel Renaud
+- Peter H Sudmant
+- Cesare de Filippo
+- and others
+date: 2014
+title: The complete genome sequence of a Neanderthal from the Altai Mountains
+container-title: Nature
+publisher: Nature Publishing Group
+page: 43-49
+volume: '505'
+issue: '7481'
 
 - id: bell2011predisposition
-  type: article-journal
-  authors:
-  - Daphne W Bell
-  - Nilabja Sikdar
-  - Kyoo-young Lee
-  - Jessica C Price
-  - Raghunath Chatterjee
-  - Hee-Dong Park
-  - Jennifer Fox
-  - Masamichi Ishiai
-  - Meghan L Rudd
-  - Lana M Pollock
-  - Sarah K Fogoros
-  - Hassan Mohamed
-  - Christin L Hanigan
-  - Suiyuan Zhang
-  - Pedro Cruz
-  - Gabriel Renaud
-  - Nancy F Hansen
-  - and others
-  date: 2011
-  title: Predisposition to cancer caused by genetic and functional defects of mammalian
-    Atad5
-  container-title: PLoS Genetics
-  publisher: Public Library of Science
-  page: e1002245
-  volume: '7'
-  issue: '8'
+type: article-journal
+authors:
+- Daphne W Bell
+- Nilabja Sikdar
+- Kyoo-young Lee
+- Jessica C Price
+- Raghunath Chatterjee
+- Hee-Dong Park
+- Jennifer Fox
+- Masamichi Ishiai
+- Meghan L Rudd
+- Lana M Pollock
+- Sarah K Fogoros
+- Hassan Mohamed
+- Christin L Hanigan
+- Suiyuan Zhang
+- Pedro Cruz
+- Gabriel Renaud
+- Nancy F Hansen
+- and others
+date: 2011
+title: Predisposition to cancer caused by genetic and functional defects of mammalian
+Atad5
+container-title: PLoS Genetics
+publisher: Public Library of Science
+page: e1002245
+volume: '7'
+issue: '8'
 
 - id: liang2011sequencing
-  type: article-journal
-  authors:
-  - Jin Liang
-  - Gabriel Renaud
-  - Shawn M Burgess
-  date: 2011
-  title: Sequencing-based expression profiling in Zebrafish
-  container-title: Methods in Cell Biology
-  publisher: NIH Public Access
-  page: '379'
-  volume: '104'
+type: article-journal
+authors:
+- Jin Liang
+- Gabriel Renaud
+- Shawn M Burgess
+date: 2011
+title: Sequencing-based expression profiling in Zebrafish
+container-title: Methods in Cell Biology
+publisher: NIH Public Access
+page: '379'
+volume: '104'
 
 - id: liang2012stat3
-  type: article-journal
-  authors:
-  - Jin Liang
-  - Dongmei Wang
-  - Gabriel Renaud
-  - Tyra G Wolfsberg
-  - Alexander F Wilson
-  - Shawn M Burgess
-  date: 2012
-    month: 8
-  title: <span class="nocase">The stat3/socs3a pathway is a key regulator of hair
-    cell regeneration in zebrafish.</span>
-  container-title: The Journal of Neuroscience
-  page: 10662-10673
-  volume: '32'
-  issue: '31'
+type: article-journal
+authors:
+- Jin Liang
+- Dongmei Wang
+- Gabriel Renaud
+- Tyra G Wolfsberg
+- Alexander F Wilson
+- Shawn M Burgess
+date: 2012
+month: 8
+title: <span class="nocase">The stat3/socs3a pathway is a key regulator of hair
+cell regeneration in zebrafish.</span>
+container-title: The Journal of Neuroscience
+page: 10662-10673
+volume: '32'
+issue: '31'
 
 - id: costa2012identification
-  type: article-journal
-  authors:
-  - Fabricio F Costa
-  - Jared M Bischof
-  - Elio F Vanin
-  - Rishi R Lulla
-  - Simone T Sredni
-  - Veena Rajaram
-  - Min Wang
-  - Gabriel Renaud
-  - Fabio Passetti
-  - Tadanori Tomita
-  - and others
-  date: 2012
-  title: Identification of differentially expressed microRNAs and other non-coding
-    RNAs in ependymomas
-  container-title: Cancer Research
-  publisher: American Association for Cancer Research
-  page: 198-198
-  volume: '72'
-  issue: 8 Supplement
+type: article-journal
+authors:
+- Fabricio F Costa
+- Jared M Bischof
+- Elio F Vanin
+- Rishi R Lulla
+- Simone T Sredni
+- Veena Rajaram
+- Min Wang
+- Gabriel Renaud
+- Fabio Passetti
+- Tadanori Tomita
+- and others
+date: 2012
+title: Identification of differentially expressed microRNAs and other non-coding
+RNAs in ependymomas
+container-title: Cancer Research
+publisher: American Association for Cancer Research
+page: 198-198
+volume: '72'
+issue: 8 Supplement
 
 - id: tavares2012identical
-  type: article-journal
-  authors:
-  - Raphael Tavares
-  - Gabriel Renaud
-  - Paulo Sergio Lopes Oliveira
-  - Carlos G Ferreira
-  - Emmanuel Dias-Neto
-  - Fabio Passetti
-  date: 2012
-  title: Identical sequence patterns in the ends of exons and introns of human protein-coding
-    genes
-  container-title: Computational Biology and Chemistry
-  publisher: Elsevier
-  page: 55-61
-  volume: '36'
+type: article-journal
+authors:
+- Raphael Tavares
+- Gabriel Renaud
+- Paulo Sergio Lopes Oliveira
+- Carlos G Ferreira
+- Emmanuel Dias-Neto
+- Fabio Passetti
+date: 2012
+title: Identical sequence patterns in the ends of exons and introns of human protein-coding
+genes
+container-title: Computational Biology and Chemistry
+publisher: Elsevier
+page: 55-61
+volume: '36'
 
 - id: emerenciano2011challenges
-  type: article-journal
-  authors:
-  - Mariana Emerenciano
-  - Gabriel Renaud
-  - Mariana Sant’Ana
-  - Caroline Barbieri
-  - Fabio Passetti
-  - Maria S Pombo-de-Oliveira
-  - Brazilian Collaborative Study Group of Infant Acute Leukemia
-  date: 2011
-  title: Challenges in the use of NG2 antigen as a marker to predict MLL rearrangements
-    in multi-center studies
-  container-title: Leukemia Research
-  publisher: Pergamon
-  page: 1001-1007
-  volume: '35'
-  issue: '8'
+type: article-journal
+authors:
+- Mariana Emerenciano
+- Gabriel Renaud
+- Mariana Sant’Ana
+- Caroline Barbieri
+- Fabio Passetti
+- Maria S Pombo-de-Oliveira
+- Brazilian Collaborative Study Group of Infant Acute Leukemia
+date: 2011
+title: Challenges in the use of NG2 antigen as a marker to predict MLL rearrangements
+in multi-center studies
+container-title: Leukemia Research
+publisher: Pergamon
+page: 1001-1007
+volume: '35'
+issue: '8'
 
 - id: renaud2011segtor
-  type: article-journal
-  authors:
-  - Gabriel Renaud
-  - Pedro Neves
-  - Edson Luiz Folador
-  - Carlos Gil Ferreira
-  - Fabio Passetti
-  date: 2011
-  title: 'Segtor: Rapid annotation of genomic coordinates and single nucleotide variations
-    using segment trees'
-  title-short: Segtor
-  container-title: PLOS ONE
-  publisher: Public Library of Science
-  page: e26715
-  volume: '6'
-  issue: '11'
+type: article-journal
+authors:
+- Gabriel Renaud
+- Pedro Neves
+- Edson Luiz Folador
+- Carlos Gil Ferreira
+- Fabio Passetti
+date: 2011
+title: 'Segtor: Rapid annotation of genomic coordinates and single nucleotide variations
+using segment trees'
+title-short: Segtor
+container-title: PLOS ONE
+publisher: Public Library of Science
+page: e26715
+volume: '6'
+issue: '11'
 
 - id: toleno2009development
-  type: article-journal
-  authors:
-  - Donna M Toleno
-  - Gabriel Renaud
-  - Tyra G Wolfsberg
-  - Munirul Islam
-  - Derek E Wildman
-  - Kimberly D Siegmund
-  - Joseph G Hacia
-  date: 2009
-  title: Development and evaluation of new mask protocols for gene expression profiling
-    in humans and chimpanzees
-  container-title: BMC Bioinformatics
-  publisher: BioMed Central Ltd
-  page: '77'
-  volume: '10'
-  issue: '1'
+type: article-journal
+authors:
+- Donna M Toleno
+- Gabriel Renaud
+- Tyra G Wolfsberg
+- Munirul Islam
+- Derek E Wildman
+- Kimberly D Siegmund
+- Joseph G Hacia
+date: 2009
+title: Development and evaluation of new mask protocols for gene expression profiling
+in humans and chimpanzees
+container-title: BMC Bioinformatics
+publisher: BioMed Central Ltd
+page: '77'
+volume: '10'
+issue: '1'
 
 - id: loftus2009gpnmb
-  type: article-journal
-  authors:
-  - Stacie K Loftus
-  - Anthony Antonellis
-  - Ivana Matera
-  - Gabriel Renaud
-  - Laura L Baxter
-  - Duncan Reid
-  - Tyra G Wolfsberg
-  - Yidong Chen
-  - ChenWei Wang
-  - Megana K Prasad
-  - and others
-  date: 2009
-  title: Gpnmb is a melanoblast-expressed, MITF-dependent gene
-  container-title: Pigment Cell & Melanoma Research
-  publisher: Wiley Online Library
-  page: 99-110
-  volume: '22'
-  issue: '1'
+type: article-journal
+authors:
+- Stacie K Loftus
+- Anthony Antonellis
+- Ivana Matera
+- Gabriel Renaud
+- Laura L Baxter
+- Duncan Reid
+- Tyra G Wolfsberg
+- Yidong Chen
+- ChenWei Wang
+- Megana K Prasad
+- and others
+date: 2009
+title: Gpnmb is a melanoblast-expressed, MITF-dependent gene
+container-title: Pigment Cell & Melanoma Research
+publisher: Wiley Online Library
+page: 99-110
+volume: '22'
+issue: '1'
 
 - id: scharschmidt2009matriptase
-  type: article-journal
-  authors:
-  - Tiffany C Scharschmidt
-  - Karin List
-  - Elizabeth A Grice
-  - Roman Szabo
-  - Gabriel Renaud
-  - Chyi-Chia R Lee
-  - Tyra G Wolfsberg
-  - Thomas H Bugge
-  - Julia A Segre
-  date: 2009
-  title: Matriptase-deficient mice exhibit ichthyotic skin with a selective shift
-    in skin microbiota
-  container-title: Journal of Investigative Dermatology
-  publisher: Nature Publishing Group
-  page: 2435-2442
-  volume: '129'
-  issue: '10'
+type: article-journal
+authors:
+- Tiffany C Scharschmidt
+- Karin List
+- Elizabeth A Grice
+- Roman Szabo
+- Gabriel Renaud
+- Chyi-Chia R Lee
+- Tyra G Wolfsberg
+- Thomas H Bugge
+- Julia A Segre
+date: 2009
+title: Matriptase-deficient mice exhibit ichthyotic skin with a selective shift
+in skin microbiota
+container-title: Journal of Investigative Dermatology
+publisher: Nature Publishing Group
+page: 2435-2442
+volume: '129'
+issue: '10'
 
 - id: kim2009sustained
-  type: article-journal
-  authors:
-  - Yoo-Jin Kim
-  - Yoon-Sang Kim
-  - Andre Larochelle
-  - Gabriel Renaud
-  - Tyra G Wolfsberg
-  - Rima Adler
-  - Robert E Donahue
-  - Peiman Hematti
-  - Bum-Kee Hong
-  - Jean Roayaei
-  - and others
-  date: 2009
-  title: Sustained high-level polyclonal hematopoietic marking and transgene expression
-    4 years after autologous transplantation of rhesus macaques with SIV lentiviral
-    vector–transduced CD34+ cells
-  container-title: Blood
-  publisher: American Society of Hematology
-  page: 5434-5443
-  volume: '113'
-  issue: '22'
+type: article-journal
+authors:
+- Yoo-Jin Kim
+- Yoon-Sang Kim
+- Andre Larochelle
+- Gabriel Renaud
+- Tyra G Wolfsberg
+- Rima Adler
+- Robert E Donahue
+- Peiman Hematti
+- Bum-Kee Hong
+- Jean Roayaei
+- and others
+date: 2009
+title: Sustained high-level polyclonal hematopoietic marking and transgene expression
+4 years after autologous transplantation of rhesus macaques with SIV lentiviral
+vector–transduced CD34+ cells
+container-title: Blood
+publisher: American Society of Hematology
+page: 5434-5443
+volume: '113'
+issue: '22'
 
 - id: grice2008diversity
-  type: article-journal
-  authors:
-  - Elizabeth A Grice
-  - Heidi H Kong
-  - Gabriel Renaud
-  - Alice C Young
-  - Gerard G Bouffard
-  - Robert W Blakesley
-  - Tyra G Wolfsberg
-  - Maria L Turner
-  - Julia A Segre
-  date: 2008
-  title: A diversity profile of the human skin microbiota
-  container-title: Genome Research
-  publisher: Cold Spring Harbor Lab
-  page: 1043-1050
-  volume: '18'
-  issue: '7'
+type: article-journal
+authors:
+- Elizabeth A Grice
+- Heidi H Kong
+- Gabriel Renaud
+- Alice C Young
+- Gerard G Bouffard
+- Robert W Blakesley
+- Tyra G Wolfsberg
+- Maria L Turner
+- Julia A Segre
+date: 2008
+title: A diversity profile of the human skin microbiota
+container-title: Genome Research
+publisher: Cold Spring Harbor Lab
+page: 1043-1050
+volume: '18'
+issue: '7'
 
 - id: pike2008dna
-  type: article-journal
-  authors:
-  - Brian L Pike
-  - Timothy C Greiner
-  - Xiaoming Wang
-  - Dennis D Weisenburger
-  - Ya-Hsuan Hsu
-  - Gabriel Renaud
-  - Tyra G Wolfsberg
-  - Myungjin Kim
-  - Daniel J Weisenberger
-  - Kimberly D Siegmund
-  - and others
-  date: 2008
-  title: DNA methylation profiles in diffuse large B-cell lymphoma and their relationship
-    to gene expression status
-  container-title: Leukemia
-  publisher: Nature Publishing Group
-  page: 1035-1043
-  volume: '22'
-  issue: '5'
+type: article-journal
+authors:
+- Brian L Pike
+- Timothy C Greiner
+- Xiaoming Wang
+- Dennis D Weisenburger
+- Ya-Hsuan Hsu
+- Gabriel Renaud
+- Tyra G Wolfsberg
+- Myungjin Kim
+- Daniel J Weisenberger
+- Kimberly D Siegmund
+- and others
+date: 2008
+title: DNA methylation profiles in diffuse large B-cell lymphoma and their relationship
+to gene expression status
+container-title: Leukemia
+publisher: Nature Publishing Group
+page: 1035-1043
+volume: '22'
+issue: '5'
 
 - id: antonellis2008identification
-  type: article-journal
-  authors:
-  - Anthony Antonellis
-  - Jimmy L Huynh
-  - Shih-Queen Lee-Lin
-  - Ryan M Vinton
-  - Gabriel Renaud
-  - Stacie K Loftus
-  - Gene Elliot
-  - Tyra G Wolfsberg
-  - Eric D Green
-  - Andrew S McCallion
-  - and others
-  date: 2008
-  title: Identification of neural crest and glial enhancers at the mouse Sox10 locus
-    through transgenesis in zebrafish
-  container-title: PLoS Genetics
-  publisher: Public Library of Science
-  page: e1000174
-  volume: '4'
-  issue: '9'
+type: article-journal
+authors:
+- Anthony Antonellis
+- Jimmy L Huynh
+- Shih-Queen Lee-Lin
+- Ryan M Vinton
+- Gabriel Renaud
+- Stacie K Loftus
+- Gene Elliot
+- Tyra G Wolfsberg
+- Eric D Green
+- Andrew S McCallion
+- and others
+date: 2008
+title: Identification of neural crest and glial enhancers at the mouse Sox10 locus
+through transgenesis in zebrafish
+container-title: PLoS Genetics
+publisher: Public Library of Science
+page: e1000174
+volume: '4'
+issue: '9'
 
 - id: grice2008genomic
-  type: paper-conference
-  authors:
-  - FA Grice
-  - HH Kong
-  - G Renaud
-  - AC Young
-  - N. Program
-  - GG Bouffard
-  - RW Blakesley
-  - TG Wolfsberg
-  - ML Tumer
-  - JA Segre
-  date: 2008
-  title: Genomic analysis of the cutaneous skin microflora
-  container-title: Journal of Investigative Dermatology
-  publisher: Nature Publishing Group
-  page: S121-S121
-  volume: '128'
+type: paper-conference
+authors:
+- FA Grice
+- HH Kong
+- G Renaud
+- AC Young
+- N. Program
+- GG Bouffard
+- RW Blakesley
+- TG Wolfsberg
+- ML Tumer
+- JA Segre
+date: 2008
+title: Genomic analysis of the cutaneous skin microflora
+container-title: Journal of Investigative Dermatology
+publisher: Nature Publishing Group
+page: S121-S121
+volume: '128'
 
 - id: hu2008reduced
-  type: article-journal
-  authors:
-  - Jingqiong Hu
-  - Gabriel Renaud
-  - Theotonius Golmes
-  - Andrea Ferris
-  - Paul C Hendrie
-  - Robert E Donahue
-  - Stephen H Hughes
-  - Tyra G Wolfsberg
-  - David W Russell
-  - Cynthia E Dunbar
-  date: 2008
-  title: Reduced genotoxicity of avian sarcoma leukosis virus vectors in rhesus long-term
-    repopulating cells compared to standard murine retrovirus vectors
-  container-title: Molecular Therapy
-  publisher: Nature Publishing Group
-  page: 1617-1623
-  volume: '16'
-  issue: '9'
+type: article-journal
+authors:
+- Jingqiong Hu
+- Gabriel Renaud
+- Theotonius Golmes
+- Andrea Ferris
+- Paul C Hendrie
+- Robert E Donahue
+- Stephen H Hughes
+- Tyra G Wolfsberg
+- David W Russell
+- Cynthia E Dunbar
+date: 2008
+title: Reduced genotoxicity of avian sarcoma leukosis virus vectors in rhesus long-term
+repopulating cells compared to standard murine retrovirus vectors
+container-title: Molecular Therapy
+publisher: Nature Publishing Group
+page: 1617-1623
+volume: '16'
+issue: '9'
 
 - id: hu2007distinctive
-  type: article-journal
-  authors:
-  - Jingqiong Hu
-  - Theotonius Gomes
-  - Andrea Ferris
-  - Gabriel Renaud
-  - Paul C Hendrie
-  - Allen E Krouse
-  - Robert E Donahue
-  - Tyra G Wolfsberg
-  - Stephen H Hughes
-  - David W Russell
-  - and others
-  date: 2007
-  title: Distinctive integration profile of avian sarcoma leukosis virus vectors in
-    rhesus long-term repopulating cells
-  container-title: Blood
-  publisher: American Society of Hematology
-  page: 66A-66A
-  volume: '110'
-  issue: '11'
+type: article-journal
+authors:
+- Jingqiong Hu
+- Theotonius Gomes
+- Andrea Ferris
+- Gabriel Renaud
+- Paul C Hendrie
+- Allen E Krouse
+- Robert E Donahue
+- Tyra G Wolfsberg
+- Stephen H Hughes
+- David W Russell
+- and others
+date: 2007
+title: Distinctive integration profile of avian sarcoma leukosis virus vectors in
+rhesus long-term repopulating cells
+container-title: Blood
+publisher: American Society of Hematology
+page: 66A-66A
+volume: '110'
+issue: '11'
 
 - id: crawford2006dnase
-  type: article-journal
-  authors:
-  - Gregory E Crawford
-  - Sean Davis
-  - Peter C Scacheri
-  - Gabriel Renaud
-  - Mohamad J Halawi
-  - Michael R Erdos
-  - Roland Green
-  - Paul S Meltzer
-  - Tyra G Wolfsberg
-  - Francis S Collins
-  date: 2006
-  title: 'DNase-chip: A high-resolution method to identify DNase I hypersensitive
-    sites using tiled microarrays'
-  title-short: DNase-chip
-  container-title: Nature Methods
-  publisher: Nature Publishing Group
-  page: 503-509
-  volume: '3'
-  issue: '7'
+type: article-journal
+authors:
+- Gregory E Crawford
+- Sean Davis
+- Peter C Scacheri
+- Gabriel Renaud
+- Mohamad J Halawi
+- Michael R Erdos
+- Roland Green
+- Paul S Meltzer
+- Tyra G Wolfsberg
+- Francis S Collins
+date: 2006
+title: 'DNase-chip: A high-resolution method to identify DNase I hypersensitive
+sites using tiled microarrays'
+title-short: DNase-chip
+container-title: Nature Methods
+publisher: Nature Publishing Group
+page: 503-509
+volume: '3'
+issue: '7'
 ...
