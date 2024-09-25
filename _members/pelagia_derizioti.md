@@ -2,7 +2,7 @@
 name: 	Pelagia Derizioti
 image: images/people/mortar.jpg
 description: M.Sc
-status: alumni
+status: current
 role: student
 aliases:
   - 

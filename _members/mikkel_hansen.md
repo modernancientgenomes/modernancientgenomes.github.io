@@ -1,8 +1,8 @@
 ---
 name: 	Mikkel Piester Hansen
-image: images/people/mortar.jpg
+image: images/people/mikkel_hansen.jpg
 description: M.Sc
-status: alumni
+status: current
 role: student
 aliases:
   - 

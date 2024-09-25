@@ -1,8 +1,8 @@
 ---
 name: 	Christian Christensen
-image: images/people/mortar.jpg
+image: images/people/christian_christensen.jpg
 description: M.Sc
-status: alumni
+status: current
 role: student
 aliases:
   - 
