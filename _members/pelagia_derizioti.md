@@ -1,6 +1,6 @@
 ---
 name: 	Pelagia Derizioti
-image: images/people/mortar.jpg
+image: images/people/pelagia_derizioti.jpg
 description: M.Sc
 status: current
 role: student
