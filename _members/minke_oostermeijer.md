@@ -1,8 +1,8 @@
 ---
-name: Irene Campillo Pereda
-image: images/people/irene_pereda.jpg
+name: Minke Oostermeijer
+image: images/people/minke_oostermeijer.jpg
 description: M.Sc
-status: alumni
+status: current
 role: student
 aliases:
   - 

@@ -2,7 +2,7 @@
 name: 	Mikkel Piester Hansen
 image: images/people/mikkel_hansen.jpg
 description: M.Sc
-status: current
+status: alumni
 role: student
 aliases:
   - 
