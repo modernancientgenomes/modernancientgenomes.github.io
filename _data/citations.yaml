@@ -1,5 +1,20 @@
 ---
 
+- id: kraft2025addeam
+  type: article-journal
+  authors:
+  - Louis Kraft
+  - Thorfinn Sand Korneliussen
+  - Peter Wadd Sackett
+  - Gabriel Renaud
+  date: '2025-01-22'
+  issued:
+  - year: 2025
+  title: 'AdDeam: A Fast and Scalable Tool for Estimating and Clustering Reference-Level Damage Profiles'
+  container-title: 'bioRxiv'
+  publisher: Cold Spring Harbor Laboratory
+  page: 2025-03
+
 - id: yediay2024ancient
   type: article-journal
   authors:
