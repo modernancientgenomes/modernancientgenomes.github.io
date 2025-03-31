@@ -1,4 +1,43 @@
 ---
+- id: kraft2025addeam
+type: article-journal
+author:
+- Louis Kraft
+- Thorfinn Sand Korneliussen
+- Peter Wadd Sackett
+- Gabriel Renaud
+issued:
+- year: 2025
+title: '<span class="nocase">AdDeam: A Fast and Scalable Tool for Estimating and
+Clustering Reference-Level Damage Profiles</span>'
+container-title: <span class="nocase">bioRxiv</span>
+publisher: Cold Spring Harbor Laboratory
+page: 2025-03
+
+- id: yediay2024ancient
+type: article-journal
+author:
+- Fulya Eylem Yediay
+- Guus Kroonen
+- Serena Sabatini
+- Karin Margarita Frei
+- Anja B Frank
+- Thomaz Pinotti
+- Andrew Wigman
+- Rasmus Thorsø
+- Tharsika Vimala
+- Hugh McColl
+- Ioanna Moutafi
+- Isin Altinkaya
+- Abigail Ramsøe
+- Charleen Gaunitz
+- Gabriel Renaud
+- literal: others
+issued:
+- year: 2024
+title: <span class="nocase">Ancient genomics support deep divergence between Eastern
+and Western Mediterranean Indo-European languages</span>
+container-title: <span class="nocase">bioRxiv</span>
 
 - id: kraft2024carpedeam
   type: article-journal
