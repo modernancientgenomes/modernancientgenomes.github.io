@@ -1,5 +1,32 @@
 ---
 
+- id: yediay2024ancient
+  type: article-journal
+  authors:
+  - Fulya Eylem Yediay
+  - Guus Kroonen
+  - Serena Sabatini
+  - Karin Margarita Frei
+  - Anja B Frank
+  - Thomaz Pinotti
+  - Andrew Wigman
+  - Rasmus Thorsø
+  - Tharsika Vimala
+  - Hugh McColl
+  - Ioanna Moutafi
+  - Isin Altinkaya
+  - Abigail Ramsøe
+  - Charleen Gaunitz
+  - Gabriel Renaud
+  - literal: others
+  date: '2024-12-01'
+  issued:
+  - year: 2024
+  title: 'Ancient genomics support deep divergence between Eastern and Western Mediterranean Indo-European languages'
+  container-title: bioRxiv
+  publisher: Cold Spring Harbor Laboratory
+  page: 2024-12
+
 - id: kraft2024carpedeam
   type: article-journal
   authors:
