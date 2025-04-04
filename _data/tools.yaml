@@ -1,3 +1,15 @@
+
+- name: AdDeam
+  group: software
+  image: images/addeam.png
+  link: https://github.com/LouisPwr/AdDeam
+  description: AdDeam is a new tool designed to take a list of BAM files as input and generate damage profiles, which can be visualized to group similar profiles together.
+  repo: LouisPwr/AdDeam
+  tags: 
+    - aDNA
+    - aeDNA
+
+
 - name: safari
   group: software
   image: images/safari.png
