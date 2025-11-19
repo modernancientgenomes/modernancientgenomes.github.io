@@ -8,9 +8,9 @@ nav:
 # <i class="fas fa-envelope"></i>Contact
 
 
-Our group is part of the [Bioinformatics Section](https://www.healthtech.dtu.dk/research/research-sections/section-bioinformatics) at the [Department of Health Technologies](https://www.healthtech.dtu.dk/) at the Technical University of Denmark (https://www.dtu.dk/). We located in Lyngby which is 12km north of Copenhagen, Denmark. We are part of the EuroTech Universities Alliance.
+Our group is part of the [Faculty of Science and Engineering](https://www.fsg.ulaval.ca/en) at the Université Laval (https://www.ulaval.ca/). We located in Québec City, Québec, Canada. 
 
-Lyngy is 15 mins away from downtown Copenhagen by train and surrounded by amazing forests and lakes. 
+Québec City is a one of the most oldest and most beautiful cities in North America, full of cultural events, fine dining but yet close to several hiking trails and farms.   
 
 {%
   include link.html
@@ -27,7 +27,7 @@ Lyngy is 15 mins away from downtown Copenhagen by train and surrounded by amazin
   icon=""
   text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://goo.gl/maps/RtFktTm8QkmvFpqX8"
+  link="https://maps.app.goo.gl/HWSiKXRUnsgwaXhUA"
   style="button"
 %}
 
@@ -39,20 +39,20 @@ Lyngy is 15 mins away from downtown Copenhagen by train and surrounded by amazin
 {% capture col1 %}
 {%
   include figure.html
-  image="images/eremitageslotte-unesco.jpg"
-  caption="The Dyrehave (deer park) (picture by Peter Lassen at the Naturstyrelsen)"
+  image="images/frontenac.jpg"
+  caption="The Chateau Frontenac (picture by Wikicommons)"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
-  image="images/furesoen.jpg"
-  caption="Furesoen (by [Henrik Pers](https://brugere.lex.dk/6941) )"
+  image="images/jacques_cartier.jpg"
+  caption="The Jacques Cartier National Park, 670 km2 (260 mi2), (picture by Wikicommons)"
 %}
 {%
   include figure.html
-  image="images/H34_01_Bygning202_foto-Hampus-Berndtson_web.jpg"
-  caption="DTU Building 202"
+  image="images/ulaval.jpg"
+  caption="The Université Laval campus"
 %}
 
 

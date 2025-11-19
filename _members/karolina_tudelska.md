@@ -2,7 +2,7 @@
 name: Karolina Zofia Tudelska
 image: images/people/karolina_tudelska.jpg
 description: M.Sc
-status: current
+status: alumni
 role: student
 aliases:
   - 

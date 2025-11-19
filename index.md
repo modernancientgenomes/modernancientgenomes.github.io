@@ -4,7 +4,7 @@ title: Home
 
 # Modern and Ancient Genomes
 
-The Modern and Ancient Genomes group headed by Prof. Gabriel Renaud is found at the Technical University of Denmark on the outskirts of Copenhagen. We are broadly interested in methods applied to next-generation sequencing data, genotyping, allele frequencies and resolved haplotypes from either modern and ancient genomes as well as sedimentary DNA. 
+The Modern and Ancient Genomes group headed by Prof. Gabriel Renaud is found at the Université Laval. We are broadly interested in methods applied to next-generation sequencing data, ancient and environmental DNA, genotyping, allele frequencies and resolved haplotypes from either modern and ancient genomes as well as sedimentary DNA. 
 
 
 {% include section.html full=true %}
