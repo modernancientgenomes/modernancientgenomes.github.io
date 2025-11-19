@@ -9,6 +9,7 @@
   publisher: Cold Spring Harbor Laboratory
   issued:
   - year: 2025
+  date: '2025-11-01'
   authors:
   - Jan van Waaij
   - Mads Vodder Hartmann
@@ -27,6 +28,7 @@
   publisher: Oxford University Press
   issued:
   - year: 2025
+  date: '2025-08-01'
   authors:
   - Louis Kraft
   - Thorfinn Sand Korneliussen
@@ -44,6 +46,7 @@
   publisher: Springer
   issued:
   - year: 2025
+  date: '2025-05-01'
   authors:
   - Louis Kraft
   - Johannes S{\"o}ding
