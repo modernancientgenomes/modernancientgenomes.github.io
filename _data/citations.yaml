@@ -2,12 +2,13 @@
 
 - id: van2025charon
   type: article-journal
-  title: 'CHARON: Estimating the drift time and the number of individuals in environmental
-    DNA with diploid individuals'
+  title: 'CHARON: Estimating the drift time and the number of individuals in environmental DNA with diploid individuals'
   journal: bioRxiv
   year: '2025'
   pages: 2025--05
   publisher: Cold Spring Harbor Laboratory
+  issued:
+  - year: 2025
   authors:
   - Jan van Waaij
   - Mads Vodder Hartmann
@@ -24,6 +25,8 @@
   number: '8'
   pages: btaf407
   publisher: Oxford University Press
+  issued:
+  - year: 2025
   authors:
   - Louis Kraft
   - Thorfinn Sand Korneliussen
@@ -39,6 +42,8 @@
   number: '1'
   pages: '372'
   publisher: Springer
+  issued:
+  - year: 2025
   authors:
   - Louis Kraft
   - Johannes S{\"o}ding

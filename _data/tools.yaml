@@ -3,7 +3,7 @@
   group: software
   image: images/charon.png
   link: https://github.com/Jan-van-Waaij/Charon
-  description: CHARON 
+  description: CHARON is a tool to estimate the number of individuals and infer the population of origin for human forensic or environmental samples 
   repo: Jan-van-Waaij/Charon
   tags: 
     - forensics
