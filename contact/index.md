@@ -8,9 +8,9 @@ nav:
 # <i class="fas fa-envelope"></i>Contact
 
 
-Our group is part of the [Faculty of Science and Engineering](https://www.fsg.ulaval.ca/en) at the Université Laval (https://www.ulaval.ca/). We located in Québec City, Québec, Canada. 
+Our group is part of the [Faculty of Science and Engineering](https://www.fsg.ulaval.ca/en) at the Universite Laval (https://www.ulaval.ca/). We located in Quebec City, Quebec, Canada. 
 
-Québec City is a one of the most oldest and most beautiful cities in North America, full of cultural events, fine dining but yet close to several hiking trails and farms.   
+Quebec City is a one of the most oldest and most beautiful cities in North America, full of cultural events, fine dining but yet close to several hiking trails and farms.   
 
 {%
   include link.html
@@ -52,7 +52,7 @@ Québec City is a one of the most oldest and most beautiful cities in North Ameri
 {%
   include figure.html
   image="images/ulaval.jpg"
-  caption="The Université Laval campus"
+  caption="The Universite Laval campusc"
 %}
 
 

@@ -1,19 +1,52 @@
 ---
 
+- id: van2025charon
+  type: article-journal
+  title: 'CHARON: Estimating the drift time and the number of individuals in environmental
+    DNA with diploid individuals'
+  journal: bioRxiv
+  year: '2025'
+  pages: 2025--05
+  publisher: Cold Spring Harbor Laboratory
+  authors:
+  - Jan van Waaij
+  - Mads Vodder Hartmann
+  - Peter Wad Sackett
+  - Gabriel Renaud
+
 - id: kraft2025addeam
   type: article-journal
+  title: 'AdDeam: a fast and scalable tool for estimating and clustering reference-level
+    damage profiles'
+  journal: Bioinformatics
+  year: '2025'
+  volume: '41'
+  number: '8'
+  pages: btaf407
+  publisher: Oxford University Press
   authors:
   - Louis Kraft
   - Thorfinn Sand Korneliussen
-  - Peter Wadd Sackett
+  - Peter Wad Sackett
   - Gabriel Renaud
-  date: '2025-01-22'
-  issued:
-  - year: 2025
-  title: 'AdDeam: A Fast and Scalable Tool for Estimating and Clustering Reference-Level Damage Profiles'
-  container-title: 'bioRxiv'
-  publisher: Cold Spring Harbor Laboratory
-  page: 2025-03
+
+- id: kraft2025carpedeam
+  type: article-journal
+  title: 'CarpeDeam: a de novo metagenome assembler for heavily damaged ancient datasets'
+  journal: Genome Biology
+  year: '2025'
+  volume: '26'
+  number: '1'
+  pages: '372'
+  publisher: Springer
+  authors:
+  - Louis Kraft
+  - Johannes S{\"o}ding
+  - Martin Steinegger
+  - Annika Jochheim
+  - Peter Wad Sackett
+  - Antonio Fernandez-Guerra
+  - Gabriel Renaud
 
 - id: yediay2024ancient
   type: article-journal
@@ -42,22 +75,6 @@
   publisher: Cold Spring Harbor Laboratory
   page: 2024-12
 
-- id: kraft2024carpedeam
-  type: article-journal
-  authors:
-  - Louis Kraft
-  - Johannes Soeding
-  - Martin Steinegger
-  - Annika Jochheim
-  - Antonio Fernandez-Guerra
-  - Gabriel Renaud
-  date: '2024-08-03'
-  issued:
-  - year: 2024
-  title: 'CarpeDeam: A De Novo Metagenome Assembler for Heavily Damaged Ancient Datasets'
-  container-title: bioRxiv
-  publisher: Cold Spring Harbor Laboratory
-  page: 2024-08
 
 - id: rubin2024safari
   type: article-journal

@@ -4,6 +4,9 @@
 run 
 yaml_format.py to reformat authors
 pandoc-citeproc --bib2yaml  ../grenaud.github.io/GabrielRenaudCV_published.bib   | python3.8 yaml_format.py -
+or
+cat ../grenaud.github.io/GabrielRenaudCV_published.bib | python3 bibtex_to_yaml.py 
+
 
 add manually new entries:
 _data/citations.yaml
