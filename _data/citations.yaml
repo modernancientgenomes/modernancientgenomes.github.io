@@ -1,20 +1,59 @@
 ---
 
-- id: van2025charon
-  type: article-journal
-  title: 'CHARON: Estimating the drift time and the number of individuals in environmental DNA with diploid individuals'
-  journal: bioRxiv
-  year: '2025'
-  pages: 2025--05
-  publisher: Cold Spring Harbor Laboratory
-  issued:
-  - year: 2025
-  date: '2025-11-01'
+- id: murchie2026ground
+  type: article
+  title: Ground squirrel coprolites preserve complex archives of ancient environmental
+    DNA over 700,000 years
+  journal: Nature Communications
+  year: '2026'
+  volume: '17'
+  number: '1'
+  pages: '4868'
+  publisher: Nature Publishing Group
+  authors:
+  - Tyler J Murchie
+  - Scott L Cocker
+  - Sina Baleka
+  - Nicola Alexandra Vogel
+  - Libby Natola
+  - Emil Karpinski
+  - Diana Tirlea
+  - McIntyre A Barrera
+  - Danielle M Grant
+  - Evan Morien
+  - others
+
+- id: van2026charon
+  type: article
+  title: 'CHARON: Estimating the drift time and the number of individuals in environmental
+    DNA with diploid individuals'
+  journal: 'G3: Genes, Genomes, Genetics'
+  year: '2026'
+  pages: jkag099
+  publisher: Oxford University Press
   authors:
   - Jan van Waaij
   - Mads Vodder Hartmann
   - Peter Wad Sackett
   - Gabriel Renaud
+  
+- id: rubin2025safari
+  type: article
+  title: 'SAFARI: pangenome alignment of ancient DNA using purine/pyrimidine encodings'
+  journal: NAR Genomics and Bioinformatics
+  year: '2025'
+  volume: '7'
+  number: '4'
+  pages: lqaf170
+  publisher: Oxford University Press
+  authors:
+  - Joshua Rubin
+  - Jan Van Waaij
+  - Louis Kraft
+  - Jouni Sir{\'e}n
+  - Peter Wad Sackett
+  - Gabriel Renaud
+
 
 - id: kraft2025addeam
   type: article-journal
