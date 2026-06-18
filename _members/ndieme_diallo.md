@@ -1,5 +1,5 @@
 ---
-name: Ndiémé Diallo
+name: Ndieme Diallo
 image: images/people/ndieme_diallo.jpg
 description: B.Sc
 status: current
