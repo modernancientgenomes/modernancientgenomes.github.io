@@ -95,6 +95,20 @@
   - Antonio Fernandez-Guerra
   - Gabriel Renaud
 
+- id: van2025charonbioRxiv
+  type: article
+  title: 'CHARON: Estimating the drift time and the number of individuals in environmental
+    DNA with diploid individuals'
+  journal: bioRxiv
+  year: '2025'
+  pages: 2025-05
+  publisher: Cold Spring Harbor Laboratory
+  authors:
+  - Jan van Waaij
+  - Mads Vodder Hartmann
+  - Peter Wad Sackett
+  - Gabriel Renaud
+
 - id: yediay2024ancient
   type: article-journal
   authors:
