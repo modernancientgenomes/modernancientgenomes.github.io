@@ -9,7 +9,7 @@
   volume: '17'
   number: '1'
   pages: '4868'
-  publisher: Nature Publishing Group
+  publisher: Nature Communications
   issued:
   - year: 2026
   date: '2026-06-01'
@@ -33,7 +33,7 @@
   journal: 'G3: Genes, Genomes, Genetics'
   year: '2026'
   pages: jkag099
-  publisher: Oxford University Press
+  publisher: 'G3: Genes, Genomes, Genetics'
   issued:
   - year: 2026
   date: '2026-04-01'
@@ -51,7 +51,7 @@
   volume: '7'
   number: '4'
   pages: lqaf170
-  publisher: Oxford University Press
+  publisher: NAR Genomics and Bioinformatics
   issued:
   - year: 2025
   date: '2025-12-01'
@@ -73,7 +73,7 @@
   volume: '41'
   number: '8'
   pages: btaf407
-  publisher: Oxford University Press
+  publisher: Bioinformatics
   issued:
   - year: 2025
   date: '2025-08-01'
@@ -91,7 +91,7 @@
   volume: '26'
   number: '1'
   pages: '372'
-  publisher: Springer
+  publisher: Genome Biology
   issued:
   - year: 2025
   date: '2025-05-01'
@@ -128,26 +128,9 @@
   - year: 2024
   title: 'Ancient genomics support deep divergence between Eastern and Western Mediterranean Indo-European languages'
   container-title: bioRxiv
-  publisher: Cold Spring Harbor Laboratory
+  publisher: bioRxiv
   page: 2024-12
 
-
-- id: rubin2024safari
-  type: article-journal
-  authors:
-  - Joshua Daniel Rubin
-  - Jan van Waaij
-  - Louis M Kraft
-  - Jouni Sirén
-  - Peter Wad Sackett
-  - Gabriel Renaud
-  date: '2024-08-02'
-  issued:
-  - year: 2024
-  title: 'SAFARI: Pangenome Alignment of Ancient DNA Using Purine/Pyrimidine Encodings'
-  container-title: <span class="nocase">bioRxiv</span>
-  publisher: Cold Spring Harbor Laboratory
-  page: 2024-08
 
 - id: eriksen2024number
   type: article-journal
@@ -159,25 +142,26 @@
   - year: 2024
   title: 'Number of ancestors and length of identity-by-descent tracks over time'
   container-title: <span class="nocase">bioRxiv</span>
-  publisher: Cold Spring Harbor Laboratory
+  publisher: bioRxiv
   page: 2024-08
-
+  
 - id: vogel2024soibean
-  type: article-journal
-  author:
+  type: article
+  title: 'soibean: High-resolution Taxonomic Identification of Ancient Environmental
+    DNA Using Mitochondrial Pangenome Graphs'
+  journal: Molecular Biology and Evolution
+  publisher: Molecular Biology and Evolution
+  year: '2024'
+  date: '2024-11-01'
+  pages: msae203
+  doi: 10.1093/molbev/msae203
+  authors:
   - Nicola Alexandra Vogel
   - Joshua Daniel Rubin
   - Anders Gorm Pedersen
   - Peter Wad Sackett
   - Mikkel Winther Pedersen
   - Gabriel Renaud
-  date: '2024-04-01'
-  issued:
-  - year: 2024
-  title: 'soibean: High-resolution Taxonomic Identification of Ancient Environmental DNA Using Mitochondrial Pangenome Graphs'
-  container-title: <span class="nocase">bioRxiv</span>
-  publisher: Cold Spring Harbor Laboratory
-  page: 2024-04
 
 
 - id: librado2024widespread

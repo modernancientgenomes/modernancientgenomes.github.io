@@ -10,3 +10,4 @@ cat ../grenaud.github.io/GabrielRenaudCV_published.bib | python3 bibtex_to_yaml.
 
 add manually new entries:
 _data/citations.yaml
+make sure that the year and date are there, "publisher" should be the journal name not the publisher
