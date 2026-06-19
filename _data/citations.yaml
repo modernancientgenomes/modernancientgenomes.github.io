@@ -10,6 +10,9 @@
   number: '1'
   pages: '4868'
   publisher: Nature Publishing Group
+  issued:
+  - year: 2026
+  date: '2026-06-01'
   authors:
   - Tyler J Murchie
   - Scott L Cocker
@@ -31,6 +34,9 @@
   year: '2026'
   pages: jkag099
   publisher: Oxford University Press
+  issued:
+  - year: 2026
+  date: '2026-04-01'
   authors:
   - Jan van Waaij
   - Mads Vodder Hartmann
@@ -46,6 +52,9 @@
   number: '4'
   pages: lqaf170
   publisher: Oxford University Press
+  issued:
+  - year: 2025
+  date: '2025-12-01'
   authors:
   - Joshua Rubin
   - Jan Van Waaij
@@ -93,21 +102,6 @@
   - Annika Jochheim
   - Peter Wad Sackett
   - Antonio Fernandez-Guerra
-  - Gabriel Renaud
-
-- id: van2025charonbioRxiv
-  type: article
-  title: 'CHARON: Estimating the drift time and the number of individuals in environmental
-    DNA with diploid individuals'
-  journal: bioRxiv
-  year: '2025'
-  date: '2025-05-01'
-  pages: 2025-05
-  publisher: Cold Spring Harbor Laboratory
-  authors:
-  - Jan van Waaij
-  - Mads Vodder Hartmann
-  - Peter Wad Sackett
   - Gabriel Renaud
 
 - id: yediay2024ancient
