@@ -1,6 +1,6 @@
 ---
 name: Juliette Marie Victoire Vlieghe
-image: images/people/juliette_vlieghe.jpg
+image: images/people/mortar.jpg
 description: B.Sc
 status: alumni
 role: student
