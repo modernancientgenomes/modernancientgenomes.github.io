@@ -1,4 +1,16 @@
 
+- name: TrailMix
+  group: software
+  image: images/trailmix.png
+  link: https://www.biorxiv.org/content/10.64898/2026.11.21.768339v1
+  description: TrailMix (part of vgan) estimates the mixture proportions of ancient hominin mtDNA in environmental samples and places each contributor on the hominin mitochondrial tree, using a pangenome reference to reduce reference bias.
+  repo: grenaud/vgan
+  tags: 
+    - sedaDNA
+    - mtDNA
+    - aDNA
+
+
 - name: CHARON
   group: software
   image: images/charon.png
